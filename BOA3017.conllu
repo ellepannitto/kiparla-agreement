@@ -1,11 +1,11 @@
-# sent_id = 0
+# sent_id = BOA3017_0
 # text = eccoci qua
 1-2	eccoci	_	_	_	_	_	_	_	AlignBegin=0.4|Speaker=BO139|TID=0-0
 1	ecco	ecco	ADV	B	_	3	advmod	_	_
 2	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	3	expl	_	_
 3	qua	qua	ADV	B	_	0	root	_	Intonation=descending|Speaker=BO139|TID=0-1
 
-# sent_id = 1
+# sent_id = BOA3017_1
 # text = sarà difficilissimo raga perché tipo in quattro poi comunque {ride} ci si parla sopra {ride}
 1	sarà	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	2	cop	_	Speaker=BO139|TID=0-2
 2	difficilissimo	difficile	ADJ	A	Degree=Abs|Gender=Masc|Number=Sing	0	root	_	Speaker=BO139|TID=0-3
@@ -23,7 +23,7 @@
 14	sopra	sopra	ADV	B	_	13	advmod	_	AlignEnd=5.35|Speaker=BO139|TID=2-3
 15	{ride}	{ride}	X	X	_	13	obl	_	AlignEnd=6.17|Speaker=BO147|TID=3-0|Type=NLB
 
-# sent_id = 2
+# sent_id = BOA3017_2
 # text = dopo lo devi far te
 1	dopo	dopo	ADV	B	_	4	advmod	_	AlignBegin=5.7|Speaker=BO145|TID=4-0
 2	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	Speaker=BO145|TID=4-1
@@ -31,7 +31,7 @@
 4	far	fare	VERB	V	VerbForm=Inf	0	root	_	Speaker=BO145|TID=4-3
 5	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	4	obj	_	AlignEnd=6.64|Intonation=ascending|Speaker=BO145|TID=4-4
 
-# sent_id = 3
+# sent_id = BOA3017_3
 # text = sì già x mi sono emozionato
 1	sì	sì	INTJ	I	_	6	discourse	_	AlignEnd=7.3|Speaker=BO139|TID=5-0
 2	già	già	ADV	B	_	6	advmod	_	AlignBegin=7.79|Speaker=BO146|TID=6-0
@@ -40,13 +40,13 @@
 5	sono	essere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	Speaker=BO146|TID=6-3
 6	emozionato	emozionato	VERB	A	Gender=Masc|Number=Sing	0	root	_	AlignEnd=9.33|Overlapping=Yes|Speaker=BO146|TID=6-4
 
-# sent_id = 4
+# sent_id = BOA3017_4
 # text = ma già qua~
 1	ma	ma	CCONJ	CC	_	3	cc	_	AlignBegin=9.01|Overlapping=Yes|Speaker=BO145|TID=7-0
 2	già	già	ADV	B	_	3	advmod	_	Overlapping=Yes|Speaker=BO145|TID=7-1
 3	qua~	quattro	NUM	B	_	0	root	_	Interrupted=Yes|Speaker=BO145|TID=7-2
 
-# sent_id = 5
+# sent_id = BOA3017_5
 # text = cioè quattro poi sono tanti
 1	cioè	cioè	CCONJ	CC	_	5	cc	_	PaceFast=Yes|Speaker=BO145|TID=7-3
 2	quattro	quattro	NUM	N	NumType=Card	5	nsubj	_	Speaker=BO145|TID=7-4
@@ -54,7 +54,7 @@
 4	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	Overlapping=Yes|Speaker=BO145|TID=7-6
 5	tanti	tanto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	0	root	_	AlignEnd=11.24|Overlapping=Yes|Speaker=BO145|TID=7-7
 
-# sent_id = 6
+# sent_id = BOA3017_6
 # text = ma ti devi a~ anche autot autotrascrivere
 1	ma	ma	CCONJ	CC	_	3	cc	_	AlignBegin=10.31|Overlapping=Yes|Speaker=BO147|TID=8-0
 2	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	3	obj	_	Overlapping=Yes|Speaker=BO147|TID=8-1
@@ -64,7 +64,7 @@
 6	autot	autot	NOUN	S	_	3	obl	_	Interrupted=Yes|Speaker=BO147|TID=8-5
 7	autotrascrivere	autotrascrivere	VERB	V	VerbForm=Inf	3	xcomp	_	AlignEnd=12.7|Intonation=ascending|Speaker=BO147|TID=8-6
 
-# sent_id = 7
+# sent_id = BOA3017_7
 # text = sì x sì mi sto inculando in questo momento
 1	sì	sì	INTJ	I	_	6	discourse	_	AlignEnd=13.17|Speaker=BO139|TID=9-0
 2	x	per	ADP	E	_	3	case	_	AlignEnd=13.345|Speaker=BO146|TID=10-0|Type=unknown
@@ -76,7 +76,7 @@
 8	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	9	det	_	Speaker=BO139|TID=12-4
 9	momento	momento	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	Overlapping=Yes|Speaker=BO139|TID=12-5
 
-# sent_id = 8
+# sent_id = BOA3017_8
 # text = non è che sto facendo il tirocinio
 1	non	non	ADV	BN	PronType=Neg	2	advmod	_	Overlapping=Yes|Speaker=BO139|TID=12-6
 2	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Overlapping=Yes|Speaker=BO139|TID=12-7
@@ -86,13 +86,13 @@
 6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Speaker=BO139|TID=12-11
 7	tirocinio	tirocinio	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	AlignEnd=17.055|Speaker=BO139|TID=12-12
 
-# sent_id = 9
+# sent_id = BOA3017_9
 # text = ah bene {ride}
 1	ah	ah	INTJ	I	_	2	discourse	_	AlignBegin=14.995|Overlapping=Yes|Speaker=BO147|TID=13-0
 2	bene	bene	ADV	B	_	0	root	_	AlignEnd=15.935|Overlapping=Yes|Speaker=BO147|TID=13-1
 3	{ride}	{ride}	X	I	_	2	discourse	_	AlignEnd=17.815|Speaker=BO139|TID=14-0|Type=NLB
 
-# sent_id = 10
+# sent_id = BOA3017_10
 # text = se poi arriva pure francesco
 1	se	se	SCONJ	CS	_	3	mark	_	AlignBegin=17.55|Speaker=BO146|TID=15-0
 2	poi	poi	ADV	B	_	3	advmod	_	Speaker=BO146|TID=15-1
@@ -100,7 +100,7 @@
 4	pure	pure	ADV	B	_	3	advmod	_	Speaker=BO146|TID=15-3
 5	francesco	francesco	PROPN	SP	_	3	nsubj	_	Speaker=BO146|TID=15-4
 
-# sent_id = 11
+# sent_id = BOA3017_11
 # text = ciao {ride} {ride} {ride} {ride} alé
 1	ciao	ciao	X	SW	Foreign=Yes	0	root	_	AlignEnd=18.51|Speaker=BO146|TID=15-5
 2	{ride}	{ride}	X	SW	Foreign=Yes	1	flat:foreign	_	AlignEnd=19.23|Speaker=BO147|TID=16-0|Type=NLB
@@ -109,7 +109,7 @@
 5	{ride}	{ride}	X	SW	Foreign=Yes	1	flat:foreign	_	AlignEnd=19.23|Speaker=BO146|TID=19-0|Type=NLB
 6	alé	alé	X	I	_	1	discourse	_	AlignBegin=19.9|Speaker=BO145|TID=20-0
 
-# sent_id = 12
+# sent_id = BOA3017_12
 # text = lì è la fine x {ride} non saprei come scrivere 'mbare però {ride} {ride} apostrofo {ride}
 1	lì	lì	ADV	B	_	4	advmod	_	Speaker=BO145|TID=20-1
 2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	Speaker=BO145|TID=20-2
@@ -128,7 +128,7 @@
 15	apostrofo	apostrofo	X	SW	_	13	flat:foreign	_	AlignBegin=28.267|Speaker=BO139|TID=24-0
 16	{ride}	{ride}	X	X	_	13	flat:foreign	_	AlignEnd=29.32|Speaker=BO139|TID=24-1|Type=NLB
 
-# sent_id = 13
+# sent_id = BOA3017_13
 # text = sì apostrofo 'mbare mh c'è sempre la prima volta mh {ride} x {ride}
 1	sì	sì	INTJ	I	_	2	discourse	_	AlignBegin=29.322|Intonation=descending|Speaker=BO145|TID=25-0
 2	apostrofo	apostrofare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO145|TID=25-1
@@ -145,7 +145,7 @@
 13	x	x	X	X	_	14	case	_	AlignEnd=36.387|Speaker=BO146|TID=29-0|Type=unknown
 14	{ride}	{ride}	X	X	_	11	flat:foreign	_	AlignEnd=38.917|Speaker=BO139|TID=30-0|Type=NLB
 
-# sent_id = 14
+# sent_id = BOA3017_14
 # text = quindi col pane cosa dobbiamo cosa fare
 1	quindi	quindi	ADV	B	_	6	advmod	_	AlignBegin=40.227|Speaker=BO147|TID=31-0
 2-3	col	_	_	_	_	_	_	_	Speaker=BO147|TID=31-1
@@ -157,11 +157,11 @@
 7	cosa	cosa	PRON	PQ	PronType=Int	8	obj	_	Speaker=BO147|TID=31-5
 8	fare	fare	VERB	V	VerbForm=Inf	6	ccomp	_	AlignEnd=42.057|Intonation=ascending|Speaker=BO147|TID=31-6
 
-# sent_id = 15
+# sent_id = BOA3017_15
 # text = no
 1	no	no	INTJ	I	_	0	root	_	AlignBegin=42.407|Speaker=BO146|TID=32-0
 
-# sent_id = 16
+# sent_id = BOA3017_16
 # text = p~ eh a a prendere un caffè
 1	p~	p~	X	X	_	5	discourse	_	Interrupted=Yes|ProsodicLink=Yes|Speaker=BO146|TID=32-1
 2	eh	eh	INTJ	I	_	5	discourse	_	Speaker=BO146|TID=32-2
@@ -171,7 +171,7 @@
 6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Speaker=BO146|TID=32-6
 7	caffè	caffè	NOUN	S	Gender=Masc	5	obj	_	AlignEnd=44.427|Speaker=BO146|TID=32-7
 
-# sent_id = 17
+# sent_id = BOA3017_17
 # text = poi se vuoi fare aperitivo fai quello x da pallotti
 1	poi	poi	ADV	B	_	6	advmod	_	AlignBegin=44.492|Overlapping=Yes|Speaker=BO146|TID=33-0
 2	se	se	SCONJ	CS	_	4	mark	_	Overlapping=Yes|Speaker=BO146|TID=33-1
@@ -184,13 +184,13 @@
 9	da	da	ADP	E	_	10	case	_	AlignBegin=46.877|Speaker=BO146|TID=35-0
 10	pallotti	pallotto	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	AlignEnd=47.547|Speaker=BO146|TID=35-1
 
-# sent_id = 18
+# sent_id = BOA3017_18
 # text = quando {ride} x
 1	quando	quando	SCONJ	CS	_	2	mark	_	AlignEnd=48.977|Speaker=BO145|TID=36-0
 2	{ride}	{ride}	X	X	_	0	root	_	AlignEnd=49.872|Speaker=BO146|TID=37-0|Type=NLB
 3	x	x	X	X	_	2	dep	_	AlignBegin=49.327|Speaker=BO147|TID=38-0|Type=unknown
 
-# sent_id = 19
+# sent_id = BOA3017_19
 # text = ma io da pallotti ci piglio le paste
 1	ma	ma	CCONJ	CC	_	6	cc	_	Speaker=BO147|TID=38-1
 2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Speaker=BO147|TID=38-2
@@ -201,7 +201,7 @@
 7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	Speaker=BO147|TID=38-7
 8	paste	pasta	NOUN	S	Gender=Fem|Number=Plur	6	obj	_	Speaker=BO147|TID=38-8
 
-# sent_id = 20
+# sent_id = BOA3017_20
 # text = cioè ci prendo mh le brio~
 1	cioè	cioè	CCONJ	CC	_	3	cc	_	PaceFast=Yes|Prolonged=Yes|Speaker=BO147|TID=38-9
 2	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	3	expl	_	Speaker=BO147|TID=38-10
@@ -210,12 +210,12 @@
 5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	Overlapping=Yes|Speaker=BO147|TID=38-13
 6	brio~	brioche	NOUN	S	_	3	obj	_	AlignEnd=52.997|Interrupted=Yes|Overlapping=Yes|Speaker=BO147|TID=38-14
 
-# sent_id = 21
+# sent_id = BOA3017_21
 # text = le lasagne
 1	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	AlignBegin=51.927|Overlapping=Yes|Speaker=BO146|TID=39-0
 2	lasagne	lasagna	NOUN	S	Gender=Fem|Number=Plur	0	root	_	AlignEnd=52.887|Overlapping=Yes|Speaker=BO146|TID=39-1
 
-# sent_id = 22
+# sent_id = BOA3017_22
 # text = ah non x le brioche x cristobellotti x {P} mh ce n'ha poche
 1	ah	ah	INTJ	I	_	5	discourse	_	AlignEnd=53.62|Overlapping=Yes|Speaker=BO147|TID=40-0
 2	non	non	ADV	BN	PronType=Neg	5	advmod	_	AlignBegin=53.503|Overlapping=Yes|Speaker=BO146|TID=41-0
@@ -232,17 +232,17 @@
 13	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	parataxis	_	Speaker=BO146|TID=43-5
 14	poche	poco	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	13	obj	_	AlignEnd=57.563|Speaker=BO146|TID=43-6
 
-# sent_id = 23
+# sent_id = BOA3017_23
 # text = come no
 1	come	come	ADV	B	_	2	advmod	_	AlignBegin=55.658|Overlapping=Yes|Speaker=BO147|TID=44-0
 2	no	no	INTJ	I	_	0	root	_	AlignEnd=56.358|Overlapping=Yes|Speaker=BO147|TID=44-1
 
-# sent_id = 24
+# sent_id = BOA3017_24
 # text = che palle
 1	che	che	DET	DE	PronType=Exc	2	det	_	AlignBegin=57.883|Speaker=BO147|TID=45-0
 2	palle	palla	NOUN	S	Gender=Fem|Number=Plur	0	root	_	AlignEnd=59.063|Speaker=BO147|TID=45-1
 
-# sent_id = 25
+# sent_id = BOA3017_25
 # text = beh pigli un dolcino se no glielo chiedi se c'ha le brioche oppure se te le fa mh x a parte che no perché scivola
 1	beh	beh	INTJ	I	_	2	discourse	_	AlignBegin=60.928|Speaker=BO146|TID=46-0
 2	pigli	piglio	NOUN	S	Gender=Masc|Number=Plur	0	root	_	Overlapping=Yes|Speaker=BO146|TID=46-1
@@ -273,7 +273,7 @@
 26	perché	perché	SCONJ	CS	_	27	mark	_	Overlapping=Yes|Speaker=BO145|TID=50-1
 27	scivola	scivolare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	advcl	_	AlignEnd=66.488|Speaker=BO145|TID=50-2
 
-# sent_id = 26
+# sent_id = BOA3017_26
 # text = a parte che pallotti fa anche il coso
 1	a	a	ADP	E	_	2	case	_	AlignBegin=67.238|Speaker=BO147|TID=51-0
 2	parte	parte	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	Speaker=BO147|TID=51-1
@@ -284,20 +284,20 @@
 7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	Speaker=BO147|TID=51-6
 8	coso	coso	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	AlignEnd=69.098|Speaker=BO147|TID=51-7
 
-# sent_id = 27
+# sent_id = BOA3017_27
 # text = l'aperitivo
 1	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	AlignBegin=69.343|SpaceAfter=No|Speaker=BO147|TID=52-0|Truncated=Yes
 2	aperitivo	aperitivo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	Speaker=BO147|TID=52-1
 
-# sent_id = 28
+# sent_id = BOA3017_28
 # text = no
 1	no	no	INTJ	I	_	0	root	_	AlignEnd=69.983|Intonation=ascending|Speaker=BO147|TID=52-2
 
-# sent_id = 29
+# sent_id = BOA3017_29
 # text = sì
 1	sì	sì	INTJ	I	_	0	root	_	AlignBegin=71.058|Speaker=BO146|TID=53-0|Volume=low
 
-# sent_id = 30
+# sent_id = BOA3017_30
 # text = non so come lo fa cioè mi sa che costa
 1	non	non	ADV	BN	PronType=Neg	2	advmod	_	Speaker=BO146|TID=53-1|Volume=low
 2	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO146|TID=53-2|Volume=low
@@ -310,7 +310,7 @@
 9	che	che	SCONJ	CS	PronType=Rel	10	mark	_	Speaker=BO145|TID=54-2
 10	costa	costare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	AlignEnd=74.108|Speaker=BO145|TID=54-3
 
-# sent_id = 31
+# sent_id = BOA3017_31
 # text = vabbè però è anche è anche ristorante
 1	vabbè	vabbè	INTJ	I	_	7	discourse	_	AlignBegin=74.223|Speaker=BO147|TID=55-0
 2	però	però	ADV	B	_	7	advmod	_	Speaker=BO147|TID=55-1
@@ -320,7 +320,7 @@
 6	anche	anche	ADV	B	_	7	advmod	_	Speaker=BO147|TID=56-1
 7	ristorante	ristorante	NOUN	S	Gender=Masc|Number=Sing	0	root	_	AlignEnd=76.81|Speaker=BO147|TID=56-2
 
-# sent_id = 32
+# sent_id = BOA3017_32
 # text = quella volta che ci siamo andati noi non c'era un granché mi pare
 1	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	AlignBegin=78.918|Speaker=BO146|TID=57-0
 2	volta	volta	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	Speaker=BO146|TID=57-1
@@ -337,7 +337,7 @@
 13	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	14	iobj	_	Speaker=BO146|TID=57-12
 14	pare	parere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	parataxis	_	AlignEnd=81|Speaker=BO146|TID=57-13
 
-# sent_id = 33
+# sent_id = BOA3017_33
 # text = mh non c'era niente
 1	mh	mh	INTJ	I	_	4	discourse	_	AlignEnd=81.304|Speaker=BO145|TID=58-0
 2	non	non	ADV	BN	PronType=Neg	4	advmod	_	AlignBegin=81.319|Speaker=BO146|TID=59-0
@@ -345,18 +345,18 @@
 4	era	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	Speaker=BO146|TID=59-2
 5	niente	niente	PRON	PI	PronType=Ind	4	nsubj	_	AlignEnd=81.989|Speaker=BO146|TID=59-3
 
-# sent_id = 34
+# sent_id = BOA3017_34
 # text = la rapa c'era
 1	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	AlignBegin=82.6|Speaker=BO145|TID=60-0
 2	rapa	rapa	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	Speaker=BO145|TID=60-1
 3	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	expl	_	SpaceAfter=No|Speaker=BO145|TID=60-2|Truncated=Yes
 4	era	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	AlignEnd=83.39|Speaker=BO145|TID=60-3
 
-# sent_id = 35
+# sent_id = BOA3017_35
 # text = sì
 1	sì	sì	INTJ	I	_	0	root	_	AlignBegin=84.404|Speaker=BO146|TID=61-0
 
-# sent_id = 36
+# sent_id = BOA3017_36
 # text = ma roba da banco mh mh {ride} non parli {ride} così
 1	ma	ma	CCONJ	CC	_	2	cc	_	Speaker=BO146|TID=61-1
 2	roba	roba	NOUN	S	Gender=Fem|Number=Sing	9	parataxis	_	Speaker=BO146|TID=61-2
@@ -370,17 +370,17 @@
 10	{ride}	{ride}	NOUN	S	_	9	obj	_	AlignEnd=93.444|Speaker=BO145|TID=65-0|Type=NLB
 11	così	così	ADV	B	_	9	advmod	_	AlignBegin=93.469|Speaker=BO139|TID=66-0
 
-# sent_id = 37
+# sent_id = BOA3017_37
 # text = non mi trascrivo
 1	non	non	ADV	BN	PronType=Neg	3	advmod	_	Speaker=BO139|TID=66-1
 2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	expl	_	Speaker=BO139|TID=66-2
 3	trascrivo	trascrivere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO139|TID=66-3
 
-# sent_id = 38
+# sent_id = BOA3017_38
 # text = no
 1	no	no	INTJ	I	_	0	root	_	Speaker=BO139|TID=66-4
 
-# sent_id = 39
+# sent_id = BOA3017_39
 # text = c'ho la bocca piena
 1	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	2	expl	_	SpaceAfter=No|Speaker=BO139|TID=66-5|Truncated=Yes
 2	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO139|TID=66-6
@@ -388,7 +388,7 @@
 4	bocca	bocca	NOUN	S	Gender=Fem|Number=Sing	2	nsubj	_	Speaker=BO139|TID=66-8
 5	piena	pieno	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	AlignEnd=95.379|Speaker=BO139|TID=66-9
 
-# sent_id = 40
+# sent_id = BOA3017_40
 # text = l'altra volta controllavo di averlo avviato effetivamente perché ero da un notaio e doveva esserci anche mio babbo ma non poteva venire
 1	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	AlignBegin=97.269|SpaceAfter=No|Speaker=BO139|TID=67-0|Truncated=Yes
 2	altra	altro	DET	DI	PronType=Ind	3	det	_	Speaker=BO139|TID=67-1
@@ -418,7 +418,7 @@
 24	poteva	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	25	aux	_	Speaker=BO139|TID=69-8
 25	venire	venire	VERB	V	VerbForm=Inf	4	conj	_	AlignEnd=105.55|Speaker=BO139|TID=69-9
 
-# sent_id = 41
+# sent_id = BOA3017_41
 # text = quindi volevo registrare l'incontro
 1	quindi	quindi	ADV	B	_	3	advmod	_	AlignBegin=105.55|Speaker=BO139|TID=70-0
 2	volevo	volere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	3	aux	_	Speaker=BO139|TID=70-1
@@ -426,20 +426,20 @@
 4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No|Speaker=BO139|TID=70-3|Truncated=Yes
 5	incontro	incontro	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	AlignEnd=106.939|Speaker=BO139|TID=70-4
 
-# sent_id = 42
+# sent_id = BOA3017_42
 # text = mh eh mh niente
 1	mh	mh	INTJ	I	_	4	discourse	_	AlignEnd=107.419|Speaker=BO147|TID=71-0
 2	eh	eh	INTJ	I	_	4	discourse	_	AlignBegin=107.844|Prolonged=Yes|ProsodicLink=Yes|Speaker=BO139|TID=72-0
 3	mh	mh	INTJ	I	_	4	discourse	_	AlignEnd=108.564|Prolonged=Yes|Speaker=BO139|TID=72-1
 4	niente	niente	PRON	PI	PronType=Ind	0	root	_	AlignBegin=108.919|Speaker=BO139|TID=73-0
 
-# sent_id = 43
+# sent_id = BOA3017_43
 # text = tipo ho schiacciato
 1	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	AlignEnd=109.849|Speaker=BO139|TID=73-1
 2	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	AlignBegin=110.189|Speaker=BO139|TID=74-0
 3	schiacciato	schiacciare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	parataxis	_	Speaker=BO139|TID=74-1
 
-# sent_id = 44
+# sent_id = BOA3017_44
 # text = si vede tipo due volte velocemente
 1	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	2	expl:impers	_	Speaker=BO139|TID=74-2
 2	vede	vedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO139|TID=74-3
@@ -448,7 +448,7 @@
 5	volte	volta	NOUN	S	Gender=Fem|Number=Plur	2	obl	_	Speaker=BO139|TID=74-6
 6	velocemente	velocemente	ADV	B	_	2	advmod	_	AlignEnd=112.489|Speaker=BO139|TID=74-7
 
-# sent_id = 45
+# sent_id = BOA3017_45
 # text = alla fine dell'incontro avevo tipo registrato x
 1-2	alla	_	_	_	_	_	_	_	AlignBegin=112.884|PaceFast=Yes|Speaker=BO139|TID=75-0
 1	a	a	ADP	E	_	3	case	_	_
@@ -463,7 +463,7 @@
 9	registrato	registrare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	acl	_	Speaker=BO139|TID=75-6
 10	x	per	ADP	X	_	9	dep	_	Speaker=BO139|TID=75-7|Type=unknown
 
-# sent_id = 46
+# sent_id = BOA3017_46
 # text = tipo due secondi {ride} {ride} {ride} si sentiva solo pshhh io che mi siedo sulla sedia e basta {ride}
 1	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	Speaker=BO139|TID=75-8
 2	due	due	NUM	N	NumType=Card	3	nummod	_	Speaker=BO139|TID=75-9
@@ -487,7 +487,7 @@
 19	basta	bastare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	conj	_	AlignEnd=120.63|Speaker=BO139|TID=79-7
 20	{ride}	{ride}	X	S	_	19	obj	_	AlignEnd=121.354|Speaker=BO145|TID=80-0|Type=NLB
 
-# sent_id = 47
+# sent_id = BOA3017_47
 # text = quindi giusto per essere sicuro
 1	quindi	quindi	ADV	B	_	2	advmod	_	AlignBegin=121.399|PaceFast=Yes|Speaker=BO139|TID=81-0
 2	giusto	giusto	ADV	B	_	0	root	_	Speaker=BO139|TID=81-1
@@ -495,15 +495,15 @@
 4	essere	essere	AUX	V	VerbForm=Inf	5	cop	_	Speaker=BO139|TID=81-3
 5	sicuro	sicuro	ADJ	A	Gender=Masc|Number=Sing	2	advcl	_	AlignEnd=122.819|Overlapping=Yes|Speaker=BO139|TID=81-4
 
-# sent_id = 48
+# sent_id = BOA3017_48
 # text = bellissimo
 1	bellissimo	bello	ADJ	A	Degree=Abs|Gender=Masc|Number=Sing	0	root	_	AlignBegin=122.464|Overlapping=Yes|Speaker=BO145|TID=82-0
 
-# sent_id = 49
+# sent_id = BOA3017_49
 # text = qua~
 1	qua~	qua~	ADV	B	_	0	root	_	Interrupted=Yes|Speaker=BO145|TID=82-1
 
-# sent_id = 50
+# sent_id = BOA3017_50
 # text = ci metti quattro secondi a trascrivere quella cosa {ride} {ride}
 1	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	2	expl	_	Speaker=BO145|TID=82-2
 2	metti	mettere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO145|TID=82-3
@@ -516,7 +516,7 @@
 9	{ride}	{ride}	X	SW	Foreign=Yes	2	discourse	_	AlignEnd=125.732|Speaker=BO139|TID=83-0|Type=NLB
 10	{ride}	{ride}	X	X	_	2	discourse	_	AlignEnd=127.262|Speaker=BO139|TID=84-0|Type=NLB
 
-# sent_id = 51
+# sent_id = BOA3017_51
 # text = ma quanti minuti devono essere
 1	ma	ma	CCONJ	CC	_	3	cc	_	AlignBegin=127.462|Speaker=BO147|TID=85-0
 2	quanti	quanto	DET	DQ	Gender=Masc|Number=Plur|PronType=Int	3	det	_	Speaker=BO147|TID=85-1
@@ -524,7 +524,7 @@
 4	devono	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	Speaker=BO147|TID=85-3
 5	essere	essere	AUX	V	VerbForm=Inf	3	cop	_	AlignEnd=129.181|Intonation=ascending|Speaker=BO147|TID=85-4
 
-# sent_id = 52
+# sent_id = BOA3017_52
 # text = mh quel che capita l'altra volta
 1	mh	mh	INTJ	I	_	2	discourse	_	AlignEnd=130.017|Speaker=BO139|TID=86-0
 2	quel	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	AlignBegin=130.472|Speaker=BO139|TID=87-0
@@ -534,7 +534,7 @@
 6	altra	altro	DET	DI	PronType=Ind	7	det	_	Speaker=BO139|TID=88-1
 7	volta	volta	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	Speaker=BO139|TID=88-2
 
-# sent_id = 53
+# sent_id = BOA3017_53
 # text = tipo ho registrato la mia coinquilina x
 1	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	Speaker=BO139|TID=88-3
 2	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	Speaker=BO139|TID=88-4
@@ -544,7 +544,7 @@
 6	coinquilina	coinquilina	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	Speaker=BO139|TID=88-8
 7	x	per	X	X	_	3	discourse	_	AlignEnd=133.797|Overlapping=Yes|Speaker=BO139|TID=88-9|Type=unknown
 
-# sent_id = 54
+# sent_id = BOA3017_54
 # text = ma tanto devi fare duecentocinquanta ore
 1	ma	ma	CCONJ	CC	_	4	cc	_	AlignBegin=133.357|Overlapping=Yes|Speaker=BO147|TID=89-0
 2	tanto	tanto	ADV	B	_	4	advmod	_	Overlapping=Yes|Speaker=BO147|TID=89-1
@@ -553,7 +553,7 @@
 5	duecentocinquanta	duecentocinquanta	NUM	N	NumType=Card	6	nummod	_	Speaker=BO147|TID=89-4
 6	ore	ora	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	Speaker=BO147|TID=89-5
 
-# sent_id = 55
+# sent_id = BOA3017_55
 # text = puoi farle anche di sessanta ore
 1	puoi	potere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	Speaker=BO147|TID=89-6
 2-3	farle	_	_	_	_	_	_	_	Speaker=BO147|TID=89-7
@@ -564,13 +564,13 @@
 6	sessanta	sessanta	NUM	N	NumType=Card	7	nummod	_	Prolonged=Yes|Speaker=BO147|TID=89-10
 7	ore	ora	NOUN	S	Gender=Fem|Number=Plur	2	obl	_	Speaker=BO147|TID=89-11
 
-# sent_id = 56
+# sent_id = BOA3017_56
 # text = x audio {ride}
 1	x	per	X	E	_	2	discourse	_	Speaker=BO147|TID=89-12|Type=unknown
 2	audio	audio	X	SW	Foreign=Yes	0	root	_	AlignEnd=138.067|Speaker=BO147|TID=89-13
 3	{ride}	{ride}	X	X	_	2	discourse	_	AlignEnd=135.937|Speaker=BO139|TID=90-0|Type=NLB
 
-# sent_id = 57
+# sent_id = BOA3017_57
 # text = volete stare in bisca fino a le quattro di il mattino stanotte mh eh ne fai una di dodici ore mh parlare costantemente per dodici ore però è {P} tosta eh mh per me non è un problema
 1	volete	volere	AUX	VM	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	AlignBegin=138.117|Speaker=BO139|TID=91-0
 2	stare	stare	VERB	V	VerbForm=Inf	0	root	_	Speaker=BO139|TID=91-1
@@ -611,7 +611,7 @@
 37	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	38	det	_	Speaker=BO139|TID=99-4
 38	problema	problema	NOUN	S	Gender=Masc|Number=Sing	2	parataxis	_	Speaker=BO139|TID=99-5
 
-# sent_id = 58
+# sent_id = BOA3017_58
 # text = però voglio dire {ride} infatti {ride} {ride} {ride} un monologo di andrea verdi
 1	però	però	ADV	B	_	3	advmod	_	Speaker=BO139|TID=99-6
 2	voglio	volere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	Speaker=BO139|TID=99-7
@@ -627,14 +627,14 @@
 12	andrea	andrea	PROPN	SP	_	10	nmod	_	Speaker=BO145|TID=104-3
 13	verdi	verde	PROPN	SP	_	12	flat:name	_	Speaker=BO145|TID=104-4
 
-# sent_id = 59
+# sent_id = BOA3017_59
 # text = per dodici ore {ride}
 1	per	per	ADP	E	_	3	case	_	Speaker=BO145|TID=104-5
 2	dodici	dodici	NUM	N	NumType=Card	3	nummod	_	Speaker=BO145|TID=104-6
 3	ore	ora	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	AlignEnd=160.007|Speaker=BO145|TID=104-7
 4	{ride}	{ride}	X	X	_	0	root	_	AlignEnd=160.577|Speaker=BO139|TID=105-0|Type=NLB
 
-# sent_id = 60
+# sent_id = BOA3017_60
 # text = mh mh dopo c'è chi te lo controlla
 1	mh	mh	INTJ	I	_	5	discourse	_	AlignBegin=160.657|Speaker=BO139|TID=106-0
 2	mh	mh	INTJ	I	_	5	discourse	_	AlignEnd=161.047|Speaker=BO139|TID=106-1
@@ -646,12 +646,12 @@
 8	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	Speaker=BO147|TID=107-5
 9	controlla	controllare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	Speaker=BO147|TID=107-6
 
-# sent_id = 61
+# sent_id = BOA3017_61
 # text = ovviamente sì
 1	ovviamente	ovviamente	ADV	B	_	2	advmod	_	AlignEnd=164.127|Speaker=BO147|TID=107-7
 2	sì	sì	INTJ	I	_	0	root	_	AlignEnd=164.387|Speaker=BO139|TID=108-0
 
-# sent_id = 62
+# sent_id = BOA3017_62
 # text = cioè ascolta prima l'audio
 1	cioè	cioè	CCONJ	CC	_	2	cc	_	AlignBegin=164.512|PaceFast=Yes|Speaker=BO147|TID=109-0
 2	ascolta	ascoltare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO147|TID=109-1
@@ -659,7 +659,7 @@
 4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No|Speaker=BO147|TID=109-3|Truncated=Yes
 5	audio	audio	PROPN	SP	_	2	obj	_	Speaker=BO147|TID=109-4
 
-# sent_id = 63
+# sent_id = BOA3017_63
 # text = poi vede se sì cioè guarda in un software
 1	poi	poi	ADV	B	_	2	advmod	_	Speaker=BO147|TID=109-5
 2	vede	vedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO147|TID=109-6
@@ -671,7 +671,7 @@
 8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	Speaker=BO139|TID=110-4
 9	software	software	NOUN	S	Gender=Masc	6	obl	_	AlignEnd=168.68|Speaker=BO139|TID=110-5
 
-# sent_id = 64
+# sent_id = BOA3017_64
 # text = vede cioè sopra tipo vedi proprio l'onda audio non so se hai presente mh mh eh mh e sotto ci sono i vari segmenti che tu crei per sincronizzare {P} il testo scritto all'audio
 1	vede	vedere	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignEnd=169.375|Speaker=BO139|TID=111-0
 2	cioè	cioè	ADV	B	_	1	advmod	_	AlignBegin=169.585|PaceFast=Yes|Speaker=BO139|TID=112-0
@@ -712,7 +712,7 @@
 36	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	37	det	_	_
 37	audio	audio	PROPN	SP	_	34	obl	_	AlignEnd=178.382|Intonation=weakly_ascending|Speaker=BO139|TID=116-6
 
-# sent_id = 65
+# sent_id = BOA3017_65
 # text = mh mh e x se corrisponde mh eh
 1	mh	mh	INTJ	I	_	6	discourse	_	AlignEnd=177.817|Overlapping=Yes|Speaker=BO146|TID=117-0
 2	mh	mh	INTJ	I	_	6	discourse	_	AlignEnd=178.847|Speaker=BO146|TID=118-0
@@ -723,7 +723,7 @@
 7	mh	mh	INTJ	I	_	6	discourse	_	AlignBegin=180.372|ProsodicLink=Yes|Speaker=BO139|TID=120-0
 8	eh	eh	INTJ	I	_	6	discourse	_	Speaker=BO139|TID=120-1
 
-# sent_id = 66
+# sent_id = BOA3017_66
 # text = tipo un errore che ho fatto spesso è tipo devo segnare le sovrapposizioni
 1	tipo	tipare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	parataxis	_	Speaker=BO139|TID=120-2
 2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	Speaker=BO139|TID=120-3
@@ -739,7 +739,7 @@
 12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	Speaker=BO139|TID=120-13
 13	sovrapposizioni	sovrapposizione	NOUN	S	Gender=Fem|Number=Plur	11	obj	_	AlignEnd=183.5|Speaker=BO139|TID=120-14
 
-# sent_id = 67
+# sent_id = BOA3017_67
 # text = quando si parlano sopra ah okay
 1	quando	quando	SCONJ	CS	_	3	mark	_	AlignBegin=183.527|Speaker=BO139|TID=121-0
 2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl	_	Speaker=BO139|TID=121-1
@@ -748,7 +748,7 @@
 5	ah	ah	INTJ	I	_	3	discourse	_	AlignBegin=184.627|Speaker=BO146|TID=122-0
 6	okay	okay	INTJ	I	_	3	discourse	_	AlignEnd=184.97|Speaker=BO146|TID=122-1
 
-# sent_id = 68
+# sent_id = BOA3017_68
 # text = devi mettere delle parentesi quadre intorno alle parole ah okay che si sovrappongono come nei sottotitoli
 1	devi	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	AlignBegin=184.972|Speaker=BO139|TID=123-0
 2	mettere	mettere	VERB	V	VerbForm=Inf	0	root	_	Speaker=BO139|TID=123-1
@@ -771,7 +771,7 @@
 17	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
 18	sottotitoli	sottotitolo	NOUN	S	Gender=Masc|Number=Plur	14	obl	_	AlignEnd=191.293|Speaker=BO146|TID=126-2
 
-# sent_id = 69
+# sent_id = BOA3017_69
 # text = esatto infatti io {P} sto
 1	esatto	esatto	ADJ	A	Gender=Masc|Number=Sing	0	root	_	AlignEnd=192.058|Speaker=BO139|TID=127-0
 2	infatti	infatti	ADV	B	_	1	advmod	_	AlignBegin=193.293|Speaker=BO139|TID=128-0
@@ -779,7 +779,7 @@
 4	{P}	{p}	SYM	SYM	_	5	discourse	_	Speaker=BO139|TID=128-2|Type=shortpause
 5	sto	stare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	parataxis	_	AlignEnd=194.363|Overlapping=Yes|Speaker=BO139|TID=128-3
 
-# sent_id = 70
+# sent_id = BOA3017_70
 # text = infatti te potresti fare il sottoxx quello che fa i sottotitoli
 1	infatti	infatti	ADV	B	_	4	advmod	_	AlignBegin=194.003|Overlapping=Yes|PaceFast=Yes|Speaker=BO147|TID=129-0
 2	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	4	iobj	_	Overlapping=Yes|Speaker=BO147|TID=129-1
@@ -793,7 +793,7 @@
 10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	Speaker=BO147|TID=129-9
 11	sottotitoli	sottotitolo	NOUN	S	Gender=Masc|Number=Plur	9	obj	_	AlignEnd=196.783|Overlapping=Yes|Speaker=BO147|TID=129-10
 
-# sent_id = 71
+# sent_id = BOA3017_71
 # text = sottotitolatore pure te mh boh
 1	sottotitolatore	sottotitolatore	NOUN	S	Gender=Masc|Number=Sing	0	root	_	AlignEnd=197.348|Overlapping=Yes|Speaker=BO145|TID=130-0
 2	pure	pure	ADV	B	_	1	advmod	_	AlignBegin=196.628|Overlapping=Yes|Speaker=BO146|TID=131-0
@@ -801,7 +801,7 @@
 4	mh	mh	INTJ	I	_	1	discourse	_	AlignEnd=197.688|Speaker=BO139|TID=132-0
 5	boh	boh	INTJ	I	_	1	discourse	_	AlignBegin=198.908|Speaker=BO147|TID=133-0|Volume=low
 
-# sent_id = 72
+# sent_id = BOA3017_72
 # text = vedendo vedendo le trascrizioni d'inglese le translation eh {ride} sì sì è un software
 1	vedendo	vedere	VERB	V	VerbForm=Ger	15	advcl	_	Overlapping=Yes|Speaker=BO147|TID=133-1|Volume=low
 2	vedendo	vedere	VERB	V	VerbForm=Ger	1	advcl	_	Overlapping=Yes|Speaker=BO147|TID=133-2
@@ -819,7 +819,7 @@
 14	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	Overlapping=Yes|Speaker=BO139|TID=134-3
 15	software	software	NOUN	S	Gender=Masc	0	root	_	AlignEnd=200.508|Overlapping=Yes|Speaker=BO139|TID=134-4
 
-# sent_id = 73
+# sent_id = BOA3017_73
 # text = vabbè x fai con calma
 1	vabbè	vabbè	INTJ	I	_	3	discourse	_	AlignBegin=202.248|Overlapping=Yes|Speaker=BO146|TID=135-0
 2	x	per	ADP	E	_	3	mark	_	Overlapping=Yes|Speaker=BO146|TID=135-1|Type=unknown
@@ -827,7 +827,7 @@
 4	con	con	ADP	E	_	5	case	_	Overlapping=Yes|Speaker=BO146|TID=135-3
 5	calma	calma	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	AlignEnd=203.988|Overlapping=Yes|Speaker=BO146|TID=135-4
 
-# sent_id = 74
+# sent_id = BOA3017_74
 # text = mh eh fai con calma sottitoli in inglese magari mh no
 1	mh	mh	INTJ	I	_	3	discourse	_	AlignBegin=204.238|ProsodicLink=Yes|Speaker=BO147|TID=136-0
 2	eh	eh	INTJ	I	_	3	discourse	_	AlignEnd=204.548|Intonation=ascending|Speaker=BO147|TID=136-1
@@ -841,7 +841,7 @@
 10	mh	mh	INTJ	I	_	3	discourse	_	AlignEnd=209.668|Speaker=BO139|TID=139-0
 11	no	no	INTJ	I	_	3	discourse	_	AlignBegin=210.598|Speaker=BO139|TID=140-0
 
-# sent_id = 75
+# sent_id = BOA3017_75
 # text = infatti il software è lo stesso
 1	infatti	infatti	ADV	B	_	6	advmod	_	Speaker=BO139|TID=140-1
 2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	Speaker=BO139|TID=140-2
@@ -850,7 +850,7 @@
 5	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Speaker=BO139|TID=140-5
 6	stesso	stesso	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	AlignEnd=211.958|Speaker=BO139|TID=140-6
 
-# sent_id = 76
+# sent_id = BOA3017_76
 # text = cioè nel senso che eh questo che uso io è usato anche per i sottotitoli dopo lì in quel caso hai già alcune pugnette diverse
 1	cioè	cioè	CCONJ	CC	_	4	cc	_	AlignBegin=212.103|PaceFast=Yes|Speaker=BO139|TID=141-0
 2-3	nel	_	_	_	_	_	_	_	Speaker=BO139|TID=141-1
@@ -880,7 +880,7 @@
 25	pugnette	pugnetta	NOUN	S	Gender=Fem|Number=Plur	22	obj	_	Speaker=BO139|TID=142-8
 26	diverse	diverso	DET	DI	PronType=Ind	25	det	_	AlignEnd=218.208|Speaker=BO139|TID=142-9
 
-# sent_id = 77
+# sent_id = BOA3017_77
 # text = dopo però i sottotitoli c'hai anche no i sottotitoli
 1	dopo	dopo	ADP	E	_	2	case	_	AlignBegin=218.353|Overlapping=Yes|Speaker=BO147|TID=143-0
 2	però	però	ADV	B	_	6	advmod	_	Overlapping=Yes|Speaker=BO147|TID=143-1
@@ -893,7 +893,7 @@
 9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	Speaker=BO147|TID=143-8
 10	sottotitoli	sottotitolo	NOUN	S	Gender=Masc|Number=Plur	6	nsubj	_	Speaker=BO147|TID=143-9
 
-# sent_id = 78
+# sent_id = BOA3017_78
 # text = scherzavo quello è il doppiaggio
 1	scherzavo	scherzare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	Speaker=BO147|TID=143-10
 2	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	1	obj	_	Speaker=BO147|TID=143-11
@@ -901,7 +901,7 @@
 4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Speaker=BO147|TID=143-13
 5	doppiaggio	doppiaggio	NOUN	S	Gender=Masc|Number=Sing	1	parataxis	_	AlignEnd=221.463|Speaker=BO147|TID=143-14
 
-# sent_id = 79
+# sent_id = BOA3017_79
 # text = cioè il problema della bocca
 1	cioè	cioè	CCONJ	CC	_	3	advmod	_	AlignEnd=218.873|Overlapping=Yes|PaceFast=Yes|Speaker=BO139|TID=144-0
 2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	AlignBegin=221.643|Speaker=BO147|TID=145-0
@@ -911,14 +911,14 @@
 5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	bocca	bocca	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	Overlapping=Yes|Prolonged=Yes|ProsodicLink=Yes|Speaker=BO147|TID=145-3
 
-# sent_id = 80
+# sent_id = BOA3017_80
 # text = mh mh mh quelli
 1	mh	mh	INTJ	I	_	4	discourse	_	AlignEnd=223.403|Speaker=BO147|TID=145-4
 2	mh	mh	INTJ	I	_	4	discourse	_	AlignBegin=222.638|Overlapping=Yes|Speaker=BO139|TID=146-0
 3	mh	mh	INTJ	I	_	4	discourse	_	AlignEnd=222.948|Overlapping=Yes|Speaker=BO139|TID=146-1
 4	quelli	quello	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	0	root	_	AlignBegin=225.098|Speaker=BO139|TID=147-0
 
-# sent_id = 81
+# sent_id = BOA3017_81
 # text = il problema è che a volte cioè più che altro per la mh lì devi anche tipo x
 1	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Speaker=BO139|TID=147-1
 2	problema	problema	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	Speaker=BO139|TID=147-2
@@ -939,7 +939,7 @@
 17	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	15	obj	_	Speaker=BO139|TID=149-3
 18	x	per	ADP	X	_	17	nmod	_	Speaker=BO139|TID=149-4|Type=unknown
 
-# sent_id = 82
+# sent_id = BOA3017_82
 # text = devi anche vedere la parte video
 1	devi	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	Speaker=BO139|TID=149-5
 2	anche	anche	ADV	B	_	3	advmod	_	Speaker=BO139|TID=149-6
@@ -948,7 +948,7 @@
 5	parte	parte	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	Speaker=BO139|TID=149-9
 6	video	video	NOUN	S	Gender=Masc	5	compound	_	AlignEnd=232.418|Speaker=BO139|TID=149-10
 
-# sent_id = 83
+# sent_id = BOA3017_83
 # text = quando farli comparire mh eh esatto se farli scorrere
 1	quando	quando	SCONJ	CS	_	2	mark	_	AlignBegin=232.708|Speaker=BO139|TID=150-0
 2-3	farli	_	_	_	_	_	_	_	Overlapping=Yes|Speaker=BO139|TID=150-1
@@ -964,7 +964,7 @@
 10	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obj	_	_
 11	scorrere	scorrere	VERB	V	VerbForm=Inf	9	xcomp	_	Intonation=weakly_ascending|Speaker=BO139|TID=153-2
 
-# sent_id = 84
+# sent_id = BOA3017_84
 # text = quando cambiare nelle frasi lunghe e poi tradurli è un ca~
 1	quando	quando	SCONJ	CS	_	2	mark	_	Speaker=BO139|TID=153-3
 2	cambiare	cambiare	VERB	V	VerbForm=Inf	13	advcl	_	Speaker=BO139|TID=153-4
@@ -982,7 +982,7 @@
 12	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	Overlapping=Yes|Speaker=BO139|TID=154-4
 13	ca~	ca~	NOUN	S	Gender=Fem|Number=Sing	0	root	_	AlignEnd=238.78|Interrupted=Yes|Overlapping=Yes|Speaker=BO139|TID=154-5
 
-# sent_id = 85
+# sent_id = BOA3017_85
 # text = il fatto è che molto spesso non c'acchiappano cioè anche {ride} x mh
 1	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	AlignBegin=238.291|Overlapping=Yes|Speaker=BO147|TID=155-0
 2	fatto	fatto	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	Overlapping=Yes|Speaker=BO147|TID=155-1
@@ -999,7 +999,7 @@
 13	x	per	ADP	E	_	14	case	_	AlignEnd=241.751|Speaker=BO147|TID=157-0|Type=unknown
 14	mh	mh	X	X	_	12	nmod	_	AlignEnd=244.276|Speaker=BO145|TID=158-0
 
-# sent_id = 86
+# sent_id = BOA3017_86
 # text = poi tradurli è un casino perché cambia la lunghezza delle parole
 1	poi	poi	ADV	B	_	2	advmod	_	AlignBegin=245.421|Speaker=BO139|TID=159-0
 2-3	tradurli	_	_	_	_	_	_	_	Speaker=BO139|TID=159-1
@@ -1017,7 +1017,7 @@
 12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
 13	parole	parola	NOUN	S	Gender=Fem|Number=Plur	10	nmod	_	AlignEnd=247.931|Speaker=BO139|TID=159-10
 
-# sent_id = 87
+# sent_id = BOA3017_87
 # text = poi devi cambiare tutto quanto mh mh mh x
 1	poi	poi	ADV	B	_	3	advmod	_	AlignBegin=248.111|Speaker=BO139|TID=160-0
 2	devi	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	Speaker=BO139|TID=160-1
@@ -1029,7 +1029,7 @@
 8	mh	mh	INTJ	I	_	3	discourse	_	AlignEnd=249.201|Overlapping=Yes|Speaker=BO147|TID=161-2
 9	x	x	X	X	_	3	discourse	_	AlignEnd=251.17|Overlapping=Yes|Speaker=BO139|TID=162-0|Type=unknown
 
-# sent_id = 88
+# sent_id = BOA3017_88
 # text = ma io penso che anche il doppiaggio sia difficilissimo
 1	ma	ma	CCONJ	CC	_	3	cc	_	AlignBegin=250.641|Overlapping=Yes|Speaker=BO147|TID=163-0
 2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Overlapping=Yes|Speaker=BO147|TID=163-1
@@ -1041,7 +1041,7 @@
 8	sia	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	Speaker=BO147|TID=163-7
 9	difficilissimo	difficile	ADJ	A	Degree=Abs|Gender=Masc|Number=Sing	3	ccomp	_	AlignEnd=252.991|Speaker=BO147|TID=163-8
 
-# sent_id = 89
+# sent_id = BOA3017_89
 # text = mh {ride} cioè non lo so
 1	mh	mh	INTJ	I	_	6	discourse	_	AlignBegin=253.031|Speaker=BO139|TID=164-0
 2	{ride}	{ride}	X	SW	_	6	vocative	_	AlignEnd=253.391|Speaker=BO139|TID=164-1|Type=NLB
@@ -1050,7 +1050,7 @@
 5	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	Speaker=BO147|TID=165-2
 6	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignEnd=254.026|Speaker=BO147|TID=165-3
 
-# sent_id = 90
+# sent_id = BOA3017_90
 # text = cioè rendere lo stessa lo stessa cosa però con parole diverse
 1	cioè	cioè	CCONJ	CC	_	2	cc	_	AlignBegin=256.346|PaceFast=Yes|Speaker=BO147|TID=166-0
 2	rendere	rendere	VERB	V	VerbForm=Inf	0	root	_	Speaker=BO147|TID=166-1
@@ -1064,7 +1064,7 @@
 10	parole	parola	NOUN	S	Gender=Fem|Number=Plur	2	obl	_	Speaker=BO147|TID=167-2
 11	diverse	diverso	ADJ	A	Gender=Fem|Number=Plur	10	amod	_	Speaker=BO147|TID=167-3
 
-# sent_id = 91
+# sent_id = BOA3017_91
 # text = perché mh infatti tra le lingue secondo me c'è un problema
 1	perché	perché	SCONJ	CS	_	10	mark	_	AlignEnd=260.836|Overlapping=Yes|Speaker=BO147|TID=167-4
 2	mh	mh	INTJ	I	_	10	discourse	_	AlignBegin=260.636|Overlapping=Yes|Speaker=BO145|TID=168-0
@@ -1079,7 +1079,7 @@
 11	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	Speaker=BO145|TID=168-9
 12	problema	problema	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	AlignEnd=263.206|Speaker=BO145|TID=168-10
 
-# sent_id = 92
+# sent_id = BOA3017_92
 # text = cioè cioè non lo puoi rendere certi concetti x col tedesco non li puoi rendere in italiano e viceversa
 1	cioè	cioè	CCONJ	CC	_	6	discourse	_	AlignEnd=261.986|Overlapping=Yes|PaceFast=Yes|Speaker=BO147|TID=169-0
 2	cioè	cioè	CCONJ	CC	_	6	cc	_	AlignBegin=263.381|PaceFast=Yes|Speaker=BO145|TID=170-0
@@ -1103,12 +1103,12 @@
 19	e	e	CCONJ	CC	_	20	cc	_	Speaker=BO145|TID=170-16
 20	viceversa	viceversa	ADV	B	_	16	conj	_	Speaker=BO145|TID=170-17
 
-# sent_id = 93
+# sent_id = BOA3017_93
 # text = cioè no
 1	cioè	cioè	CCONJ	CC	_	2	discourse	_	AlignEnd=268.321|PaceFast=Yes|Speaker=BO145|TID=170-18
 2	no	no	INTJ	I	_	0	root	_	AlignBegin=264.706|Overlapping=Yes|Speaker=BO147|TID=171-0
 
-# sent_id = 94
+# sent_id = BOA3017_94
 # text = ma infatti non sarà tipo nei film americani o inglesi eh poi mh con l'audio poi in italiano tutti dicono fanculo e non vaffanculo perché la parola inglese è fuck you
 1	ma	ma	CCONJ	CC	_	5	cc	_	Overlapping=Yes|Speaker=BO147|TID=171-1
 2	infatti	infatti	ADV	B	_	5	advmod	_	Overlapping=Yes|PaceFast=Yes|Speaker=BO147|TID=171-2
@@ -1145,7 +1145,7 @@
 32	fuck	fuck	X	SW	Foreign=Yes	26	advcl	_	OrigLang=eng|Speaker=BO139|TID=176-4
 33	you	you	X	SW	Foreign=Yes	32	flat:foreign	_	OrigLang=eng|Speaker=BO139|TID=176-5
 
-# sent_id = 95
+# sent_id = BOA3017_95
 # text = e quindi se tu dicessi vaffanculo c'è una parte prima che non corrisponde al labiale
 1	e	e	CCONJ	CC	_	8	cc	_	Speaker=BO139|TID=176-6
 2	quindi	quindi	ADV	B	_	8	advmod	_	PaceFast=Yes|Speaker=BO139|TID=176-7
@@ -1166,7 +1166,7 @@
 16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	labiale	labiale	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	AlignEnd=285.491|Speaker=BO139|TID=176-21
 
-# sent_id = 96
+# sent_id = BOA3017_96
 # text = fottiti se no mh {ride} x è un po' difficile
 1-2	fottiti	_	_	_	_	_	_	_	AlignBegin=286.561|Speaker=BO147|TID=177-0
 1	fotti	fottare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -1181,7 +1181,7 @@
 10	po'	po'	ADV	B	_	11	advmod	_	Speaker=BO139|TID=180-3
 11	difficile	difficile	ADJ	A	Number=Sing	1	advcl	_	AlignEnd=294.546|Speaker=BO139|TID=180-4
 
-# sent_id = 97
+# sent_id = BOA3017_97
 # text = io temevo che ci volessero fare doppiare lì al film invece per fortuna {ride} anche per questione di budget e di tempo tutto in presa diretta x doppiare no ti prego {ride}
 1	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	AlignBegin=294.601|Speaker=BO139|TID=181-0
 2	temevo	temere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	Speaker=BO139|TID=181-1
@@ -1218,7 +1218,7 @@
 32	prego	pregare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	parataxis	_	AlignEnd=308.005|Speaker=BO145|TID=185-4
 33	{ride}	{ride}	X	SW	_	32	discourse	_	AlignEnd=308.125|Speaker=BO139|TID=186-0|Type=NLB
 
-# sent_id = 98
+# sent_id = BOA3017_98
 # text = quindi quando finirà il tirocinio teorica~ maggio penso {ride} maggio fine fine insomma fine maggio
 1	quindi	quindi	ADV	B	_	8	advmod	_	AlignBegin=311.255|Speaker=BO147|TID=187-0
 2	quando	quando	SCONJ	CS	_	3	mark	_	Speaker=BO147|TID=187-1
@@ -1236,7 +1236,7 @@
 14	fine	fine	NOUN	S	Gender=Fem|Number=Sing	8	parataxis	_	Overlapping=Yes|Speaker=BO139|TID=191-1
 15	maggio	maggio	NOUN	S	Gender=Masc|Number=Sing	14	nmod	_	AlignEnd=318.827|Overlapping=Yes|Speaker=BO139|TID=191-2
 
-# sent_id = 99
+# sent_id = BOA3017_99
 # text = se ti metti otto ore al giorno sì qui la sera preparati x mh preparati a tante sere di solitudine
 1	se	se	SCONJ	CS	_	3	mark	_	AlignBegin=318.197|Overlapping=Yes|Speaker=BO145|TID=192-0
 2	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	3	iobj	_	Overlapping=Yes|Speaker=BO145|TID=192-1
@@ -1265,7 +1265,7 @@
 22	di	di	ADP	E	_	23	case	_	Speaker=BO139|TID=196-4
 23	solitudine	solitudine	NOUN	S	Gender=Fem|Number=Sing	21	nmod	_	AlignEnd=328.422|Speaker=BO139|TID=196-5
 
-# sent_id = 100
+# sent_id = BOA3017_100
 # text = preparati a tante sere di solitudine
 1-2	preparati	_	_	_	_	_	_	_	AlignBegin=329.327|Speaker=BO139|TID=197-0
 1	prepara	preparare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -1276,7 +1276,7 @@
 6	di	di	ADP	E	_	7	case	_	Speaker=BO139|TID=197-4
 7	solitudine	solitudine	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	AlignEnd=331.177|Speaker=BO139|TID=197-5
 
-# sent_id = 101
+# sent_id = BOA3017_101
 # text = chi l'ha detto {ride} vabbè c'avrà pure lei da studiare {ride}
 1	chi	chi	PRON	PR	PronType=Rel	8	nsubj	_	AlignBegin=332.127|Speaker=BO145|TID=198-0
 2	l'	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	SpaceAfter=No|Speaker=BO145|TID=198-1|Truncated=Yes
@@ -1292,7 +1292,7 @@
 12	studiare	studiare	VERB	V	VerbForm=Inf	8	xcomp	_	AlignEnd=335.027|Speaker=BO147|TID=200-6
 13	{ride}	{ride}	NOUN	S	_	8	discourse	_	AlignEnd=336.472|Speaker=BO139|TID=201-0|Type=NLB
 
-# sent_id = 102
+# sent_id = BOA3017_102
 # text = chi l'ha detto {ride} {ride} {ride} {ride} lo dico io perché vuoi fare un figlio
 1	chi	chi	PRON	PR	PronType=Rel	4	nsubj	_	AlignBegin=336.552|Speaker=BO145|TID=202-0
 2	l'	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	SpaceAfter=No|Speaker=BO145|TID=202-1|Truncated=Yes
@@ -1311,7 +1311,7 @@
 15	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	Speaker=BO139|TID=207-3
 16	figlio	figlio	NOUN	S	Gender=Masc|Number=Sing	14	obj	_	AlignEnd=343.172|Intonation=ascending|Speaker=BO139|TID=207-4
 
-# sent_id = 103
+# sent_id = BOA3017_103
 # text = non ho detto questo {ride} ah eh figlio ho sentito sì sì x {ride} dobbiamo tirare fuori la storia di vincenzo meglio di no {ride} {ride}
 1	non	non	ADV	BN	PronType=Neg	3	advmod	_	AlignBegin=343.952|Speaker=BO145|TID=208-0
 2	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	Speaker=BO145|TID=208-1
@@ -1340,7 +1340,7 @@
 25	{ride}	{ride}	X	SW	_	3	discourse	_	AlignEnd=351.367|Speaker=BO145|TID=215-3|Type=NLB
 26	{ride}	{ride}	X	X	_	3	discourse	_	AlignEnd=351.747|Speaker=BO139|TID=216-0|Type=NLB
 
-# sent_id = 104
+# sent_id = BOA3017_104
 # text = ma oggi quando gliel'ho detto gli ho detto eli ti devo dire una cosa però devi metterti a sedere prima che te la dico {ride}
 1	ma	ma	CCONJ	CC	_	10	cc	_	AlignBegin=352.477|Prolonged=Yes|Speaker=BO147|TID=217-0
 2	oggi	oggi	ADV	B	_	10	advmod	_	Speaker=BO147|TID=217-1
@@ -1373,7 +1373,7 @@
 27	dico	dire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	22	advcl	_	AlignEnd=358.817|Speaker=BO147|TID=219-14
 28	{ride}	{ride}	X	X	_	27	obj	_	AlignEnd=359.06|Speaker=BO139|TID=220-0|Type=NLB
 
-# sent_id = 105
+# sent_id = BOA3017_105
 # text = allora s'è messa da seduta sul eh mh sulla sedia quella che c'ha lei là in camera mh mh allora eh la sedia la cosa come si chiama sedia
 1	allora	allora	ADV	B	_	4	advmod	_	AlignBegin=359.167|Speaker=BO147|TID=221-0
 2	s'	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	SpaceAfter=No|Speaker=BO147|TID=221-1|Truncated=Yes
@@ -1411,7 +1411,7 @@
 32	chiama	chiamare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	advcl	_	AlignEnd=369.17|Intonation=ascending|Speaker=BO147|TID=225-7
 33	sedia	sedia	NOUN	S	Gender=Fem|Number=Sing	32	xcomp	_	AlignEnd=369.847|Speaker=BO146|TID=226-0
 
-# sent_id = 106
+# sent_id = BOA3017_106
 # text = la sedia {ride} {ride} {ride} la sedia gi~ mh {P} girevole quindi eh no eh sì quella da studio {ride} e praticamente ha fatto così
 1	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	AlignBegin=370.027|Speaker=BO145|TID=227-0
 2	sedia	sedia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	Speaker=BO145|TID=227-1
@@ -1439,7 +1439,7 @@
 24	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	conj	_	AlignEnd=377.697|Prolonged=Yes|Speaker=BO147|TID=233-3
 25	così	così	ADV	B	_	24	advmod	_	AlignBegin=377.982|Speaker=BO147|TID=234-0
 
-# sent_id = 107
+# sent_id = BOA3017_107
 # text = gli ho detto x gli ho detto eh vincenzo diventerà papà
 1	gli	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	Speaker=BO147|TID=234-1
 2	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	Speaker=BO147|TID=234-2
@@ -1453,7 +1453,7 @@
 10	diventerà	diventare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	parataxis	_	Speaker=BO147|TID=234-10
 11	papà	papà	NOUN	S	Gender=Masc	10	obj	_	AlignEnd=380.88|Speaker=BO147|TID=234-11
 
-# sent_id = 108
+# sent_id = BOA3017_108
 # text = lei {esclamazione_sorpresa} {ride} {ride} io tipo {ride} io cioè ma {ride} {ride} eh ieri sera però qui {ride} {ride} appena te l'ha detto ah aiuto oddio elisa dico subito a tutti {ride} {ride} vabbè scusa è sta~ è stato più x mh cioè cosa eh x è stato più {ride} xxento xento
 1	lei	lei	PRON	PE	Gender=Fem|Number=Sing|PronType=Prs	6	nsubj	_	AlignBegin=381.076|Speaker=BO147|TID=235-0
 2	{esclamazione_sorpresa}	{esclamazione_sorpresa}	X	V	_	6	parataxis	_	AlignEnd=382.106|Speaker=BO147|TID=235-1|Type=NLB
@@ -1509,7 +1509,7 @@
 52	xxento	xxento	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	parataxis	_	AlignEnd=399.796|Overlapping=Yes|Speaker=BO146|TID=252-0
 53	xento	xento	NOUN	S	_	52	discourse	_	AlignEnd=400.416|Speaker=BO147|TID=253-0
 
-# sent_id = 109
+# sent_id = BOA3017_109
 # text = ma ma vincenzo della elisa
 1	ma	ma	CCONJ	CC	_	3	cc	_	AlignBegin=400.651|Speaker=BO147|TID=254-0
 2	ma	ma	CCONJ	CC	_	3	cc	_	Speaker=BO147|TID=254-1
@@ -1519,7 +1519,7 @@
 5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	elisa	elisa	PROPN	SP	_	3	nmod	_	AlignEnd=402.36|Intonation=ascending|Speaker=BO147|TID=254-4
 
-# sent_id = 110
+# sent_id = BOA3017_110
 # text = ah ma non per quello
 1	ah	ah	INTJ	I	_	5	discourse	_	AlignBegin=402.373|Speaker=BO146|TID=255-0
 2	ma	ma	CCONJ	CC	_	5	cc	_	Speaker=BO146|TID=255-1
@@ -1527,7 +1527,7 @@
 4	per	per	ADP	E	_	5	case	_	Speaker=BO146|TID=255-3
 5	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	AlignEnd=403.593|Overlapping=Yes|Speaker=BO146|TID=255-4
 
-# sent_id = 111
+# sent_id = BOA3017_111
 # text = cioè x no infatti x vabbè scusa se non doveva essere sputtanata
 1	cioè	cioè	CCONJ	CC	_	7	discourse	_	AlignEnd=403.628|Overlapping=Yes|PaceFast=Yes|Speaker=BO147|TID=256-0
 2	x	per	ADP	E	_	3	case	_	AlignEnd=404.618|Speaker=BO145|TID=257-0|Type=unknown
@@ -1542,13 +1542,13 @@
 11	essere	essere	AUX	VA	VerbForm=Inf	12	aux:pass	_	Overlapping=Yes|Speaker=BO145|TID=260-3
 12	sputtanata	sputtanare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	7	advcl	_	Overlapping=Yes|Speaker=BO145|TID=260-4
 
-# sent_id = 112
+# sent_id = BOA3017_112
 # text = ormai lo sono
 1	ormai	ormai	ADV	B	_	2	advmod	_	Speaker=BO145|TID=260-5
 2	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	Speaker=BO145|TID=260-6
 3	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	AlignEnd=407.778|Overlapping=Yes|Speaker=BO145|TID=260-7
 
-# sent_id = 113
+# sent_id = BOA3017_113
 # text = ma no ma non perché sputtanavi a eli ma x ma ovvio che ti pare che non lo vado a dire in giro
 1	ma	ma	CCONJ	CC	_	2	discourse	_	AlignBegin=407.098|Overlapping=Yes|Speaker=BO146|TID=261-0
 2	no	no	INTJ	I	_	6	discourse	_	Overlapping=Yes|Speaker=BO146|TID=261-1
@@ -1574,7 +1574,7 @@
 22	in	in	ADP	E	_	23	case	_	Speaker=BO147|TID=262-13
 23	giro	giro	NOUN	S	Gender=Masc|Number=Sing	21	obl	_	Intonation=ascending|Speaker=BO147|TID=262-14
 
-# sent_id = 114
+# sent_id = BOA3017_114
 # text = se l'ha detto martina perché lei lo può dire e io no
 1	se	se	SCONJ	CS	_	4	mark	_	Speaker=BO147|TID=262-15
 2	l'	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	SpaceAfter=No|Speaker=BO147|TID=262-16|Truncated=Yes
@@ -1590,14 +1590,14 @@
 12	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	10	conj	_	Speaker=BO147|TID=262-26
 13	no	no	INTJ	I	_	12	orphan	_	Intonation=ascending|Speaker=BO147|TID=262-27
 
-# sent_id = 115
+# sent_id = BOA3017_115
 # text = e chi l'è
 1	e	e	CCONJ	CC	_	2	cc	_	Speaker=BO147|TID=262-28
 2	chi	chi	PRON	PR	PronType=Rel	0	root	_	Overlapping=Yes|Speaker=BO147|TID=262-29
 3	l'	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	Overlapping=Yes|SpaceAfter=No|Speaker=BO147|TID=262-30|Truncated=Yes
 4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	Overlapping=Yes|Speaker=BO147|TID=262-31
 
-# sent_id = 116
+# sent_id = BOA3017_116
 # text = eh tanto ormai era sputtanata
 1	eh	eh	INTJ	I	_	5	discourse	_	AlignEnd=414.658|Overlapping=Yes|Speaker=BO147|TID=262-32
 2	tanto	tanto	ADV	B	_	5	advmod	_	AlignBegin=409.368|Overlapping=Yes|Speaker=BO146|TID=263-0
@@ -1605,7 +1605,7 @@
 4	era	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	aux	_	Overlapping=Yes|Speaker=BO146|TID=263-2
 5	sputtanata	sputtanare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	AlignEnd=410.968|Overlapping=Yes|Speaker=BO146|TID=263-3
 
-# sent_id = 117
+# sent_id = BOA3017_117
 # text = sì {ride} no vabbè però prima x cioè io c'ho meno autorità
 1	sì	sì	INTJ	I	_	11	discourse	_	AlignEnd=412.973|Overlapping=Yes|Speaker=BO146|TID=264-0
 2	{ride}	{ride}	X	I	_	1	vocative	_	AlignEnd=413.743|Speaker=BO145|TID=265-0|Type=NLB
@@ -1621,14 +1621,14 @@
 12	meno	meno	ADV	B	_	11	advmod	_	Overlapping=Yes|Speaker=BO147|TID=267-4
 13	autorità	autorità	NOUN	S	Gender=Fem	11	obj	_	Speaker=BO147|TID=267-5
 
-# sent_id = 118
+# sent_id = BOA3017_118
 # text = io e che è
 1	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	0	root	_	Intonation=ascending|Speaker=BO147|TID=267-6
 2	e	e	CCONJ	CC	_	3	cc	_	Speaker=BO147|TID=267-7
 3	che	che	PRON	PR	PronType=Rel	1	conj	_	Speaker=BO147|TID=267-8
 4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	AlignEnd=416.928|Speaker=BO147|TID=267-9
 
-# sent_id = 119
+# sent_id = BOA3017_119
 # text = sì no no però capito x magari {ride} non così platealmente neanch'io x chi se ne frega
 1	sì	sì	INTJ	I	_	5	discourse	_	AlignBegin=417.013|Speaker=BO146|TID=268-0
 2	no	no	INTJ	I	_	5	discourse	_	Speaker=BO146|TID=268-1|Volume=low
@@ -1649,7 +1649,7 @@
 17	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	18	iobj	_	Overlapping=Yes|Speaker=BO147|TID=271-2
 18	frega	fregare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	Intonation=descending|Overlapping=Yes|Speaker=BO147|TID=271-3
 
-# sent_id = 120
+# sent_id = BOA3017_120
 # text = cioè non so sta a monaco {ride} {ride}
 1	cioè	cioè	CCONJ	CC	_	3	cc	_	Overlapping=Yes|PaceFast=Yes|Speaker=BO147|TID=271-4
 2	non	non	ADV	BN	PronType=Neg	3	advmod	_	Overlapping=Yes|PaceFast=Yes|Speaker=BO147|TID=271-5
@@ -1660,7 +1660,7 @@
 7	{ride}	{ride}	X	SW	_	3	discourse	_	AlignEnd=423.643|Speaker=BO139|TID=272-0|Type=NLB
 8	{ride}	{ride}	X	X	_	3	discourse	_	AlignEnd=425.538|Speaker=BO139|TID=273-0|Type=NLB
 
-# sent_id = 121
+# sent_id = BOA3017_121
 # text = beh ho capito però no
 1	beh	beh	INTJ	I	_	3	discourse	_	AlignBegin=425.023|Speaker=BO146|TID=274-0
 2	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	Speaker=BO146|TID=274-1
@@ -1668,7 +1668,7 @@
 4	però	però	ADV	B	_	3	advmod	_	AlignEnd=425.923|Speaker=BO146|TID=274-3
 5	no	no	INTJ	I	_	3	discourse	_	AlignBegin=425.938|Speaker=BO145|TID=275-0
 
-# sent_id = 122
+# sent_id = BOA3017_122
 # text = ma ma a parte che lo sapran tutti lui dice un altro un'altra cosa secondo me
 1	ma	ma	CCONJ	CC	_	10	cc	_	AlignEnd=426.338|Speaker=BO145|TID=275-1
 2	ma	ma	CCONJ	CC	_	10	cc	_	AlignBegin=426.553|Speaker=BO147|TID=276-0
@@ -1688,7 +1688,7 @@
 16	secondo	secondo	ADP	E	_	17	case	_	Speaker=BO145|TID=277-7
 17	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	15	nmod	_	AlignEnd=429.488|Speaker=BO145|TID=277-8
 
-# sent_id = 123
+# sent_id = BOA3017_123
 # text = cioè non dice del {P} di roberto
 1	cioè	cioè	CCONJ	CC	_	3	cc	_	AlignBegin=429.668|PaceFast=Yes|Speaker=BO145|TID=278-0
 2	non	non	ADV	BN	PronType=Neg	3	advmod	_	Speaker=BO145|TID=278-1
@@ -1700,7 +1700,7 @@
 7	di	di	ADP	E	_	8	case	_	Speaker=BO145|TID=278-5
 8	roberto	roberto	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	Speaker=BO145|TID=278-6
 
-# sent_id = 124
+# sent_id = BOA3017_124
 # text = ma dice tipo no dire
 1	ma	ma	CCONJ	CC	_	2	cc	_	Speaker=BO145|TID=278-7
 2	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO145|TID=278-8
@@ -1708,7 +1708,7 @@
 4	no	no	ADV	BN	PronType=Neg	5	advmod	_	AlignEnd=432.938|Overlapping=Yes|Prolonged=Yes|Speaker=BO147|TID=279-0
 5	dire	dire	VERB	V	VerbForm=Inf	2	ccomp	_	AlignEnd=433.343|Overlapping=Yes|Speaker=BO145|TID=280-0
 
-# sent_id = 125
+# sent_id = BOA3017_125
 # text = adesso lo dico a elisa
 1	adesso	adesso	ADV	B	_	3	advmod	_	AlignBegin=433.733|Speaker=BO145|TID=281-0
 2	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	Speaker=BO145|TID=281-1
@@ -1716,7 +1716,7 @@
 4	a	a	ADP	E	_	5	case	_	Speaker=BO145|TID=281-3
 5	elisa	elisa	PROPN	SP	_	3	obl	_	Speaker=BO145|TID=281-4
 
-# sent_id = 126
+# sent_id = BOA3017_126
 # text = davanti a tutti secondo me dice questo
 1	davanti	davanti	ADP	E	_	3	case	_	Speaker=BO145|TID=281-5
 2	a	a	ADP	E	_	1	fixed	_	Speaker=BO145|TID=281-6
@@ -1726,12 +1726,12 @@
 6	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Overlapping=Yes|Speaker=BO145|TID=281-10
 7	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	6	nsubj	_	AlignEnd=436.533|Overlapping=Yes|Speaker=BO145|TID=281-11
 
-# sent_id = 127
+# sent_id = BOA3017_127
 # text = eh certo
 1	eh	eh	INTJ	I	_	2	discourse	_	AlignEnd=436.178|Overlapping=Yes|Speaker=BO146|TID=282-0
 2	certo	certo	ADV	B	_	0	root	_	AlignEnd=436.878|Speaker=BO146|TID=283-0
 
-# sent_id = 128
+# sent_id = BOA3017_128
 # text = e vabbè x che cosa s'aspettava la gente che stavo zitto
 1	e	e	CCONJ	CC	_	7	cc	_	AlignBegin=436.963|Speaker=BO147|TID=284-0
 2	vabbè	vabbè	INTJ	I	_	7	discourse	_	Speaker=BO147|TID=284-1
@@ -1746,7 +1746,7 @@
 11	stavo	stare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	9	acl:relcl	_	Speaker=BO147|TID=284-10
 12	zitto	zitto	ADJ	A	Gender=Masc|Number=Sing	11	xcomp	_	AlignEnd=439.241|Speaker=BO147|TID=284-11
 
-# sent_id = 129
+# sent_id = BOA3017_129
 # text = no capito però capito magari martina sì visto che l'aveva detto solo al coinquilino
 1	no	no	INTJ	I	_	2	discourse	_	AlignBegin=439.328|Speaker=BO146|TID=285-0
 2	capito	capitare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO146|TID=285-1
@@ -1766,7 +1766,7 @@
 15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	coinquilino	coinquilino	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	Speaker=BO146|TID=286-10
 
-# sent_id = 130
+# sent_id = BOA3017_130
 # text = e poi noi stavamo tutti a guardare
 1	e	e	CCONJ	CC	_	4	cc	_	Speaker=BO146|TID=286-11
 2	poi	poi	ADV	B	_	4	advmod	_	Speaker=BO146|TID=286-12
@@ -1776,7 +1776,7 @@
 6	a	a	ADP	E	_	7	mark	_	Speaker=BO146|TID=286-16
 7	guardare	guardare	VERB	V	VerbForm=Inf	4	xcomp	_	Speaker=BO146|TID=286-17
 
-# sent_id = 131
+# sent_id = BOA3017_131
 # text = pia fa vabbè ve lo dico x vabbè ma tanto {P}
 1	pia	pia	ADV	B	_	2	advmod	_	Speaker=BO146|TID=286-18
 2	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO146|TID=286-19
@@ -1790,18 +1790,18 @@
 10	tanto	tanto	ADV	B	_	6	conj	_	Speaker=BO145|TID=288-2
 11	{P}	{p}	SYM	SYM	_	2	discourse	_	Speaker=BO145|TID=288-3|Type=shortpause
 
-# sent_id = 132
+# sent_id = BOA3017_132
 # text = cioè vabbè no
 1	cioè	cioè	CCONJ	CC	_	2	discourse	_	AlignEnd=448.32|PaceFast=Yes|Speaker=BO145|TID=288-4
 2	vabbè	vabbè	INTJ	I	_	0	root	_	AlignEnd=448.689|Speaker=BO147|TID=289-0
 3	no	no	INTJ	I	_	2	discourse	_	AlignBegin=448.739|Speaker=BO146|TID=290-0
 
-# sent_id = 133
+# sent_id = BOA3017_133
 # text = ma sì
 1	ma	ma	CCONJ	CC	_	2	discourse	_	Speaker=BO146|TID=290-1
 2	sì	sì	INTJ	I	_	0	root	_	Speaker=BO146|TID=290-2
 
-# sent_id = 134
+# sent_id = BOA3017_134
 # text = ma che dopo tanto veniva fuori
 1	ma	ma	CCONJ	CC	_	5	cc	_	Speaker=BO146|TID=290-3
 2	che	che	PRON	PR	PronType=Rel	5	nsubj	_	Overlapping=Yes|Speaker=BO146|TID=290-4
@@ -1810,19 +1810,19 @@
 5	veniva	venire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	Overlapping=Yes|Speaker=BO147|TID=291-1
 6	fuori	fuori	ADV	B	_	5	advmod	_	Overlapping=Yes|Speaker=BO147|TID=291-2
 
-# sent_id = 135
+# sent_id = BOA3017_135
 # text = mh sì
 1	mh	mh	INTJ	I	_	2	discourse	_	AlignEnd=450.87|Speaker=BO147|TID=291-3
 2	sì	sì	INTJ	I	_	0	root	_	AlignBegin=450.904|Speaker=BO146|TID=292-0
 
-# sent_id = 136
+# sent_id = BOA3017_136
 # text = ma che s dopo
 1	ma	ma	CCONJ	CC	_	3	cc	_	Speaker=BO146|TID=292-1
 2	che	che	PRON	DE	PronType=Rel	3	det	_	Speaker=BO146|TID=292-2
 3	s	s	X	I	_	0	root	_	Interrupted=Yes|Overlapping=Yes|Speaker=BO146|TID=292-3
 4	dopo	dopo	ADV	B	_	3	advmod	_	AlignEnd=452.264|Overlapping=Yes|Speaker=BO146|TID=292-4
 
-# sent_id = 137
+# sent_id = BOA3017_137
 # text = ah gliel'ho detto a lara e giuliano
 1	ah	ah	INTJ	I	_	5	discourse	_	AlignBegin=451.619|Overlapping=Yes|Speaker=BO145|TID=293-0
 2-3	gliel'	_	_	_	_	_	_	_	Overlapping=Yes|SpaceAfter=No|Speaker=BO145|TID=293-1|Truncated=Yes
@@ -1835,7 +1835,7 @@
 8	e	e	CCONJ	CC	_	9	cc	_	Speaker=BO145|TID=293-6
 9	giuliano	giuliano	PROPN	SP	_	7	conj	_	Speaker=BO145|TID=293-7
 
-# sent_id = 138
+# sent_id = BOA3017_138
 # text = l'ho detto {ride} {ride} {ride} giuliano {P}
 1	l'	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	SpaceAfter=No|Speaker=BO145|TID=293-8|Truncated=Yes
 2	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	Speaker=BO145|TID=293-9
@@ -1846,7 +1846,7 @@
 7	giuliano	giuliano	ADJ	A	Gender=Masc|Number=Sing	3	parataxis	_	AlignBegin=455.209|Speaker=BO147|TID=297-0
 8	{P}	{p}	SYM	SYM	_	3	discourse	_	Speaker=BO147|TID=297-1|Type=shortpause
 
-# sent_id = 139
+# sent_id = BOA3017_139
 # text = com'è com'è che ha fatto
 1	com'	come	ADV	B	_	2	advmod	_	SpaceAfter=No|Speaker=BO147|TID=297-2|Truncated=Yes
 2	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO147|TID=297-3
@@ -1856,7 +1856,7 @@
 6	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	Speaker=BO147|TID=297-7
 7	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	ccomp	_	AlignEnd=456.959|Speaker=BO147|TID=297-8
 
-# sent_id = 140
+# sent_id = BOA3017_140
 # text = eh ha fatto {ride} eh {ride} {ride} {ride} {ride} mh facciamo pubblicità {P} occulta
 1	eh	eh	INTJ	I	_	3	discourse	_	AlignBegin=457.089|Intonation=ascending|Speaker=BO147|TID=298-0
 2	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	Speaker=BO147|TID=298-1
@@ -1873,12 +1873,12 @@
 13	{P}	{p}	SYM	SYM	_	11	discourse	_	Speaker=BO145|TID=305-2|Type=shortpause
 14	occulta	occulto	ADJ	A	Gender=Fem|Number=Sing	3	parataxis	_	Intonation=descending|Speaker=BO145|TID=305-3
 
-# sent_id = 141
+# sent_id = BOA3017_141
 # text = antichi sapori
 1	antichi	antico	ADJ	A	Gender=Masc|Number=Plur	2	amod	_	Speaker=BO145|TID=305-4
 2	sapori	sapore	NOUN	S	Gender=Masc|Number=Plur	0	root	_	Speaker=BO145|TID=305-5
 
-# sent_id = 142
+# sent_id = BOA3017_142
 # text = fa la carne buonissima {ride} {ride}
 1	fa	fare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO145|TID=305-6
 2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	Speaker=BO145|TID=305-7
@@ -1887,7 +1887,7 @@
 5	{ride}	{ride}	X	SW	_	1	discourse	_	AlignEnd=479.61|Speaker=BO139|TID=306-0|Type=NLB
 6	{ride}	{ride}	X	X	_	1	discourse	_	AlignEnd=478.744|Speaker=BO145|TID=307-0|Type=NLB
 
-# sent_id = 143
+# sent_id = BOA3017_143
 # text = ma qual è antichi sapori
 # tags = TO DISCUSS
 1	ma	ma	CCONJ	CC	_	5	cc	_	AlignBegin=480.014|Speaker=BO147|TID=308-0
@@ -1896,23 +1896,23 @@
 4	antichi	antico	ADJ	A	Gender=Masc|Number=Plur	5	amod	_	AlignBegin=480.674|Speaker=BO145|TID=309-0
 5	sapori	sapore	NOUN	S	Gender=Masc|Number=Plur	0	root	_	Speaker=BO145|TID=309-1
 
-# sent_id = 144
+# sent_id = BOA3017_144
 # text = via frassinago
 1	via	via	NOUN	S	Gender=Fem|Number=Sing	0	root	_	Intonation=ascending|Speaker=BO145|TID=309-2
 2	frassinago	frassinago	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	Intonation=ascending|Speaker=BO145|TID=309-3
 
-# sent_id = 145
+# sent_id = BOA3017_145
 # text = no no
 1	no	no	INTJ	I	_	0	root	_	AlignEnd=482.684|Speaker=BO145|TID=309-4
 2	no	no	INTJ	I	_	1	discourse	_	AlignEnd=483.122|Overlapping=Yes|Speaker=BO139|TID=310-0
 
-# sent_id = 146
+# sent_id = BOA3017_146
 # text = frassinago è basilibò
 1	frassinago	frassinago	PROPN	SP	_	3	nsubj	_	AlignBegin=483.014|Overlapping=Yes|Speaker=BO145|TID=311-0
 2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	Prolonged=Yes|Speaker=BO145|TID=311-1
 3	basilibò	basilibò	X	S	_	0	root	_	AlignEnd=484.674|Speaker=BO145|TID=311-2
 
-# sent_id = 147
+# sent_id = BOA3017_147
 # text = mh mh mh badibidib eh {ride} bibbidibobbidibu x bibbidibobbidibu badibidibe eh
 1	mh	mh	INTJ	I	_	2	discourse	_	AlignBegin=484.749|Speaker=BO139|TID=312-0
 2	mh	mh	INTJ	I	_	0	root	_	AlignEnd=485.159|Speaker=BO139|TID=312-1
@@ -1926,19 +1926,19 @@
 10	badibidibe	badibidibe	X	SW	Foreign=Yes	6	flat:foreign	_	AlignEnd=492.839|Intonation=ascending|Speaker=BO145|TID=319-0
 11	eh	eh	INTJ	I	_	6	discourse	_	AlignBegin=493.054|Speaker=BO146|TID=320-0
 
-# sent_id = 148
+# sent_id = BOA3017_148
 # text = trascrivi trascrivi {ride} {ride}
 1	trascrivi	trascrivere	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO146|TID=320-1
 2	trascrivi	trascrivere	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	xcomp	_	Speaker=BO146|TID=320-2
 3	{ride}	{ride}	X	SW	Foreign=Yes	1	discourse	_	AlignEnd=494.584|Speaker=BO146|TID=320-3|Type=NLB
 4	{ride}	{ride}	X	SW	_	1	discourse	_	AlignEnd=494.254|Speaker=BO139|TID=321-0|Type=NLB
 
-# sent_id = 149
+# sent_id = BOA3017_149
 # text = porco porco
 1	porco	porco	ADJ	A	Gender=Masc|Number=Sing	0	root	_	AlignBegin=494.609|Speaker=BO139|TID=322-0
 2	porco	porco	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	Speaker=BO139|TID=322-1
 
-# sent_id = 150
+# sent_id = BOA3017_150
 # text = mh {ride} {ride} basilibò è un posto che fa le pi~ la pizza
 1	mh	mh	X	I	Foreign=Yes	7	discourse	_	Speaker=BO139|TID=322-2
 2	{ride}	{ride}	X	SW	Foreign=Yes	7	discourse	_	AlignEnd=498.539|Speaker=BO139|TID=322-3|Type=NLB

@@ -1,4 +1,4 @@
-# sent_id = 0
+# sent_id = TOD1005bis_0
 # text = li confrontiamo tutti e {P} la domanda è
 1	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obj	_	AlignBegin=0.01|Clitic=Yes|Speaker=TO017|TID=0-0
 2	confrontiamo	confrontare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=0-1
@@ -9,7 +9,7 @@
 7	domanda	domanda	NOUN	S	Gender=Fem|Number=Sing	2	conj	_	Speaker=TO017|TID=0-6
 8	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	Speaker=TO017|TID=0-7
 
-# sent_id = 1
+# sent_id = TOD1005bis_1
 # text = riusciamo a trovare una serie di tratti una serie di strutture comuni a tutti questi dialetti
 1	riusciamo	riuscire	VERB	V	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=0-8
 2	a	a	ADP	E	_	3	mark	_	Speaker=TO017|TID=0-9
@@ -28,7 +28,7 @@
 15	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	16	det	_	Speaker=TO017|TID=1-3
 16	dialetti	dialetto	NOUN	S	Gender=Masc|Number=Plur	12	obl	_	AlignEnd=8.119|Speaker=TO017|TID=1-4
 
-# sent_id = 2
+# sent_id = TOD1005bis_2
 # text = mh tutti i dialetti ce l'hanno
 1	mh	mh	INTJ	I	_	7	discourse	_	AlignEnd=8.549|Intonation=weakly_ascending|Speaker=TO017|TID=2-0
 2	tutti	tutto	DET	DI	PronType=Ind	4	det:predet	_	AlignBegin=8.6|Speaker=TO017|TID=3-0
@@ -38,7 +38,7 @@
 6	l'	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	Clitic=Yes|SpaceAfter=No|Speaker=TO017|TID=3-4
 7	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=3-5
 
-# sent_id = 3
+# sent_id = TOD1005bis_3
 # text = e attenzione a nessuna altra lingua semitica
 1	e	e	CCONJ	CC	_	2	cc	_	Speaker=TO017|TID=3-6
 2	attenzione	attenzione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	AlignEnd=10.64|Speaker=TO017|TID=3-7
@@ -48,7 +48,7 @@
 6	lingua	lingua	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	Speaker=TO017|TID=4-3
 7	semitica	semitico	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	AlignEnd=12.41|Speaker=TO017|TID=4-4
 
-# sent_id = 4
+# sent_id = TOD1005bis_4
 # text = perché altrim~ cioè noi abbiamo bisogno di qualcosa che identifichi l'arabo come una realtà linguistica indipendente dal resto della famiglia semitica
 1	perché	perché	SCONJ	CS	_	5	mark	_	AlignBegin=12.863|PaceFast=Yes|Speaker=TO017|TID=5-0
 2	altrim~	altrim~	PRON	PI	PronType=Ind	5	nsubj	_	AlignEnd=13.462|Interrupted=Yes|Speaker=TO017|TID=5-1
@@ -77,7 +77,7 @@
 23	famiglia	famiglia	NOUN	S	Gender=Fem|Number=Sing	20	nmod	_	Speaker=TO017|TID=8-8
 24	semitica	semitico	ADJ	A	Gender=Fem|Number=Sing	23	amod	_	AlignEnd=21.029|Intonation=descending|Speaker=TO017|TID=8-9
 
-# sent_id = 5
+# sent_id = TOD1005bis_5
 # text = okay possiamo farla questa cosa
 1	okay	okay	INTJ	I	_	3	discourse	_	AlignEnd=21.735|Intonation=weakly_ascending|Speaker=TO017|TID=9-0
 2	possiamo	potere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	AlignBegin=22.344|Prolonged=Yes|Speaker=TO017|TID=10-0
@@ -87,7 +87,7 @@
 5	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	6	det	_	Speaker=TO017|TID=10-2
 6	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	AlignEnd=24.155|Intonation=weakly_ascending|Speaker=TO017|TID=10-3
 
-# sent_id = 6
+# sent_id = TOD1005bis_6
 # text = ovviamente questo non richiederebbe un lavoro {P} infinito
 1	ovviamente	ovviamente	ADV	B	_	4	advmod	_	AlignBegin=25.026|Speaker=TO017|TID=11-0
 2	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	4	nsubj	_	Speaker=TO017|TID=11-1
@@ -98,7 +98,7 @@
 7	{P}	{p}	SYM	SYM	_	6	nmod	_	Speaker=TO017|TID=11-6|Type=shortpause
 8	infinito	infinito	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	AlignEnd=28.045|Intonation=weakly_ascending|Speaker=TO017|TID=11-7
 
-# sent_id = 7
+# sent_id = TOD1005bis_7
 # text = c'è qualcuno che c'ha provato comunque
 1	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	2	expl	_	AlignBegin=28.547|Clitic=Yes|SpaceAfter=No|Speaker=TO017|TID=12-0
 2	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=12-1
@@ -109,12 +109,12 @@
 7	provato	provare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	acl:relcl	_	Prolonged=Yes|Speaker=TO017|TID=12-6
 8	comunque	comunque	ADV	B	_	7	advmod	_	AlignEnd=30.444|Intonation=weakly_ascending|Speaker=TO017|TID=12-7
 
-# sent_id = 8
+# sent_id = TOD1005bis_8
 # text = ma suspence
 1	ma	ma	CCONJ	CC	_	2	discourse	_	AlignEnd=31.795|Speaker=TO017|TID=13-0
 2	suspence	suspence	NOUN	S	_	0	root	_	AlignBegin=32.128|Intonation=descending|Speaker=TO017|TID=14-0
 
-# sent_id = 9
+# sent_id = TOD1005bis_9
 # text = i risultati li discuteremo poi
 1	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	Speaker=TO017|TID=14-1
 2	risultati	risultato	NOUN	S	Gender=Masc|Number=Plur	4	dislocated	_	Speaker=TO017|TID=14-2
@@ -122,7 +122,7 @@
 4	discuteremo	discutere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	AlignEnd=34.142|Intonation=weakly_ascending|Speaker=TO017|TID=14-4
 5	poi	poi	ADV	B	_	4	advmod	_	AlignBegin=34.862|Intonation=weakly_ascending|Prolonged=Yes|Speaker=TO017|TID=15-0
 
-# sent_id = 10
+# sent_id = TOD1005bis_10
 # text = perché questo ci impiegherà tutto il resto del corso praticamente andare a guardare quali sono le caratteristiche dei dialetti
 1	perché	perché	SCONJ	CS	_	4	mark	_	Speaker=TO017|TID=15-1
 2	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	4	nsubj	_	Speaker=TO017|TID=15-2
@@ -148,7 +148,7 @@
 20	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
 21	dialetti	dialetto	NOUN	S	Gender=Masc|Number=Plur	18	nmod	_	AlignEnd=40.743|Intonation=descending|Speaker=TO017|TID=15-19
 
-# sent_id = 11
+# sent_id = TOD1005bis_11
 # text = eh possiamo dare un'occhiata se volete dire quanto sono intanto che ore sono questa prima domanda fondamentale
 1	eh	eh	INTJ	I	_	3	discourse	_	AlignEnd=41.899|Prolonged=Yes|Speaker=TO017|TID=16-0
 2	possiamo	potere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	AlignBegin=41.998|Speaker=TO017|TID=17-0
@@ -169,12 +169,12 @@
 17	domanda	domanda	NOUN	S	Gender=Fem|Number=Sing	8	ccomp	_	Speaker=TO017|TID=19-2
 18	fondamentale	fondamentale	ADJ	A	Number=Sing	17	amod	_	AlignEnd=47.273|Speaker=TO017|TID=19-3
 
-# sent_id = 12
+# sent_id = TOD1005bis_12
 # text = le tre
 1	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	AlignBegin=47.512|Speaker=TO017|TID=20-0|Volume=low
 2	tre	tre	NUM	N	NumType=Card	0	root	_	Speaker=TO017|TID=20-1|Volume=low
 
-# sent_id = 13
+# sent_id = TOD1005bis_13
 # text = okay quanto sono diversi i dialetti uno dall'altro
 1	okay	okay	INTJ	I	_	4	discourse	_	AlignEnd=48.154|Speaker=TO017|TID=20-2|Volume=low
 2	quanto	quanto	ADV	B	_	4	advmod	_	AlignBegin=49.046|Speaker=TO017|TID=21-0
@@ -188,7 +188,7 @@
 9	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	10	det	_	_
 10	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	7	nmod	_	AlignEnd=52.581|Intonation=ascending|Speaker=TO017|TID=23-2
 
-# sent_id = 14
+# sent_id = TOD1005bis_14
 # text = allora qua vi ho dato {P} vi ho fatto cinque esempi
 1	allora	allora	ADV	B	_	5	advmod	_	AlignBegin=54.237|Speaker=TO017|TID=24-0
 2	qua	qua	ADV	B	_	5	advmod	_	Speaker=TO017|TID=24-1
@@ -202,7 +202,7 @@
 10	cinque	cinque	NUM	N	NumType=Card	11	nummod	_	Speaker=TO017|TID=24-9
 11	esempi	esempio	NOUN	S	Gender=Masc|Number=Plur	9	obj	_	AlignEnd=56.462|Intonation=weakly_ascending|Speaker=TO017|TID=24-10
 
-# sent_id = 15
+# sent_id = TOD1005bis_15
 # text = cosa vuol dire questa frase
 1	cosa	cosa	PRON	PQ	PronType=Int	3	obj	_	AlignBegin=57.314|Speaker=TO017|TID=25-0
 2	vuol	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	Speaker=TO017|TID=25-1
@@ -210,19 +210,19 @@
 4	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	5	det	_	Speaker=TO017|TID=25-3
 5	frase	frase	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	AlignEnd=58.832|Intonation=ascending|Speaker=TO017|TID=25-4
 
-# sent_id = 16
+# sent_id = TOD1005bis_16
 # text = cosa vuoi adesso
 1	cosa	cosa	PRON	PQ	PronType=Int	2	obj	_	AlignBegin=61.06|Speaker=???|TID=26-0
 2	vuoi	volere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=???|TID=26-1
 3	adesso	adesso	ADV	B	_	2	advmod	_	AlignEnd=62.055|Intonation=ascending|Speaker=???|TID=26-2
 
-# sent_id = 17
+# sent_id = TOD1005bis_17
 # text = cosa vuoi adesso
 1	cosa	cosa	PRON	PQ	PronType=Int	2	obj	_	AlignBegin=62.175|Speaker=TO017|TID=27-0
 2	vuoi	volere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=27-1
 3	adesso	adesso	ADV	B	_	2	advmod	_	AlignEnd=63.222|Intonation=ascending|Speaker=TO017|TID=27-2
 
-# sent_id = 18
+# sent_id = TOD1005bis_18
 # text = okay che in arabo standard sarebbe x bravissimo lui
 1	okay	okay	INTJ	I	_	0	root	_	AlignBegin=63.377|Intonation=ascending|Speaker=TO017|TID=28-0
 2	che	che	SCONJ	CS	_	8	mark	_	Speaker=TO017|TID=28-1
@@ -234,7 +234,7 @@
 8	bravissimo	bravo	ADJ	A	Degree=Abs|Gender=Masc|Number=Sing	1	ccomp	_	AlignBegin=67.538|Speaker=TO017|TID=30-0|Volume=low
 9	lui	lui	PRON	PE	Number=Sing|Person=3|PronType=Prs	8	nsubj	_	AlignEnd=68.423|Intonation=descending|Speaker=TO017|TID=30-1|Volume=low
 
-# sent_id = 19
+# sent_id = TOD1005bis_19
 # text = beh {ride} vi piace vincere facile
 1	beh	beh	INTJ	I	_	4	discourse	_	AlignEnd=69.392|Speaker=TO017|TID=31-0
 2	{ride}	{ride}	INTJ	SP	_	4	vocative	_	AlignEnd=70.78|Speaker=TO017|TID=32-0|Type=NLB
@@ -243,15 +243,15 @@
 5	vincere	vincere	VERB	V	VerbForm=Inf	4	csubj	_	Speaker=TO017|TID=33-2
 6	facile	facile	ADJ	A	Number=Sing	5	xcomp	_	AlignEnd=72.571|Intonation=descending|Speaker=TO017|TID=33-3
 
-# sent_id = 20
+# sent_id = TOD1005bis_20
 # text = eh
 1	eh	eh	INTJ	I	_	0	root	_	AlignBegin=72.82|Prolonged=Yes|ProsodicLink=Yes|Speaker=TO017|TID=34-0
 
-# sent_id = 21
+# sent_id = TOD1005bis_21
 # text = mh
 1	mh	mh	INTJ	I	_	0	root	_	AlignEnd=74.082|Speaker=TO017|TID=34-1
 
-# sent_id = 22
+# sent_id = TOD1005bis_22
 # text = okay questi sono i dialetti di cinque grosse eh capitali o città importanti del mondo arabo in cui si di~ si dice sempre la stessa cosa
 1	okay	okay	INTJ	I	_	5	discourse	_	AlignBegin=75.039|Speaker=TO017|TID=35-0
 2	questi	questo	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	5	nsubj	_	Speaker=TO017|TID=35-1
@@ -282,14 +282,14 @@
 26	stessa	stesso	DET	DD	PronType=Dem	27	det	_	Speaker=TO017|TID=39-8
 27	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	23	obj	_	Intonation=descending|Speaker=TO017|TID=39-9
 
-# sent_id = 23
+# sent_id = TOD1005bis_23
 # text = che cosa vuoi adesso
 1	che	che	DET	DQ	PronType=Int	2	det	_	Speaker=TO017|TID=39-10
 2	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	Speaker=TO017|TID=39-11
 3	vuoi	volere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=39-12
 4	adesso	adesso	ADV	B	_	3	advmod	_	AlignEnd=88.15|Intonation=descending|Speaker=TO017|TID=39-13
 
-# sent_id = 24
+# sent_id = TOD1005bis_24
 # text = noterete che l'ho scritto in alfabeto latino con dei segni particolari e non in alfabeto arabo
 1	noterete	notare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	AlignBegin=88.21|Speaker=TO017|TID=40-0
 2	che	che	SCONJ	CS	_	5	mark	_	Speaker=TO017|TID=40-1
@@ -311,11 +311,11 @@
 17	alfabeto	alfabeto	NOUN	S	Gender=Masc|Number=Sing	12	conj	_	Speaker=TO017|TID=40-15
 18	arabo	arabo	ADJ	A	Gender=Masc|Number=Sing	17	amod	_	AlignEnd=92.763|Speaker=TO017|TID=40-16
 
-# sent_id = 25
+# sent_id = TOD1005bis_25
 # text = perché
 1	perché	perché	ADV	B	_	0	root	_	AlignEnd=93.157|Intonation=descending|Speaker=TO017|TID=41-0
 
-# sent_id = 26
+# sent_id = TOD1005bis_26
 # text = eh perché come abbiamo detto i dialetti non hanno un sistema di scrittura ufficiale in alfabeto arabo
 1	eh	eh	INTJ	I	_	9	discourse	_	AlignBegin=93.848|Prolonged=Yes|Speaker=TO017|TID=42-0
 2	perché	perché	SCONJ	CS	_	9	mark	_	Speaker=TO017|TID=42-1
@@ -335,7 +335,7 @@
 16	alfabeto	alfabeto	NOUN	S	Gender=Masc|Number=Sing	13	nmod	_	Speaker=TO017|TID=43-1
 17	arabo	arabo	ADJ	A	Gender=Masc|Number=Sing	16	amod	_	AlignEnd=99.086|Intonation=weakly_ascending|Speaker=TO017|TID=43-2
 
-# sent_id = 27
+# sent_id = TOD1005bis_27
 # text = quindi in dialettologia quando noi scriviamo i dialetti li scriviamo in alfabeto {P} latino con dei segni {P} per rappresentare i suoni che mancano
 1	quindi	quindi	ADV	B	_	10	advmod	_	AlignBegin=99.1|Speaker=TO017|TID=44-0
 2	in	in	ADP	E	_	3	case	_	Speaker=TO017|TID=44-1
@@ -364,7 +364,7 @@
 24	che	che	PRON	PR	PronType=Rel	25	nsubj	_	Speaker=TO017|TID=44-22
 25	mancano	mancare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	acl:relcl	_	AlignEnd=107.468|Intonation=descending|Speaker=TO017|TID=44-23
 
-# sent_id = 28
+# sent_id = TOD1005bis_28
 # text = perché qual è il problema
 1	perché	perché	ADV	B	_	2	advmod	_	AlignBegin=107.468|Speaker=TO017|TID=45-0
 2	qual	quale	PRON	PQ	PronType=Int	0	root	_	Clitic=Yes|Speaker=TO017|TID=45-1
@@ -372,7 +372,7 @@
 4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Speaker=TO017|TID=45-3
 5	problema	problema	NOUN	S	Gender=Masc|Number=Sing	2	nsubj	_	Intonation=descending|Speaker=TO017|TID=45-4
 
-# sent_id = 29
+# sent_id = TOD1005bis_29
 # text = che l'alfabeto {P} arabo è perfetto per scrivere l'arabo standard
 1	che	che	SCONJ	CS	_	7	mark	_	Speaker=TO017|TID=45-5
 2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No|Speaker=TO017|TID=45-6
@@ -387,19 +387,19 @@
 11	arabo	arabo	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	Speaker=TO017|TID=46-5
 12	standard	standard	ADJ	A	_	11	amod	_	AlignEnd=112.967|Intonation=weakly_ascending|Speaker=TO017|TID=46-6
 
-# sent_id = 30
+# sent_id = TOD1005bis_30
 # text = ci mancherebbe
 1	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	2	iobj	_	AlignBegin=113.241|Clitic=Yes|Speaker=TO017|TID=47-0|Volume=low
 2	mancherebbe	mancare	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Intonation=descending|Speaker=TO017|TID=47-1|Volume=low
 
-# sent_id = 31
+# sent_id = TOD1005bis_31
 # text = è stato fatto apposta
 1	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	Speaker=TO017|TID=47-2|Volume=low
 2	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	aux:pass	_	Speaker=TO017|TID=47-3|Volume=low
 3	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Speaker=TO017|TID=47-4|Volume=low
 4	apposta	apposta	ADV	B	_	3	advmod	_	AlignEnd=115.037|Intonation=descending|Speaker=TO017|TID=47-5|Volume=low
 
-# sent_id = 32
+# sent_id = TOD1005bis_32
 # text = ma mancano un sacco di suoni che ci sono nei dialetti
 1	ma	ma	CCONJ	CC	_	2	cc	_	AlignEnd=116.479|Intonation=descending|Speaker=TO017|TID=48-0
 2	mancano	mancare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=117.032|Speaker=TO017|TID=49-0
@@ -415,7 +415,7 @@
 11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
 12	dialetti	dialetto	NOUN	S	Gender=Masc|Number=Plur	9	obl	_	AlignEnd=119.296|Intonation=descending|Speaker=TO017|TID=49-9
 
-# sent_id = 33
+# sent_id = TOD1005bis_33
 # text = e quindi per esempio noi in alfabeto arabo non posso scrivere tʃ non posso scrivere g non posso scrivere
 1	e	e	CCONJ	CC	_	11	cc	_	AlignBegin=119.852|Speaker=TO017|TID=50-0
 2	quindi	quindi	ADV	B	_	11	advmod	_	Speaker=TO017|TID=50-1
@@ -437,7 +437,7 @@
 18	posso	potere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	19	aux	_	Speaker=TO017|TID=52-1
 19	scrivere	scrivere	VERB	V	VerbForm=Inf	11	conj	_	Speaker=TO017|TID=52-2
 
-# sent_id = 34
+# sent_id = TOD1005bis_34
 # text = e per lo meno per lo meno in termini non ambigui
 1	e	e	CCONJ	CC	_	9	cc	_	AlignEnd=127.192|Intonation=weakly_ascending|Speaker=TO017|TID=52-3
 2	per	per	ADP	E	_	4	case	_	AlignBegin=127.807|PaceFast=Yes|Speaker=TO017|TID=53-0
@@ -451,7 +451,7 @@
 10	non	non	ADV	BN	PronType=Neg	11	advmod	_	Speaker=TO017|TID=53-8
 11	ambigui	ambiguio	ADJ	A	Gender=Masc|Number=Plur	9	amod	_	AlignEnd=129.93|Intonation=descending|Speaker=TO017|TID=53-9
 
-# sent_id = 35
+# sent_id = TOD1005bis_35
 # text = quindi nel momento in cui un qualche stato arabo e non sembra che succederà nel prossimo futuro nel momento in cui uno qualche stato arabo volesse ufficiliazzare il dialetto dovrebbe pensare a un sistema ortografico per scriverlo un insieme di {P} di regole
 1	quindi	quindi	ADV	B	_	34	advmod	_	AlignEnd=130.976|Speaker=TO017|TID=54-0
 2-3	nel	_	_	_	_	_	_	_	AlignBegin=131.8|Speaker=TO017|TID=55-0
@@ -505,7 +505,7 @@
 46	di	di	ADP	E	_	47	case	_	Speaker=TO017|TID=58-4
 47	regole	regola	NOUN	S	Gender=Fem|Number=Plur	45	nmod	_	AlignEnd=143.992|Intonation=descending|Speaker=TO017|TID=58-5
 
-# sent_id = 36
+# sent_id = TOD1005bis_36
 # text = okay per ora questo non è successo
 1	okay	okay	INTJ	I	_	7	discourse	_	AlignBegin=144.437|Intonation=descending|Speaker=TO017|TID=59-0
 2	per	per	ADP	E	_	3	case	_	Speaker=TO017|TID=59-1
@@ -515,7 +515,7 @@
 6	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	Speaker=TO017|TID=59-5
 7	successo	succedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	AlignEnd=145.953|Speaker=TO017|TID=59-6
 
-# sent_id = 37
+# sent_id = TOD1005bis_37
 # text = quindi noi continuiamo a scrivere i dialetti nel nostro nella {P} nostra trascrizione scientifica ci torneremo
 1	quindi	quindi	ADV	B	_	3	advmod	_	AlignBegin=146.352|Speaker=TO017|TID=60-0
 2	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	Speaker=TO017|TID=60-1
@@ -538,7 +538,7 @@
 17	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	18	expl	_	AlignBegin=150.722|Clitic=Yes|Speaker=TO017|TID=61-0
 18	torneremo	tornare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	3	parataxis	_	Intonation=weakly_ascending|Speaker=TO017|TID=61-1
 
-# sent_id = 38
+# sent_id = TOD1005bis_38
 # text = poi facciamo uno spiegone su tutti i simboli che usiamo
 1	poi	poi	ADV	B	_	2	advmod	_	Speaker=TO017|TID=61-2
 2	facciamo	fare	VERB	V	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=61-3
@@ -551,19 +551,19 @@
 9	che	che	PRON	PR	PronType=Rel	10	obj	_	Speaker=TO017|TID=61-10
 10	usiamo	usare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	Speaker=TO017|TID=61-11
 
-# sent_id = 39
+# sent_id = TOD1005bis_39
 # text = così nessuno si confonde
 1	così	così	ADV	B	_	4	advmod	_	Speaker=TO017|TID=61-12
 2	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	4	nsubj	_	Speaker=TO017|TID=61-13
 3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	Clitic=Yes|Speaker=TO017|TID=61-14
 4	confonde	confondere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=61-15
 
-# sent_id = 40
+# sent_id = TOD1005bis_40
 # text = ma rapidamente
 1	ma	ma	CCONJ	CC	_	2	cc	_	AlignEnd=155.895|Intonation=descending|Speaker=TO017|TID=61-16
 2	rapidamente	rapidamente	ADV	B	_	0	root	_	AlignBegin=156.459|Speaker=TO017|TID=62-0
 
-# sent_id = 41
+# sent_id = TOD1005bis_41
 # text = così per sentire {P} eh per vedere come suonano
 1	così	così	ADV	B	_	0	root	_	Speaker=TO017|TID=62-1
 2	per	per	ADP	E	_	3	mark	_	Speaker=TO017|TID=62-2
@@ -575,7 +575,7 @@
 8	come	come	ADV	CS	_	9	mark	_	Speaker=TO017|TID=63-2
 9	suonano	suonare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	AlignEnd=160.924|Speaker=TO017|TID=63-3
 
-# sent_id = 42
+# sent_id = TOD1005bis_42
 # text = allora io li posso leggere {P}
 1	allora	allora	ADV	B	_	5	advmod	_	AlignBegin=161.979|Speaker=TO017|TID=64-0
 2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Speaker=TO017|TID=64-1
@@ -584,7 +584,7 @@
 5	leggere	leggere	VERB	V	VerbForm=Inf	0	root	_	Speaker=TO017|TID=64-4
 6	{P}	{p}	SYM	SYM	_	5	discourse	_	Speaker=TO017|TID=64-5|Type=shortpause
 
-# sent_id = 43
+# sent_id = TOD1005bis_43
 # text = però allora io sono pessimo a fare gli accenti
 1	però	però	CCONJ	CC	_	5	advmod	_	AlignEnd=164.188|Intonation=weakly_ascending|Speaker=TO017|TID=64-6
 2	allora	allora	ADV	B	_	5	advmod	_	AlignBegin=164.613|Speaker=TO017|TID=65-0
@@ -596,7 +596,7 @@
 8	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	Speaker=TO017|TID=65-6
 9	accenti	accento	NOUN	S	Gender=Masc|Number=Plur	7	obj	_	Speaker=TO017|TID=65-7
 
-# sent_id = 44
+# sent_id = TOD1005bis_44
 # text = quindi ve li leggo così come mi vengono
 1	quindi	quindi	ADV	B	_	4	advmod	_	AlignEnd=166.681|Speaker=TO017|TID=65-8
 2	ve	ve	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	4	iobj	_	AlignBegin=167.073|Clitic=Yes|Speaker=TO017|TID=66-0
@@ -607,7 +607,7 @@
 7	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	iobj	_	Clitic=Yes|Speaker=TO017|TID=66-5
 8	vengono	venire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	AlignEnd=168.325|Speaker=TO017|TID=66-6
 
-# sent_id = 45
+# sent_id = TOD1005bis_45
 # text = facciamo che il cairo lo legge qualcuno {P} un egiziano un egiziano io tu vai leggi mi il cairo
 1	facciamo	fare	VERB	V	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=168.605|Speaker=TO017|TID=67-0
 2	che	che	SCONJ	CS	_	6	mark	_	AlignEnd=169.369|Speaker=TO017|TID=67-1
@@ -629,7 +629,7 @@
 18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	Speaker=TO017|TID=72-2
 19	cairo	cairo	NOUN	S	Gender=Masc|Number=Sing	16	obj	_	AlignEnd=176.023|Intonation=weakly_ascending|Speaker=TO017|TID=72-3
 
-# sent_id = 46
+# sent_id = TOD1005bis_46
 # text = come puoi dici cosa vuoi adesso
 1	come	come	ADV	B	_	3	advmod	_	AlignBegin=176.073|Speaker=TO017|TID=73-0
 2	puoi	potere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	Speaker=TO017|TID=73-1
@@ -638,12 +638,12 @@
 5	vuoi	volere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	ccomp	_	Speaker=TO017|TID=73-4
 6	adesso	adesso	ADV	B	_	5	advmod	_	AlignEnd=177.528|Intonation=ascending|Speaker=TO017|TID=73-5
 
-# sent_id = 47
+# sent_id = TOD1005bis_47
 # text = x okay
 1	x	per	ADP	E	_	2	case	_	AlignEnd=178.658|Speaker=???|TID=74-0|Type=unknown
 2	okay	okay	INTJ	I	_	0	root	_	AlignEnd=179.387|Intonation=weakly_ascending|Prolonged=Yes|Speaker=TO017|TID=75-0
 
-# sent_id = 48
+# sent_id = TOD1005bis_48
 # text = e qualcuno un dal {P} marocco rabat che mi legga che mi dica non mi serve che mi correggete co~ cosa vuoi adesso in marocchino in rabatino eh x okay x okay
 1	e	e	CCONJ	CC	_	2	cc	_	AlignBegin=179.746|Speaker=TO017|TID=76-0
 2	qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	17	nsubj	_	Speaker=TO017|TID=76-1
@@ -680,12 +680,12 @@
 32	x	per	ADP	E	_	33	case	_	AlignEnd=191.98|Speaker=TO017|TID=81-1|Type=unknown
 33	okay	okay	INTJ	I	_	31	conj	_	AlignEnd=192.51|Speaker=TO017|TID=82-0
 
-# sent_id = 49
+# sent_id = TOD1005bis_49
 # text = gli altri
 1	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	AlignBegin=193.535|Speaker=TO017|TID=83-0
 2	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	0	root	_	AlignEnd=194.264|Prolonged=Yes|Speaker=TO017|TID=83-1
 
-# sent_id = 50
+# sent_id = TOD1005bis_50
 # text = e secondo me continuereste a leggere meglio di quanto possa fare io comunque sono gli arabi
 1	e	e	CCONJ	CC	_	4	cc	_	AlignBegin=194.5|Speaker=TO017|TID=84-0
 2	secondo	secondo	ADP	E	_	3	case	_	Speaker=TO017|TID=84-1
@@ -704,7 +704,7 @@
 15	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	Speaker=TO017|TID=85-2
 16	arabi	arabo	NOUN	S	Gender=Masc|Number=Plur	4	parataxis	_	Prolonged=Yes|Speaker=TO017|TID=85-3
 
-# sent_id = 51
+# sent_id = TOD1005bis_51
 # text = in arabia saudita x mh a damasco x e {P} a baghdad x okay questi sono ed è sempre la stessa frase
 1	in	in	ADP	E	_	2	case	_	Speaker=TO017|TID=85-4
 2	arabia	arabia	PROPN	SP	_	0	root	_	Speaker=TO017|TID=85-5
@@ -729,7 +729,7 @@
 21	stessa	stesso	DET	DD	PronType=Dem	22	det	_	Speaker=TO017|TID=94-4
 22	frase	frase	NOUN	S	Gender=Fem|Number=Sing	2	conj	_	AlignEnd=209.741|Intonation=descending|Speaker=TO017|TID=94-5
 
-# sent_id = 52
+# sent_id = TOD1005bis_52
 # text = quindi a livello di variazione quanta ne abbiamo parecchia mh tanta
 1	quindi	quindi	ADV	B	_	8	advmod	_	AlignBegin=210.14|Speaker=TO017|TID=95-0
 2	a	a	ADP	E	_	3	case	_	Speaker=TO017|TID=95-1
@@ -743,7 +743,7 @@
 10	mh	mh	INTJ	I	_	8	discourse	_	AlignBegin=213.151|Speaker=TO017|TID=97-0
 11	tanta	tanto	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	8	obl	_	AlignEnd=213.914|Intonation=descending|Speaker=TO017|TID=97-1
 
-# sent_id = 53
+# sent_id = TOD1005bis_53
 # text = allora {P} c'è da dire che questo è il lessico di base
 1	allora	allora	ADV	B	_	4	advmod	_	AlignBegin=214.211|Speaker=TO017|TID=98-0
 2	{P}	{p}	SYM	SYM	_	4	nsubj	_	Speaker=TO017|TID=98-1|Type=shortpause
@@ -759,7 +759,7 @@
 12	di	di	ADP	E	_	13	case	_	Speaker=TO017|TID=98-11
 13	base	base	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	Speaker=TO017|TID=98-12
 
-# sent_id = 54
+# sent_id = TOD1005bis_54
 # text = il lessico di base quello più usato {P} tende a cambiare di più
 1	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Speaker=TO017|TID=98-13
 2	lessico	lessico	NOUN	S	Gender=Masc|Number=Sing	9	nsubj	_	Speaker=TO017|TID=98-14
@@ -775,7 +775,7 @@
 12	di	di	ADP	E	_	13	case	_	Speaker=TO017|TID=98-24
 13	più	più	ADV	B	_	11	advmod	_	AlignEnd=220.388|Speaker=TO017|TID=98-25
 
-# sent_id = 55
+# sent_id = TOD1005bis_55
 # text = è fatto di parole come pidginizzazione d'accordo pidginizzazione è una parola che tende a rimanere uguale
 1	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux:pass	_	AlignBegin=220.606|Speaker=TO017|TID=99-0
 2	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Speaker=TO017|TID=99-1
@@ -795,13 +795,13 @@
 16	rimanere	rimanere	VERB	V	VerbForm=Inf	14	xcomp	_	Speaker=TO017|TID=101-9
 17	uguale	uguale	ADJ	A	Number=Sing	16	xcomp	_	AlignEnd=227.444|Prolonged=Yes|Speaker=TO017|TID=101-10
 
-# sent_id = 56
+# sent_id = TOD1005bis_56
 # text = è dappertutto eh
 1	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	AlignBegin=227.489|Speaker=TO017|TID=102-0
 2	dappertutto	dappertutto	ADV	B	_	0	root	_	AlignEnd=228.247|Intonation=descending|Speaker=TO017|TID=102-1
 3	eh	eh	INTJ	I	_	2	discourse	_	AlignEnd=229.311|Prolonged=Yes|Speaker=TO017|TID=103-0
 
-# sent_id = 57
+# sent_id = TOD1005bis_57
 # text = il ve~ il verbo volere tende a cambiare molto di più
 1	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	AlignBegin=229.553|Speaker=TO017|TID=104-0
 2	ve~	verbo	NOUN	S	_	6	nsubj	_	Interrupted=Yes|Speaker=TO017|TID=104-1
@@ -815,14 +815,14 @@
 10	di	di	ADP	E	_	11	case	_	Speaker=TO017|TID=104-9
 11	più	più	ADV	B	_	8	advmod	_	AlignEnd=232.388|Prolonged=Yes|Speaker=TO017|TID=104-10
 
-# sent_id = 58
+# sent_id = TOD1005bis_58
 # text = però {P} comunque vede~
 1	però	però	ADV	B	_	4	advmod	_	AlignBegin=233.392|Speaker=TO017|TID=105-0
 2	{P}	{p}	SYM	SYM	_	4	discourse	_	Speaker=TO017|TID=105-1|Type=shortpause
 3	comunque	comunque	ADV	B	_	4	advmod	_	Speaker=TO017|TID=105-2
 4	vede~	vedere	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Interrupted=Yes|Speaker=TO017|TID=105-3
 
-# sent_id = 59
+# sent_id = TOD1005bis_59
 # text = vedete che a livello di lessico di base la differenza dei {P} dialetti tra loro e dei dialetti dal classico è notevolissima
 1	vedete	vedere	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=105-4
 2	che	che	SCONJ	CS	_	25	mark	_	Speaker=TO017|TID=105-5
@@ -853,11 +853,11 @@
 24	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	Speaker=TO017|TID=106-12
 25	notevolissima	notevole	ADJ	A	Degree=Abs|Gender=Fem|Number=Sing	1	ccomp	_	AlignEnd=239.9|Intonation=descending|Speaker=TO017|TID=106-13
 
-# sent_id = 60
+# sent_id = TOD1005bis_60
 # text = eh
 1	eh	eh	INTJ	I	_	0	root	_	AlignEnd=240.564|Prolonged=Yes|Speaker=TO017|TID=107-0
 
-# sent_id = 61
+# sent_id = TOD1005bis_61
 # text = in effetti avete soltanto eh baghdad che riprende la radice
 1	in	in	ADP	E	_	2	case	_	AlignBegin=240.608|Speaker=TO017|TID=108-0
 2	effetti	effetto	NOUN	S	Gender=Masc|Number=Plur	3	obl	_	Speaker=TO017|TID=108-1
@@ -870,7 +870,7 @@
 9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	AlignBegin=244.767|Speaker=TO017|TID=112-0
 10	radice	radice	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	Speaker=TO017|TID=112-1
 
-# sent_id = 62
+# sent_id = TOD1005bis_62
 # text = no eh del verbo x il volere del {P} classico per il resto {parla_in_arabo}
 1	no	no	INTJ	I	_	0	root	_	AlignEnd=245.705|Intonation=weakly_ascending|Speaker=TO017|TID=112-2
 2	eh	eh	INTJ	I	_	1	discourse	_	AlignEnd=246.488|Prolonged=Yes|Speaker=TO017|TID=113-0
@@ -891,7 +891,7 @@
 15	resto	resto	NOUN	S	Gender=Masc|Number=Sing	12	nmod	_	AlignEnd=251.713|Intonation=weakly_ascending|Speaker=TO017|TID=116-2
 16	{parla_in_arabo}	{parla_in_arabo}	SYM	X	_	1	parataxis	_	AlignEnd=255.514|Speaker=???|TID=117-0|Type=_
 
-# sent_id = 63
+# sent_id = TOD1005bis_63
 # text = mh {parla_in_arabo} mh mh {parla_in_arabo} sì sì sì
 1	mh	mh	INTJ	I	_	5	discourse	_	AlignEnd=255.85|Intonation=weakly_ascending|Speaker=TO017|TID=118-0
 2	{parla_in_arabo}	{parla_in_arabo}	INTJ	I	_	5	discourse	_	AlignEnd=258.367|Speaker=???|TID=119-0|Type=_
@@ -902,12 +902,12 @@
 7	sì	sì	INTJ	I	_	5	discourse	_	Speaker=TO017|TID=122-1
 8	sì	sì	INTJ	I	_	5	discourse	_	Speaker=TO017|TID=122-2
 
-# sent_id = 64
+# sent_id = TOD1005bis_64
 # text = tutti sono
 1	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	0	root	_	Speaker=TO017|TID=122-3
 2	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	ProsodicLink=Yes|Speaker=TO017|TID=122-4
 
-# sent_id = 65
+# sent_id = TOD1005bis_65
 # text = sono sono sicuro che tutti derivino da eh radici arabe
 1	sono	essere	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	Speaker=TO017|TID=122-5
 2	sono	essere	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	Speaker=TO017|TID=122-6
@@ -920,7 +920,7 @@
 9	radici	radice	NOUN	S	Gender=Fem|Number=Plur	6	obl	_	Speaker=TO017|TID=123-1
 10	arabe	arabo	ADJ	A	Gender=Fem|Number=Plur	9	amod	_	Speaker=TO017|TID=123-2
 
-# sent_id = 66
+# sent_id = TOD1005bis_66
 # text = ma dico che la somiglianza di questa frase in arabo standard con {P} la frase nei vari dialetti è molto poca
 1	ma	ma	CCONJ	CC	_	2	cc	_	Speaker=TO017|TID=123-3
 2	dico	dire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=123-4
@@ -946,7 +946,7 @@
 21	molto	molto	ADV	B	_	22	advmod	_	Speaker=TO017|TID=124-8
 22	poca	poco	ADJ	A	Gender=Fem|Number=Sing	2	ccomp	_	AlignEnd=269.729|Intonation=descending|Speaker=TO017|TID=124-9
 
-# sent_id = 67
+# sent_id = TOD1005bis_67
 # text = c'è giusto un'idea nel {P} baghdadino
 1	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	2	expl	_	AlignBegin=270.011|Clitic=Yes|SpaceAfter=No|Speaker=TO017|TID=125-0
 2	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=125-1
@@ -959,19 +959,19 @@
 8	{P}	{p}	SYM	SYM	_	2	obl	_	Speaker=TO017|TID=126-1|Type=shortpause
 9	baghdadino	baghdadino	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	AlignEnd=272.771|Intonation=descending|Speaker=TO017|TID=126-2
 
-# sent_id = 68
+# sent_id = TOD1005bis_68
 # text = okay eh
 1	okay	okay	INTJ	I	_	0	root	_	AlignEnd=274.1|Intonation=weakly_ascending|Speaker=TO017|TID=127-0
 2	eh	eh	INTJ	I	_	1	discourse	_	AlignEnd=275.323|Prolonged=Yes|Speaker=TO017|TID=128-0
 
-# sent_id = 69
+# sent_id = TOD1005bis_69
 # text = quindi abbiamo parecchia differenza
 1	quindi	quindi	ADV	B	_	2	advmod	_	AlignBegin=275.417|Speaker=TO017|TID=129-0
 2	abbiamo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=129-1
 3	parecchia	parecchio	DET	DI	PronType=Ind	4	det	_	AlignEnd=276.794|Intonation=weakly_ascending|Speaker=TO017|TID=129-2
 4	differenza	differenza	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	AlignBegin=277.494|Intonation=weakly_ascending|Speaker=TO017|TID=130-0
 
-# sent_id = 70
+# sent_id = TOD1005bis_70
 # text = e ricordatevi {P} stiamo parlando di dialetti di cinque capitali e di cinque grosse città
 1	e	e	CCONJ	CC	_	2	cc	_	Speaker=TO017|TID=130-1
 2-3	ricordatevi	_	_	_	_	_	_	_	Speaker=TO017|TID=130-3
@@ -991,7 +991,7 @@
 15	grosse	grosso	ADJ	A	Gender=Fem|Number=Plur	16	amod	_	Speaker=TO017|TID=130-14
 16	città	città	NOUN	S	Gender=Fem	11	conj	_	Intonation=descending|Speaker=TO017|TID=130-15
 
-# sent_id = 71
+# sent_id = TOD1005bis_71
 # text = okay se vado a considerare quello che succede eh se vado a pren~ comincio andare a prendere qualche dialetto sperduto delle campagne e delle montagne
 1	okay	okay	INTJ	I	_	14	discourse	_	Intonation=weakly_ascending|Speaker=TO017|TID=130-16
 2	se	se	SCONJ	CS	_	3	mark	_	Speaker=TO017|TID=130-17
@@ -1023,7 +1023,7 @@
 26	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	27	det	_	_
 27	montagne	montagna	NOUN	S	Gender=Fem|Number=Plur	23	conj	_	AlignEnd=291.511|Intonation=weakly_ascending|Speaker=TO017|TID=132-15
 
-# sent_id = 72
+# sent_id = TOD1005bis_72
 # text = la faccenda si complica e non di poco
 1	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	AlignBegin=292.389|Speaker=TO017|TID=133-0
 2	faccenda	faccenda	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	Speaker=TO017|TID=133-1
@@ -1034,7 +1034,7 @@
 7	di	di	ADP	E	_	8	case	_	Speaker=TO017|TID=133-6
 8	poco	poco	ADV	B	_	4	conj	_	AlignEnd=294.361|Intonation=descending|Speaker=TO017|TID=133-7
 
-# sent_id = 73
+# sent_id = TOD1005bis_73
 # text = qui ho fatto una slide con alcuni pronomi
 1	qui	qui	ADV	B	_	3	advmod	_	AlignBegin=294.732|Speaker=TO017|TID=134-0
 2	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	Speaker=TO017|TID=134-1
@@ -1045,7 +1045,7 @@
 7	alcuni	alcuno	DET	DI	PronType=Ind	8	det	_	Speaker=TO017|TID=134-6
 8	pronomi	pronomo	NOUN	S	Gender=Masc|Number=Plur	3	obl	_	AlignEnd=297|Intonation=weakly_ascending|Speaker=TO017|TID=134-7
 
-# sent_id = 74
+# sent_id = TOD1005bis_74
 # text = la realizzazione dei pronomi in alcuni dialetti marginali tra virgolette
 1	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	AlignBegin=297.1|Speaker=TO017|TID=135-0
 2	realizzazione	realizzazione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	PaceFast=Yes|Speaker=TO017|TID=135-1
@@ -1060,7 +1060,7 @@
 10	tra	tra	ADP	E	_	11	case	_	AlignBegin=302.893|Speaker=TO017|TID=137-0
 11	virgolette	virgoletta	NOUN	S	Gender=Fem|Number=Plur	2	nmod	_	AlignEnd=303.771|Speaker=TO017|TID=137-1
 
-# sent_id = 75
+# sent_id = TOD1005bis_75
 # text = okay avete i pronomi suffissi di seconda persona plurale e i pronomi indipendenti indipendenti occhio di terza persona plurale maschile e femminile rispettivamente
 1	okay	okay	INTJ	I	_	2	discourse	_	AlignEnd=304.521|Intonation=weakly_ascending|Speaker=TO017|TID=138-0
 2	avete	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=304.904|Speaker=TO017|TID=139-0
@@ -1086,7 +1086,7 @@
 22	femminile	femminile	ADJ	A	Number=Sing	20	conj	_	Speaker=TO017|TID=143-2
 23	rispettivamente	rispettivamente	ADV	B	_	2	advmod	_	AlignEnd=314.568|Speaker=TO017|TID=143-3
 
-# sent_id = 76
+# sent_id = TOD1005bis_76
 # text = allora posto che un sacco di reti non hanno questa distinzione maschile e femminile vanno insieme
 1	allora	allora	ADV	B	_	2	advmod	_	AlignBegin=314.735|Speaker=TO017|TID=144-0
 2	posto	postare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	advcl	_	Speaker=TO017|TID=144-1
@@ -1105,7 +1105,7 @@
 15	vanno	andare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=144-14
 16	insieme	insieme	ADV	B	_	15	advmod	_	AlignEnd=318.805|Intonation=weakly_ascending|Speaker=TO017|TID=144-15
 
-# sent_id = 77
+# sent_id = TOD1005bis_77
 # text = tutti questi dialetti ce l'hanno ancora
 1	tutti	tutto	DET	DI	PronType=Ind	3	det:predet	_	AlignBegin=319.046|Speaker=TO017|TID=145-0
 2	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	3	det	_	Speaker=TO017|TID=145-1
@@ -1115,7 +1115,7 @@
 6	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=145-5
 7	ancora	ancora	ADV	B	_	6	advmod	_	AlignEnd=320.67|Intonation=weakly_ascending|Speaker=TO017|TID=145-6
 
-# sent_id = 78
+# sent_id = TOD1005bis_78
 # text = d si parla di molti posti diversi nel mondo arabo e fuori
 1	d	di	X	X	_	3	obl	_	AlignBegin=320.77|Speaker=TO017|TID=146-0
 2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl:impers	_	Clitic=Yes|Prolonged=Yes|Speaker=TO017|TID=146-1
@@ -1132,7 +1132,7 @@
 12	e	e	CCONJ	CC	_	13	cc	_	Speaker=TO017|TID=147-3
 13	fuori	fuori	ADV	B	_	11	conj	_	Prolonged=Yes|Speaker=TO017|TID=147-4
 
-# sent_id = 79
+# sent_id = TOD1005bis_79
 # text = perché abbiamo anche alcuni dialetti dell'uzbe~ un dialetto dell'uzbekistan e vedete che ne avete di tutti i colori
 1	perché	perché	SCONJ	CS	_	2	mark	_	Speaker=TO017|TID=147-5
 2	abbiamo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=147-6
@@ -1159,7 +1159,7 @@
 21	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	Speaker=TO017|TID=149-2
 22	colori	colore	NOUN	S	Gender=Masc|Number=Plur	18	obl	_	AlignEnd=333.492|Intonation=weakly_ascending|Speaker=TO017|TID=149-3
 
-# sent_id = 80
+# sent_id = TOD1005bis_80
 # text = okay avete per esempio avete delle forme che ancora possono ricordare il x
 1	okay	okay	INTJ	I	_	5	discourse	_	AlignEnd=333.951|Intonation=weakly_ascending|Speaker=TO017|TID=150-0
 2	avete	avere	AUX	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	AlignBegin=333.999|Speaker=TO017|TID=151-0
@@ -1177,7 +1177,7 @@
 13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	Speaker=TO017|TID=152-7
 14	x	x	X	X	_	12	obj	_	Speaker=TO017|TID=152-8|Type=unknown
 
-# sent_id = 81
+# sent_id = TOD1005bis_81
 # text = il x dell'arabo standard vedete x x avete un co a palmira nella palestina rurale la palestina
 1	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Speaker=TO017|TID=152-9
 2	x	x	NOUN	S	_	7	nsubj	_	AlignEnd=338.517|Speaker=TO017|TID=152-10|Type=unknown
@@ -1202,7 +1202,7 @@
 19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	Speaker=TO017|TID=156-3
 20	palestina	palestina	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	Speaker=TO017|TID=156-4
 
-# sent_id = 82
+# sent_id = TOD1005bis_82
 # text = se uscite a gerusalemme andate un po' a farvi i giri
 1	se	se	SCONJ	CS	_	2	mark	_	Speaker=TO017|TID=156-5
 2	uscite	uscire	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	5	advcl	_	Speaker=TO017|TID=156-6
@@ -1218,7 +1218,7 @@
 11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	Speaker=TO017|TID=156-14
 12	giri	giro	NOUN	S	Gender=Masc|Number=Plur	9	obj	_	AlignEnd=347.764|Intonation=weakly_ascending|Prolonged=Yes|Speaker=TO017|TID=156-15
 
-# sent_id = 83
+# sent_id = TOD1005bis_83
 # text = nella cisgiordania potete sentire gente che invece di x x e x okay eh in turchia è x e in turchia avete la stessa cosa ma solo per il femminile
 1-2	nella	_	_	_	_	_	_	_	AlignBegin=347.8|Speaker=TO017|TID=157-0
 1	in	in	ADP	E	_	3	case	_	_
@@ -1253,7 +1253,7 @@
 30	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	Speaker=TO017|TID=162-10
 31	femminile	femminile	NOUN	S	Number=Sing	23	conj	_	AlignEnd=358.476|Intonation=weakly_ascending|Speaker=TO017|TID=162-11
 
-# sent_id = 84
+# sent_id = TOD1005bis_84
 # text = avete x al maschile ma x al femminile
 1	avete	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=358.555|Speaker=TO017|TID=163-0
 2	x	per	ADP	E	_	5	case	_	Speaker=TO017|TID=163-1|Type=unknown
@@ -1268,7 +1268,7 @@
 9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	femminile	femminile	NOUN	A	Number=Sing	1	conj	_	AlignEnd=361.055|Intonation=weakly_ascending|Speaker=TO017|TID=163-7
 
-# sent_id = 85
+# sent_id = TOD1005bis_85
 # text = in x avete x per il maschile e x per il {P} femminile
 1	in	in	ADP	E	_	3	mark	_	AlignBegin=361.561|Speaker=TO017|TID=164-0
 2	x	per	ADP	E	_	3	advmod	_	Speaker=TO017|TID=164-1|Type=unknown
@@ -1284,7 +1284,7 @@
 12	{P}	{p}	SYM	SYM	_	7	conj	_	Speaker=TO017|TID=165-2|Type=shortpause
 13	femminile	femminile	ADJ	A	Number=Sing	12	amod	_	AlignEnd=365.87|Intonation=weakly_ascending|Speaker=TO017|TID=165-3
 
-# sent_id = 86
+# sent_id = TOD1005bis_86
 # text = eh x sempre in arabia saudita per quello che riguarda i pronomi indipendenti avete il tipico e molto siriano x con questa enne finale probabilmente viene dall'aramaico non si sa
 1	eh	eh	INTJ	I	_	14	discourse	_	AlignEnd=368.042|Prolonged=Yes|Speaker=TO017|TID=166-0
 2	x	per	ADP	E	_	5	case	_	AlignBegin=368.741|Speaker=TO017|TID=167-0|Type=unknown
@@ -1320,7 +1320,7 @@
 31	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	32	expl:impers	_	Clitic=Yes|Speaker=TO017|TID=170-9
 32	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	parataxis	_	AlignEnd=379.751|Intonation=weakly_ascending|Speaker=TO017|TID=170-10
 
-# sent_id = 87
+# sent_id = TOD1005bis_87
 # text = avete questo stranissimo x a palmira {P} per dire {P} x eh x x eh
 1	avete	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=380.152|Speaker=TO017|TID=171-0
 2	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	1	obj	_	Speaker=TO017|TID=171-1
@@ -1338,7 +1338,7 @@
 14	x	x	SYM	X	_	1	discourse	_	AlignEnd=387.317|Speaker=TO017|TID=174-1|Type=unknown
 15	eh	eh	INTJ	I	_	1	discourse	_	AlignBegin=387.754|Prolonged=Yes|Speaker=TO017|TID=175-0
 
-# sent_id = 88
+# sent_id = TOD1005bis_88
 # text = e poi altrettanto strani in qu~ questo dialetto dialetto uzbeko di bukhara invece di x e x dicono x e x
 1	e	e	CCONJ	CC	_	4	cc	_	Speaker=TO017|TID=175-1
 2	poi	poi	ADV	B	_	4	advmod	_	Speaker=TO017|TID=175-2
@@ -1362,7 +1362,7 @@
 20	e	e	CCONJ	CC	_	21	cc	_	AlignBegin=395.893|Speaker=TO017|TID=177-0
 21	x	x	X	X	_	19	conj	_	AlignEnd=396.692|Intonation=descending|Speaker=TO017|TID=177-1|Type=unknown
 
-# sent_id = 89
+# sent_id = TOD1005bis_89
 # text = okay per dire loro {P} uomini e loro {P} donne
 1	okay	okay	INTJ	I	_	0	root	_	AlignEnd=397.273|Speaker=TO017|TID=178-0
 2	per	per	ADP	E	_	3	mark	_	AlignBegin=397.321|Speaker=TO017|TID=179-0
@@ -1375,13 +1375,13 @@
 9	{P}	{p}	SYM	SYM	_	10	discourse	_	Speaker=TO017|TID=180-5|Type=shortpause
 10	donne	donna	NOUN	S	Gender=Fem|Number=Plur	6	conj	_	AlignEnd=400.873|Intonation=weakly_ascending|Speaker=TO017|TID=180-6
 
-# sent_id = 90
+# sent_id = TOD1005bis_90
 # text = è abbastanza strano
 1	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	AlignBegin=401.056|Speaker=TO017|TID=181-0
 2	abbastanza	abbastanza	ADV	B	_	3	advmod	_	Speaker=TO017|TID=181-1
 3	strano	strano	ADJ	A	Gender=Masc|Number=Sing	0	root	_	Speaker=TO017|TID=181-2
 
-# sent_id = 91
+# sent_id = TOD1005bis_91
 # text = anche x in mauritania che ha x e x
 1	anche	anche	ADV	B	_	4	advmod	_	Speaker=TO017|TID=181-3
 2	x	per	ADP	E	_	4	case	_	Speaker=TO017|TID=181-4|Type=unknown
@@ -1393,11 +1393,11 @@
 8	e	e	CCONJ	CC	_	9	cc	_	Speaker=TO017|TID=182-1
 9	x	x	X	X	_	7	conj	_	AlignEnd=406.331|Intonation=descending|Speaker=TO017|TID=182-2|Type=unknown
 
-# sent_id = 92
+# sent_id = TOD1005bis_92
 # text = okay
 1	okay	okay	INTJ	I	_	0	root	_	AlignEnd=406.975|Speaker=TO017|TID=183-0
 
-# sent_id = 93
+# sent_id = TOD1005bis_93
 # text = quindi appunto anche a livello di struttura morfologica di base eh i pronomi avete un bel po' di variazione
 1	quindi	quindi	CCONJ	CC	_	5	advmod	_	AlignEnd=407.698|Intonation=descending|Speaker=TO017|TID=184-0
 2	appunto	appunto	ADV	B	_	5	advmod	_	AlignEnd=408.82|Speaker=TO017|TID=185-0
@@ -1419,7 +1419,7 @@
 18	di	di	ADP	E	_	19	case	_	Speaker=TO017|TID=188-4
 19	variazione	variazione	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	AlignEnd=414.872|Intonation=descending|Speaker=TO017|TID=188-5
 
-# sent_id = 94
+# sent_id = TOD1005bis_94
 # text = e queste sono alcune solo delle {P} forme
 1	e	e	CCONJ	CC	_	4	cc	_	AlignBegin=414.911|Speaker=TO017|TID=189-0
 2	queste	questo	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	4	nsubj	_	Speaker=TO017|TID=189-1
@@ -1432,13 +1432,13 @@
 8	{P}	{p}	SYM	SYM	_	4	nmod	_	Speaker=TO017|TID=189-5|Type=shortpause
 9	forme	forma	NOUN	S	Gender=Fem|Number=Plur	4	nsubj	_	AlignEnd=417.184|Intonation=descending|Speaker=TO017|TID=189-7
 
-# sent_id = 95
+# sent_id = TOD1005bis_95
 # text = quindi {P} rimandiamo
 1	quindi	quindi	ADV	B	_	3	advmod	_	AlignBegin=419.494|Speaker=TO017|TID=190-0
 2	{P}	{p}	SYM	SYM	_	3	discourse	_	Speaker=TO017|TID=190-1|Type=shortpause
 3	rimandiamo	rimandere	VERB	V	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=190-2
 
-# sent_id = 96
+# sent_id = TOD1005bis_96
 # text = per ora la risposta alla nostra domanda {P} di possiamo trovare qualcosa che tutti i i dialetti incluso l'arabo standard hanno in comune
 1	per	per	ADP	E	_	2	case	_	Speaker=TO017|TID=190-3
 2	ora	ora	ADV	B	_	12	advmod	_	Speaker=TO017|TID=190-4
@@ -1467,7 +1467,7 @@
 24	in	in	ADP	E	_	25	case	_	Speaker=TO017|TID=192-1
 25	comune	comune	NOUN	S	Gender=Masc|Number=Sing	23	obl	_	AlignEnd=428.783|Intonation=weakly_ascending|Speaker=TO017|TID=192-2
 
-# sent_id = 97
+# sent_id = TOD1005bis_97
 # text = a cui proveremo a rispondere più avanti
 1	a	a	ADP	E	_	2	case	_	AlignBegin=431.041|Speaker=TO017|TID=193-0
 2	cui	cui	PRON	PR	PronType=Rel	3	obl	_	Speaker=TO017|TID=193-1
@@ -1477,7 +1477,7 @@
 6	più	più	ADV	B	_	7	advmod	_	Speaker=TO017|TID=193-5
 7	avanti	avanti	ADV	B	_	5	advmod	_	AlignEnd=433.056|Intonation=weakly_ascending|Prolonged=Yes|Speaker=TO017|TID=193-6
 
-# sent_id = 98
+# sent_id = TOD1005bis_98
 # text = rimane una possibilità di classificazione che è questa
 1	rimane	rimanere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignEnd=434.628|Intonation=weakly_ascending|Speaker=TO017|TID=194-0
 2	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	AlignBegin=435.214|Speaker=TO017|TID=195-0
@@ -1488,7 +1488,7 @@
 7	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	Speaker=TO017|TID=197-1
 8	questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	5	acl:relcl	_	AlignEnd=439.544|Intonation=descending|Speaker=TO017|TID=197-2
 
-# sent_id = 99
+# sent_id = TOD1005bis_99
 # text = noi abbiamo parlato di variazioni diatopiche
 1	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	AlignBegin=439.846|Speaker=TO017|TID=198-0
 2	abbiamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	Speaker=TO017|TID=198-1
@@ -1497,7 +1497,7 @@
 5	variazioni	variazione	NOUN	S	Gender=Fem|Number=Plur	3	obl	_	Speaker=TO017|TID=198-4
 6	diatopiche	diatopico	ADJ	A	Gender=Fem|Number=Plur	5	amod	_	AlignEnd=442.29|Intonation=weakly_ascending|Speaker=TO017|TID=198-5
 
-# sent_id = 100
+# sent_id = TOD1005bis_100
 # text = proviamo a guardare in senso diacronico
 1	proviamo	provare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=443.204|Speaker=TO017|TID=199-0
 2	a	a	ADP	E	_	3	mark	_	Speaker=TO017|TID=199-1
@@ -1506,7 +1506,7 @@
 5	senso	senso	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	Speaker=TO017|TID=199-4
 6	diacronico	diacronico	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	Intonation=descending|Speaker=TO017|TID=199-5
 
-# sent_id = 101
+# sent_id = TOD1005bis_101
 # text = voi potete dire va bene
 1	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	3	nsubj	_	Speaker=TO017|TID=199-6
 2	potete	potere	AUX	VM	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	Speaker=TO017|TID=199-7
@@ -1514,7 +1514,7 @@
 4	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	discourse	_	PaceFast=Yes|Speaker=TO017|TID=199-9
 5	bene	bene	ADV	B	_	3	advmod	_	AlignEnd=445.952|Intonation=descending|PaceFast=Yes|Speaker=TO017|TID=199-10
 
-# sent_id = 102
+# sent_id = TOD1005bis_102
 # text = allora tutti questi dialetti sono diversissimi
 1	allora	allora	ADV	B	_	6	advmod	_	AlignBegin=446.582|Speaker=TO017|TID=200-0
 2	tutti	tutto	DET	DI	PronType=Ind	4	det:predet	_	Speaker=TO017|TID=200-1
@@ -1523,7 +1523,7 @@
 5	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	Speaker=TO017|TID=200-4
 6	diversissimi	diverso	ADJ	A	Degree=Abs|Gender=Masc|Number=Plur	0	root	_	PaceSlow=Yes|Prolonged=Yes|Speaker=TO017|TID=200-5
 
-# sent_id = 103
+# sent_id = TOD1005bis_103
 # text = o mio dio quanti dialetti diversi ci sono
 1	o	o	INTJ	CC	_	8	discourse	_	Speaker=TO017|TID=200-6
 2	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	3	det:poss	_	Speaker=TO017|TID=200-7
@@ -1534,7 +1534,7 @@
 7	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	8	expl	_	Clitic=Yes|Speaker=TO017|TID=200-12
 8	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=200-13
 
-# sent_id = 104
+# sent_id = TOD1005bis_104
 # text = non riusciremo mai a metterci ordine
 1	non	non	ADV	BN	PronType=Neg	2	advmod	_	Speaker=TO017|TID=200-14
 2	riusciremo	riuscire	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	Speaker=TO017|TID=200-15
@@ -1545,23 +1545,23 @@
 6	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	5	expl	_	Clitic=Yes
 7	ordine	ordine	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	AlignEnd=452.175|Intonation=weakly_ascending|Prolonged=Yes|Speaker=TO017|TID=200-19
 
-# sent_id = 105
+# sent_id = TOD1005bis_105
 # text = è impossibile
 1	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	AlignBegin=452.343|Speaker=TO017|TID=201-0
 2	impossibile	impossibile	ADJ	A	Number=Sing	0	root	_	AlignEnd=453.118|Intonation=descending|Speaker=TO017|TID=201-1
 
-# sent_id = 106
+# sent_id = TOD1005bis_106
 # text = mh
 1	mh	mh	INTJ	I	_	0	root	_	AlignEnd=453.664|Intonation=weakly_ascending|Prolonged=Yes|Speaker=TO017|TID=202-0
 
-# sent_id = 107
+# sent_id = TOD1005bis_107
 # text = allora facciamo una cosa
 1	allora	allora	ADV	B	_	2	advmod	_	AlignBegin=453.946|Speaker=TO017|TID=203-0
 2	facciamo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=203-1
 3	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	Speaker=TO017|TID=203-2
 4	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	AlignEnd=454.884|Speaker=TO017|TID=203-3
 
-# sent_id = 108
+# sent_id = TOD1005bis_108
 # text = torniamo indietro nel tempo
 1	torniamo	tornare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=455.819|Speaker=TO017|TID=204-0
 2	indietro	indietro	ADV	B	_	1	advmod	_	PaceFast=Yes|Speaker=TO017|TID=204-1
@@ -1570,7 +1570,7 @@
 4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	AlignEnd=457.366|Speaker=TO017|TID=204-3
 
-# sent_id = 109
+# sent_id = TOD1005bis_109
 # text = mh magari non tutte queste lingue che ora sono sparse su questo territorio vastissimo e che hanno tutti questi tratti differenti
 1	mh	mh	INTJ	I	_	6	discourse	_	AlignEnd=457.739|Intonation=weakly_ascending|Prolonged=Yes|Speaker=TO017|TID=205-0
 2	magari	magari	ADV	B	_	6	advmod	_	AlignBegin=457.783|Speaker=TO017|TID=206-0
@@ -1594,7 +1594,7 @@
 20	tratti	tratto	NOUN	S	Gender=Masc|Number=Plur	17	obj	_	Speaker=TO017|TID=206-18
 21	differenti	differente	ADJ	A	Number=Plur	20	amod	_	AlignEnd=462.668|Intonation=weakly_ascending|Speaker=TO017|TID=206-19
 
-# sent_id = 110
+# sent_id = TOD1005bis_110
 # text = forse una volta {P} no hanno un discendente comune
 1	forse	forse	ADV	B	_	6	advmod	_	AlignBegin=462.717|Speaker=TO017|TID=207-0
 2	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	Speaker=TO017|TID=207-1
@@ -1606,11 +1606,11 @@
 8	discendente	discendente	NOUN	S	Number=Sing	6	obj	_	Speaker=TO017|TID=207-7
 9	comune	comune	ADJ	A	Number=Sing	8	amod	_	AlignEnd=465.331|Speaker=TO017|TID=207-8
 
-# sent_id = 111
+# sent_id = TOD1005bis_111
 # text = okay
 1	okay	okay	INTJ	I	_	0	root	_	AlignBegin=465.765|Intonation=weakly_ascending|Speaker=TO017|TID=208-0
 
-# sent_id = 112
+# sent_id = TOD1005bis_112
 # text = cioè derivano tutte da una varietà di arabo da un proto {P} arabo proto vuol dire gli inizi
 1	cioè	cioè	CCONJ	CC	_	2	cc	_	Speaker=TO017|TID=208-1
 2	derivano	derivare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=208-2
@@ -1631,7 +1631,7 @@
 17	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	Speaker=TO017|TID=212-3
 18	inizi	inizio	NOUN	S	Gender=Masc|Number=Plur	16	obj	_	AlignEnd=480.462|Intonation=descending|Speaker=TO017|TID=212-4
 
-# sent_id = 113
+# sent_id = TOD1005bis_113
 # text = okay sapete che questa cosa è stata fatta per le lingue indoeuropee
 1	okay	okay	INTJ	I	_	2	discourse	_	AlignEnd=481.148|Intonation=weakly_ascending|Speaker=TO017|TID=213-0
 2	sapete	sapere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=481.392|Speaker=TO017|TID=214-0
@@ -1646,7 +1646,7 @@
 11	lingue	lingua	NOUN	S	Gender=Fem|Number=Plur	8	obl	_	Speaker=TO017|TID=214-9
 12	indoeuropee	indoeuropeo	ADJ	A	Gender=Fem|Number=Plur	11	amod	_	AlignEnd=483.875|Intonation=weakly_ascending|Speaker=TO017|TID=214-10
 
-# sent_id = 114
+# sent_id = TOD1005bis_114
 # text = se avete fatto un corso di eh linguistica sapete che a un certo punto qualcuno si è accorto che {P} mh ma come mai il l'italiano somiglia così tanto all'inglese
 1	se	se	SCONJ	CS	_	3	mark	_	AlignBegin=483.997|Speaker=TO017|TID=215-0
 2	avete	avere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	Speaker=TO017|TID=215-1
@@ -1683,7 +1683,7 @@
 32	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	33	det	_	_
 33	inglese	inglese	NOUN	S	Number=Sing	28	obl	_	Speaker=TO017|TID=217-7
 
-# sent_id = 115
+# sent_id = TOD1005bis_115
 # text = che somiglia così tanto al {P} persiano che somiglia così tanto al sanscrito
 1	che	che	PRON	PR	PronType=Rel	2	nsubj	_	Speaker=TO017|TID=217-8
 2	somiglia	somigliare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=217-9
@@ -1703,7 +1703,7 @@
 14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	sanscrito	sanscrito	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	Intonation=weakly_ascending|Speaker=TO017|TID=218-8
 
-# sent_id = 116
+# sent_id = TOD1005bis_116
 # text = mh forse queste lingue hanno un'origine comune {P}
 1	mh	mh	INTJ	I	_	5	discourse	_	AlignEnd=497.789|Prolonged=Yes|Speaker=TO017|TID=218-9
 2	forse	forse	ADV	B	_	5	advmod	_	AlignBegin=498.075|Speaker=TO017|TID=219-0
@@ -1715,7 +1715,7 @@
 8	comune	comune	ADJ	A	Number=Sing	7	amod	_	Speaker=TO017|TID=219-6
 9	{P}	{p}	SYM	SYM	_	5	discourse	_	Speaker=TO017|TID=219-7|Type=shortpause
 
-# sent_id = 117
+# sent_id = TOD1005bis_117
 # text = hanno passato duecento anni a fare alberi genealogici finché non solo hanno dimostrato che queste lingue {P} effettivamente hanno {P} un'origine comune ma hanno {P} anche {P} proposto la ricostruzione di questa lingua {P} ormai estinta che sarebbe la lingua nonno
 1	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	Speaker=TO017|TID=219-8
 2	passato	passare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Speaker=TO017|TID=219-9
@@ -1760,7 +1760,7 @@
 41	lingua	lingua	NOUN	S	Gender=Fem|Number=Sing	34	acl:relcl	_	Speaker=TO017|TID=222-9
 42	nonno	nonno	NOUN	S	Gender=Masc|Number=Sing	41	compound	_	Speaker=TO017|TID=222-10
 
-# sent_id = 118
+# sent_id = TOD1005bis_118
 # text = la lingua bisnonno la lingua tris tris tris tris nonna di tutte le lingue indoeuropee che si chiamerebbe proto indoeuropeo indoeuropeo
 1	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	Speaker=TO017|TID=222-11
 2	lingua	lingua	NOUN	S	Gender=Fem|Number=Sing	0	root	_	Speaker=TO017|TID=222-12
@@ -1784,7 +1784,7 @@
 20	indoeuropeo	indoeuropeo	ADJ	A	Gender=Masc|Number=Sing	18	xcomp	_	AlignEnd=527.488|Intonation=descending|Speaker=TO017|TID=226-0
 21	indoeuropeo	indoeuropeo	ADJ	A	Gender=Masc|Number=Sing	20	amod	_	_
 
-# sent_id = 119
+# sent_id = TOD1005bis_119
 # text = okay ovviamente la ricostruzione di un~ una ricostruzione del genere è aleatoria nella migliore del~ noi non possiamo sapere se era sicuramente così
 1	okay	okay	INTJ	I	_	13	discourse	_	AlignEnd=532.017|Intonation=weakly_ascending|Speaker=TO017|TID=229-0
 2	ovviamente	ovviamente	ADV	B	_	13	advmod	_	AlignBegin=532.149|Speaker=TO017|TID=230-0
@@ -1814,7 +1814,7 @@
 24	sicuramente	sicuramente	ADV	B	_	25	advmod	_	Speaker=TO017|TID=232-10
 25	così	così	ADV	B	_	21	ccomp	_	AlignEnd=541.536|Intonation=descending|Speaker=TO017|TID=232-11
 
-# sent_id = 120
+# sent_id = TOD1005bis_120
 # text = si applica quello che si chiama il meotodo comparativo
 1	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	2	expl:impers	_	AlignBegin=541.939|Clitic=Yes|Speaker=TO017|TID=233-0
 2	applica	applicare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=233-1
@@ -1826,12 +1826,12 @@
 8	meotodo	meotodo	NOUN	S	Gender=Masc|Number=Sing	6	xcomp	_	Speaker=TO017|TID=233-7
 9	comparativo	comparativo	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	AlignEnd=544.211|Intonation=weakly_ascending|Speaker=TO017|TID=233-8
 
-# sent_id = 121
+# sent_id = TOD1005bis_121
 # text = cioè no
 1	cioè	cioè	CCONJ	CC	_	2	discourse	_	AlignBegin=544.278|Speaker=TO017|TID=234-0
 2	no	no	INTJ	I	_	0	root	_	AlignEnd=544.612|Intonation=weakly_ascending|Speaker=TO017|TID=234-1
 
-# sent_id = 122
+# sent_id = TOD1005bis_122
 # text = ci sono delle regole di cambiamento nel~ al~ al che sono state studiate nelle lingue del mondo prevalentemente nel proto in~ nell'indoeuropeo nell'indoeuropeistica la linguistica storica
 1	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	2	expl	_	AlignBegin=544.653|Clitic=Yes|Speaker=TO017|TID=235-0
 2	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=235-1
@@ -1876,7 +1876,7 @@
 34	linguistica	linguistica	NOUN	S	Gender=Fem|Number=Sing	29	nsubj	_	Speaker=TO017|TID=238-1
 35	storica	storico	ADJ	A	Gender=Fem|Number=Sing	34	amod	_	AlignEnd=556.332|Intonation=weakly_ascending|Speaker=TO017|TID=238-2
 
-# sent_id = 123
+# sent_id = TOD1005bis_123
 # text = e si prova {P} a ricostruire all'indietro partendo da quello che abbiamo adesso e dai documenti scritti che abb~ vecchi
 1	e	e	CCONJ	CC	_	3	cc	_	AlignBegin=559.124|Speaker=TO017|TID=239-0
 2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl:impers	_	Clitic=Yes|Speaker=TO017|TID=239-1
@@ -1904,7 +1904,7 @@
 22	abb~	abb~	INTJ	I	_	19	acl:relcl	_	Interrupted=Yes|Speaker=TO017|TID=239-19
 23	vecchi	vecchio	ADJ	A	Gender=Masc|Number=Plur	22	amod	_	AlignEnd=564.461|Intonation=weakly_ascending|Speaker=TO017|TID=239-20
 
-# sent_id = 124
+# sent_id = TOD1005bis_124
 # text = andando indietro indietro indietro proviamo a ricostruire questo indoeuropeo
 1	andando	andare	VERB	V	VerbForm=Ger	5	advcl	_	AlignBegin=564.852|Speaker=TO017|TID=240-0
 2	indietro	indietro	ADV	B	_	1	advmod	_	Speaker=TO017|TID=240-1
@@ -1916,21 +1916,21 @@
 8	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	9	det	_	Speaker=TO017|TID=240-7
 9	indoeuropeo	indoeuropeo	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
 
-# sent_id = 125
+# sent_id = TOD1005bis_125
 # text = quindi la domanda è
 1	quindi	quindi	ADV	B	_	3	advmod	_	Speaker=TO017|TID=240-10
 2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	Speaker=TO017|TID=240-11
 3	domanda	domanda	NOUN	S	Gender=Fem|Number=Sing	0	root	_	Speaker=TO017|TID=240-12
 4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	AlignEnd=569.163|Speaker=TO017|TID=240-13
 
-# sent_id = 126
+# sent_id = TOD1005bis_126
 # text = esiste un proto arabo
 1	esiste	esistere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignEnd=570.37|Intonation=weakly_ascending|Speaker=TO017|TID=241-0
 2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	AlignBegin=571.068|Speaker=TO017|TID=242-0
 3	proto	proto	NOUN	S	Gender=Masc|Number=Sing	1	nsubj	_	Speaker=TO017|TID=242-1
 4	arabo	arabo	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	AlignEnd=572.443|Intonation=ascending|Prolonged=Yes|Speaker=TO017|TID=242-2
 
-# sent_id = 127
+# sent_id = TOD1005bis_127
 # text = eh esist~ una volta tutte queste varietà di arabo {P} avevano un nonno comune
 1	eh	eh	INTJ	I	_	2	discourse	_	AlignBegin=572.527|Speaker=TO017|TID=243-0
 2	esist~	esist~	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	parataxis	_	Interrupted=Yes|Speaker=TO017|TID=243-1
@@ -1947,7 +1947,7 @@
 13	nonno	nonno	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	PaceSlow=Yes|Prolonged=Yes|Speaker=TO017|TID=244-1
 14	comune	comune	ADJ	A	Number=Sing	13	amod	_	AlignEnd=577.393|Intonation=weakly_ascending|Speaker=TO017|TID=244-2
 
-# sent_id = 128
+# sent_id = TOD1005bis_128
 # text = perché se questa lingua esiste noi possiamo dimostrare che esiste
 1	perché	perché	SCONJ	CS	_	8	mark	_	AlignBegin=577.504|PaceFast=Yes|Speaker=TO017|TID=245-0
 2	se	se	SCONJ	CS	_	5	mark	_	Speaker=TO017|TID=245-1
@@ -1960,7 +1960,7 @@
 9	che	che	SCONJ	CS	_	10	mark	_	Speaker=TO017|TID=245-8
 10	esiste	esistere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	Speaker=TO017|TID=245-9
 
-# sent_id = 129
+# sent_id = TOD1005bis_129
 # text = abbiamo risolto il nostro problema invece
 1	abbiamo	avere	AUX	VA	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	Speaker=TO017|TID=245-10
 2	risolto	risolvere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Speaker=TO017|TID=245-11
@@ -1969,7 +1969,7 @@
 5	problema	problema	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	AlignEnd=581.55|Intonation=descending|Speaker=TO017|TID=245-14
 6	invece	invece	ADV	B	_	2	advmod	_	AlignBegin=581.75|Speaker=TO017|TID=246-0
 
-# sent_id = 130
+# sent_id = TOD1005bis_130
 # text = che cos'è l'arabo
 1	che	che	DET	DQ	PronType=Int	2	det	_	Speaker=TO017|TID=246-1
 2	cos'	cosa	PRON	PQ	PronType=Int	0	root	_	SpaceAfter=No|Speaker=TO017|TID=246-2
@@ -1977,7 +1977,7 @@
 4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No|Speaker=TO017|TID=246-4
 5	arabo	arabo	NOUN	S	Gender=Masc|Number=Sing	2	nsubj	_	Intonation=weakly_ascending|Speaker=TO017|TID=246-5
 
-# sent_id = 131
+# sent_id = TOD1005bis_131
 # text = l'arabo son tutte le lingue che der~ che son~ che di~ discendono dal proto arabo
 1	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No|Speaker=TO017|TID=246-6
 2	arabo	arabo	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	Speaker=TO017|TID=246-7
@@ -1998,7 +1998,7 @@
 16	proto	proto	ADJ	A	Gender=Masc|Number=Sing	17	amod	_	Speaker=TO017|TID=246-20
 17	arabo	arabo	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	AlignEnd=586.58|Intonation=descending|Speaker=TO017|TID=246-21
 
-# sent_id = 132
+# sent_id = TOD1005bis_132
 # text = okay finito facile a~ al livello linguistico possiamo ritenerci soddisfatti
 1	okay	okay	INTJ	I	_	2	discourse	_	AlignEnd=587.205|Speaker=TO017|TID=247-0
 2	finito	finire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	AlignEnd=589.092|Intonation=descending|Speaker=TO017|TID=248-0
@@ -2015,7 +2015,7 @@
 11	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	10	expl	_	Clitic=Yes
 12	soddisfatti	soddisfatto	ADJ	A	Gender=Masc|Number=Plur	10	xcomp	_	AlignEnd=593.338|Intonation=descending|Speaker=TO017|TID=250-6
 
-# sent_id = 133
+# sent_id = TOD1005bis_133
 # text = okay quindi la domanda è esiste non esiste
 1	okay	okay	INTJ	I	_	6	discourse	_	AlignEnd=600.058|Speaker=TO017|TID=251-0
 2	quindi	quindi	ADV	B	_	6	advmod	_	AlignEnd=602.512|Speaker=TO017|TID=252-0
@@ -2026,7 +2026,7 @@
 7	non	non	ADV	BN	PronType=Neg	8	advmod	_	AlignBegin=607.419|Speaker=TO017|TID=255-0
 8	esiste	esistere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	parataxis	_	AlignEnd=608.458|Intonation=weakly_ascending|Speaker=TO017|TID=255-1
 
-# sent_id = 134
+# sent_id = TOD1005bis_134
 # text = se trovo le altre slide cominciamo {P} a guardarlo nel tempo che ci resta della lezione di oggi e domani con un po' di fortuna
 1	se	se	SCONJ	CS	_	2	mark	_	AlignBegin=609.525|Speaker=TO017|TID=256-0
 2	trovo	trovare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	advcl	_	Speaker=TO017|TID=256-1
@@ -2060,7 +2060,7 @@
 27	di	di	ADP	E	_	26	case	_	Speaker=TO017|TID=261-3
 28	fortuna	fortuna	NOUN	S	Gender=Fem|Number=Sing	26	nmod	_	AlignEnd=619.462|Intonation=weakly_ascending|Speaker=TO017|TID=261-4
 
-# sent_id = 135
+# sent_id = TOD1005bis_135
 # text = quindi la domanda {P} a questo punto è
 1	quindi	quindi	ADV	B	_	3	advmod	_	AlignEnd=627.296|Speaker=TO017|TID=262-0
 2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	AlignBegin=628.247|Speaker=TO017|TID=263-0
@@ -2071,7 +2071,7 @@
 7	punto	punto	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	Speaker=TO017|TID=263-5
 8	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	AlignEnd=630.376|Intonation=weakly_ascending|Speaker=TO017|TID=263-6
 
-# sent_id = 136
+# sent_id = TOD1005bis_136
 # text = sono due domande che son più o meno la stessa domanda eh
 1	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	AlignBegin=631.558|Speaker=TO017|TID=264-0
 2	due	due	NUM	N	NumType=Card	3	nummod	_	Speaker=TO017|TID=264-1
@@ -2086,13 +2086,13 @@
 11	domanda	domanda	NOUN	S	Gender=Fem|Number=Sing	3	acl:relcl	_	AlignEnd=633.769|Intonation=weakly_ascending|Speaker=TO017|TID=264-10
 12	eh	eh	INTJ	I	_	3	discourse	_	AlignEnd=634.906|Prolonged=Yes|Speaker=TO017|TID=265-0
 
-# sent_id = 137
+# sent_id = TOD1005bis_137
 # text = quando nasce {P}
 1	quando	quando	SCONJ	CS	_	2	mark	_	AlignBegin=637.287|Speaker=TO017|TID=266-0
 2	nasce	nascere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=266-1
 3	{P}	{p}	SYM	SYM	_	2	discourse	_	Speaker=TO017|TID=266-2|Type=shortpause
 
-# sent_id = 138
+# sent_id = TOD1005bis_138
 # text = quando nasce la lingua araba
 1	quando	quando	SCONJ	CS	_	2	mark	_	Speaker=TO017|TID=266-3
 2	nasce	nascere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=266-4
@@ -2100,7 +2100,7 @@
 4	lingua	lingua	NOUN	S	Gender=Fem|Number=Sing	2	nsubj	_	Speaker=TO017|TID=266-6
 5	araba	arabo	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	AlignEnd=639.812|Intonation=descending|Speaker=TO017|TID=266-7
 
-# sent_id = 139
+# sent_id = TOD1005bis_139
 # text = o qual è la prima attestazione che noi abbiamo di arabo
 1	o	o	CCONJ	CC	_	2	discourse	_	AlignBegin=639.927|Speaker=TO017|TID=267-0
 2	qual	quale	PRON	PQ	PronType=Int	0	root	_	Clitic=Yes|Speaker=TO017|TID=267-1
@@ -2114,29 +2114,29 @@
 10	di	di	ADP	E	_	11	case	_	AlignBegin=643.153|Speaker=TO017|TID=268-0
 11	arabo	arabo	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	AlignEnd=643.641|Speaker=TO017|TID=268-1
 
-# sent_id = 140
+# sent_id = TOD1005bis_140
 # text = i nabatei
 1	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	AlignBegin=644.611|Speaker=???|TID=269-0
 2	nabatei	nabateo	NOUN	S	Gender=Masc|Number=Plur	0	root	_	AlignEnd=645.329|Speaker=???|TID=269-1
 
-# sent_id = 141
+# sent_id = TOD1005bis_141
 # text = come i nabatei
 1	come	come	ADP	E	_	3	case	_	AlignEnd=646.164|Intonation=weakly_ascending|Speaker=TO017|TID=270-0
 2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	AlignBegin=646.3|Speaker=???|TID=271-0
 3	nabatei	nabateo	NOUN	S	Gender=Masc|Number=Plur	0	root	_	AlignEnd=646.95|Intonation=ascending|Speaker=???|TID=271-1
 
-# sent_id = 142
+# sent_id = TOD1005bis_142
 # text = lui dice i nabatei
 1	lui	lui	PRON	PE	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	AlignBegin=647.966|Speaker=TO017|TID=272-0
 2	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignEnd=648.729|Intonation=weakly_ascending|Speaker=TO017|TID=272-1
 3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	AlignBegin=648.941|Speaker=TO017|TID=273-0
 4	nabatei	nabateo	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	Intonation=descending|Speaker=TO017|TID=273-1
 
-# sent_id = 143
+# sent_id = TOD1005bis_143
 # text = attenzione
 1	attenzione	attenzione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	AlignEnd=650.29|Intonation=descending|Speaker=TO017|TID=273-2
 
-# sent_id = 144
+# sent_id = TOD1005bis_144
 # text = l'iscrizione i nabatei {P}
 1	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	AlignBegin=650.293|SpaceAfter=No|Speaker=???|TID=274-0
 2	iscrizione	iscrizione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	AlignEnd=651.56|Prolonged=Yes|Speaker=???|TID=274-1
@@ -2144,14 +2144,14 @@
 4	nabatei	nabateo	NOUN	S	Gender=Masc|Number=Plur	2	nmod	_	Speaker=TO017|TID=275-1
 5	{P}	{p}	SYM	SYM	_	2	discourse	_	Speaker=TO017|TID=275-2|Type=shortpause
 
-# sent_id = 145
+# sent_id = TOD1005bis_145
 # text = la poesia pre islamica
 1	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	Speaker=TO017|TID=275-3
 2	poesia	poesia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	Speaker=TO017|TID=275-4
 3	pre	pre	ADJ	A	_	4	amod	_	Speaker=TO017|TID=275-5
 4	islamica	islamico	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	AlignEnd=654.788|Intonation=weakly_ascending|Speaker=TO017|TID=275-6
 
-# sent_id = 146
+# sent_id = TOD1005bis_146
 # text = l'iscrizione del re imru al qays
 1	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	AlignBegin=654.818|SpaceAfter=No|Speaker=???|TID=276-0
 2	iscrizione	iscrizione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	Speaker=???|TID=276-1
@@ -2165,7 +2165,7 @@
 8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	qays	qays	X	SP	_	2	nmod	_	AlignEnd=656.96|Speaker=???|TID=276-6
 
-# sent_id = 147
+# sent_id = TOD1005bis_147
 # text = l'iscrizione del re imru al qays
 1	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	AlignBegin=657.099|SpaceAfter=No|Speaker=TO017|TID=277-0
 2	iscrizione	iscrizione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	Speaker=TO017|TID=277-1
@@ -2179,7 +2179,7 @@
 8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	qays	qays	X	SP	_	2	nmod	_	Speaker=TO017|TID=277-6
 
-# sent_id = 148
+# sent_id = TOD1005bis_148
 # text = siete preparatissimi su questi eh
 1	siete	essere	AUX	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	cop	_	Prolonged=Yes|Speaker=TO017|TID=277-7
 2	preparatissimi	preparato	ADJ	A	Degree=Abs|Gender=Masc|Number=Plur	0	root	_	Intonation=descending|PaceSlow=Yes|Speaker=TO017|TID=277-8
@@ -2187,7 +2187,7 @@
 4	questi	questo	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	2	obl	_	AlignEnd=660.764|Intonation=weakly_ascending|Prolonged=Yes|Speaker=TO017|TID=277-10
 5	eh	eh	INTJ	I	_	2	discourse	_	AlignEnd=661.682|Prolonged=Yes|Speaker=TO017|TID=278-0
 
-# sent_id = 149
+# sent_id = TOD1005bis_149
 # text = questo è rossi {P} che vi fa il primo anno
 1	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	AlignBegin=661.761|Speaker=TO017|TID=279-0
 2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	Speaker=TO017|TID=279-1
@@ -2200,7 +2200,7 @@
 9	primo	primo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	10	amod	_	Overlapping=Yes|Speaker=TO017|TID=279-8
 10	anno	anno	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	AlignEnd=663.729|Intonation=weakly_ascending|Overlapping=Yes|Speaker=TO017|TID=279-9
 
-# sent_id = 150
+# sent_id = TOD1005bis_150
 # text = sì sì
 1	sì	sì	INTJ	I	_	0	root	_	AlignBegin=662.791|Overlapping=Yes|Prolonged=Yes|Speaker=???|TID=280-0
 2	sì	sì	INTJ	I	_	1	discourse	_	AlignEnd=664.135|Prolonged=Yes|Speaker=???|TID=280-1

@@ -1,4 +1,4 @@
-# sent_id = 0
+# sent_id = BOD2018_0
 # text = dovresti parlarmi della tua casa attuale
 1	dovresti	dovere	AUX	VM	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	AlignBegin=0.96|Speaker=BO118|TID=0-0
 2-3	parlarmi	_	_	_	_	_	_	_	Speaker=BO118|TID=0-1
@@ -11,12 +11,12 @@
 7	casa	casa	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	AlignEnd=2.78|Intonation=descending|Speaker=BO118|TID=0-4
 8	attuale	attuale	ADJ	A	Number=Sing	7	amod	_	AlignEnd=3.4|Intonation=descending|Speaker=BO118|TID=1-0
 
-# sent_id = 1
+# sent_id = BOD2018_1
 # text = mh sì
 1	mh	mh	INTJ	I	_	2	discourse	_	AlignBegin=4.9|Speaker=BO140|TID=2-0
 2	sì	sì	INTJ	I	_	0	root	_	AlignEnd=5.94|Speaker=BO140|TID=2-1
 
-# sent_id = 2
+# sent_id = BOD2018_2
 # text = com'è fatta la tua casa con chi vivi
 1	com'	come	ADV	B	_	3	advmod	_	AlignBegin=5.95|SpaceAfter=No|Speaker=BO118|TID=3-0
 2	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	Speaker=BO118|TID=3-1
@@ -28,11 +28,11 @@
 8	chi	chi	PRON	PR	PronType=Rel	3	obl	_	Speaker=BO118|TID=3-7
 9	vivi	vivere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	AlignEnd=8.61|Intonation=weakly_ascending|Speaker=BO118|TID=3-8
 
-# sent_id = 3
+# sent_id = BOD2018_3
 # text = allora
 1	allora	allora	ADV	B	_	0	root	_	AlignBegin=9.19|Speaker=BO140|TID=4-0
 
-# sent_id = 4
+# sent_id = BOD2018_4
 # text = la mia casa è una villa mh in mezzo alla natura ci viviamo in un po' di famiglie che sono eh la mia famiglia mhmh mia nonna mh i miei cugini quindi due famiglie e la nonna dei miei cugini quindi ci sono cinque famiglie
 1	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	Speaker=BO140|TID=4-1
 2	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	3	det:poss	_	Speaker=BO140|TID=4-2
@@ -84,7 +84,7 @@
 46	cinque	cinque	NUM	N	NumType=Card	47	nummod	_	Speaker=BO140|TID=10-16
 47	famiglie	famiglia	NOUN	S	Gender=Fem|Number=Plur	45	nsubj	_	AlignEnd=30.51|Speaker=BO140|TID=10-17
 
-# sent_id = 5
+# sent_id = BOD2018_5
 # text = okay quindi è fatta su diversi piani
 1	okay	okay	INTJ	I	_	4	discourse	_	AlignBegin=30.54|PaceSlow=Yes|Speaker=BO118|TID=11-0
 2	quindi	quindi	ADV	B	_	4	advmod	_	Speaker=BO118|TID=11-1
@@ -94,7 +94,7 @@
 6	diversi	diverso	DET	DI	PronType=Ind	7	det	_	Speaker=BO118|TID=11-5
 7	piani	piano	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	AlignEnd=32.7|Intonation=ascending|Speaker=BO118|TID=11-6
 
-# sent_id = 6
+# sent_id = BOD2018_6
 # text = sì ci sono tre piani mhmh e l'ultimo piano è una soffitta che in realtà è abitata da uno dei miei zii
 1	sì	sì	INTJ	I	_	3	discourse	_	AlignBegin=32.735|Prolonged=Yes|Speaker=BO140|TID=12-0
 2	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	3	expl	_	Clitic=Yes|Speaker=BO140|TID=12-1
@@ -122,7 +122,7 @@
 23	miei	mio	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	24	det:poss	_	Speaker=BO140|TID=14-15
 24	zii	zio	NOUN	S	Gender=Masc|Number=Plur	20	nmod	_	AlignEnd=41.26|Speaker=BO140|TID=14-16
 
-# sent_id = 7
+# sent_id = BOD2018_7
 # text = okay è fatta in mattoni
 1	okay	okay	INTJ	I	_	3	nsubj:pass	_	AlignEnd=42.354|PaceSlow=Yes|Prolonged=Yes|Speaker=BO118|TID=15-0
 2	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	AlignBegin=42.508|Speaker=BO140|TID=16-0
@@ -130,7 +130,7 @@
 4	in	in	ADP	E	_	5	case	_	Speaker=BO140|TID=16-2
 5	mattoni	mattone	NOUN	S	Gender=Masc|Number=Plur	3	obl	_	Prolonged=Yes|Speaker=BO140|TID=16-3
 
-# sent_id = 8
+# sent_id = BOD2018_8
 # text = è è una casa costruita intorno a gli anni cinquanta credo okay e si trova in centro a la città o fuori
 1	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	Prolonged=Yes|Speaker=BO140|TID=16-4
 2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	Speaker=BO140|TID=16-5
@@ -155,11 +155,11 @@
 21	o	o	CCONJ	CC	_	22	cc	_	Speaker=BO118|TID=18-7
 22	fuori	fuori	ADV	B	_	15	advmod	_	AlignEnd=53.755|Intonation=ascending|Speaker=BO118|TID=18-8
 
-# sent_id = 9
+# sent_id = BOD2018_9
 # text = no
 1	no	no	INTJ	I	_	0	root	_	AlignBegin=53.77|Speaker=BO140|TID=19-0
 
-# sent_id = 10
+# sent_id = BOD2018_10
 # text = si trova fuori dalla città ma è vicina
 1	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	2	expl	_	Clitic=Yes|Speaker=BO140|TID=19-1
 2	trova	trovare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO140|TID=19-2
@@ -172,7 +172,7 @@
 8	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	Speaker=BO140|TID=19-7
 9	vicina	vicino	ADJ	A	Gender=Fem|Number=Sing	2	conj	_	Speaker=BO140|TID=19-8
 
-# sent_id = 11
+# sent_id = BOD2018_11
 # text = in realtà io abito a @nomepaese e a piedi una decina di minuti ci metto okay e è bella secondo me perché è immersa nel verde fino a mh trent'anni fa io non lo so ma ho visto dalle foto c'era era so~ c'era solo casa mia e immersa proprio nel verde
 1	in	in	ADP	E	_	2	case	_	Speaker=BO140|TID=19-9
 2	realtà	realtà	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	AlignEnd=57.49|Speaker=BO140|TID=19-10
@@ -236,7 +236,7 @@
 57	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	58	det	_	_
 58	verde	verde	NOUN	S	Gender=Masc	54	obl	_	Speaker=BO140|TID=24-13
 
-# sent_id = 12
+# sent_id = BOD2018_12
 # text = poi dopo hanno costruito delle villette sopra casa mia e quindi si è persa la percezione della strada eh nazionale che collega @nomepaese con altre altri paesi
 1	poi	poi	ADV	B	_	4	advmod	_	Prolonged=Yes|Speaker=BO140|TID=24-14
 2	dopo	dopo	ADV	B	_	4	advmod	_	Speaker=BO140|TID=24-15
@@ -268,7 +268,7 @@
 27	altri	altro	DET	DI	PronType=Ind	28	det	_	Speaker=BO140|TID=25-7
 28	paesi	paese	NOUN	S	Gender=Masc|Number=Plur	23	obl	_	AlignEnd=89.35|Speaker=BO140|TID=25-8
 
-# sent_id = 13
+# sent_id = BOD2018_13
 # text = okay e tipo fuori da casa tua che c'è
 1	okay	okay	INTJ	I	_	0	root	_	AlignEnd=90.17|Intonation=descending|Speaker=BO118|TID=26-0
 2	e	e	CCONJ	CC	_	3	cc	_	AlignBegin=90.413|Prolonged=Yes|Speaker=BO118|TID=27-0
@@ -281,14 +281,14 @@
 9	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	10	expl	_	Clitic=Yes|SpaceAfter=No|Speaker=BO118|TID=27-7
 10	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	Speaker=BO118|TID=27-8
 
-# sent_id = 14
+# sent_id = BOD2018_14
 # text = tipo avete il giardino
 1	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	Speaker=BO118|TID=27-9
 2	avete	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO118|TID=27-10
 3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Speaker=BO118|TID=27-11
 4	giardino	giardino	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	AlignEnd=94.55|Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO118|TID=27-12
 
-# sent_id = 15
+# sent_id = BOD2018_15
 # text = abbiamo sì me un prato
 1	abbiamo	avere	VERB	V	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=94.63|Prolonged=Yes|Speaker=BO140|TID=28-0
 2	sì	sì	INTJ	I	_	1	advmod	_	Speaker=BO140|TID=28-1
@@ -296,7 +296,7 @@
 4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Speaker=BO140|TID=28-3
 5	prato	prato	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	Prolonged=Yes|Speaker=BO140|TID=28-4
 
-# sent_id = 16
+# sent_id = BOD2018_16
 # text = c'è un grande prato e in realtà ce ne son due e sono divisi dalla strada che che porta a casa mia e sotto casa abbiamo un un orto molto grande che è gestito da una parte da mia nonna e dai miei genitori un'altra parte da un'altra famiglia
 1	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	2	expl	_	Clitic=Yes|SpaceAfter=No|Speaker=BO140|TID=28-5
 2	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO140|TID=28-6
@@ -355,7 +355,7 @@
 53	altra	altro	DET	DI	PronType=Ind	54	det	_	Speaker=BO140|TID=31-27
 54	famiglia	famiglia	NOUN	S	Gender=Fem|Number=Sing	50	nmod	_	AlignEnd=115.32|Intonation=weakly_ascending|Speaker=BO140|TID=31-28
 
-# sent_id = 17
+# sent_id = BOD2018_17
 # text = e intorno comunque c'è campagna
 1	e	e	CCONJ	CC	_	5	cc	_	AlignBegin=115.761|Prolonged=Yes|Speaker=BO140|TID=32-0
 2	intorno	intorno	ADV	B	_	5	advmod	_	Speaker=BO140|TID=32-1
@@ -364,7 +364,7 @@
 5	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO140|TID=32-4
 6	campagna	campagna	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	AlignEnd=119.07|Intonation=descending|Speaker=BO140|TID=32-5
 
-# sent_id = 18
+# sent_id = BOD2018_18
 # text = okay quindi ehm per questo è immer~ cioè è immersa nella natura
 1	okay	okay	INTJ	I	_	7	discourse	_	AlignEnd=119.803|Overlapping=Yes|Speaker=BO118|TID=33-0
 2	quindi	quindi	ADV	B	_	7	advmod	_	AlignBegin=119.576|Overlapping=Yes|Prolonged=Yes|Speaker=BO140|TID=34-0
@@ -381,7 +381,7 @@
 12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	natura	natura	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	Speaker=BO140|TID=34-10
 
-# sent_id = 19
+# sent_id = BOD2018_19
 # text = poi si vedono i monti gli appennini
 1	poi	poi	ADV	B	_	3	advmod	_	Speaker=BO140|TID=34-11
 2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl:impers	_	Clitic=Yes|Speaker=BO140|TID=34-12
@@ -391,14 +391,14 @@
 6	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	Clitic=Yes|Speaker=BO140|TID=34-16
 7	appennini	appennino	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	Prolonged=Yes|Speaker=BO140|TID=34-17
 
-# sent_id = 20
+# sent_id = BOD2018_20
 # text = è è bello ehm
 1	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	AlignEnd=126.04|Prolonged=Yes|Speaker=BO140|TID=34-18
 2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	AlignBegin=126.833|Prolonged=Yes|Speaker=BO140|TID=35-0
 3	bello	bello	ADJ	A	Gender=Masc|Number=Sing	0	root	_	AlignEnd=128.199|Intonation=descending|Speaker=BO140|TID=35-1
 4	ehm	ehm	INTJ	I	_	3	discourse	_	AlignBegin=128.52|Prolonged=Yes|Speaker=BO118|TID=36-0
 
-# sent_id = 21
+# sent_id = BOD2018_21
 # text = coi vicini avete un buon rapporto li conoscete bene
 1-2	coi	_	_	_	_	_	_	_	Speaker=BO118|TID=36-1
 1	con	con	ADP	E	_	3	case	_	_
@@ -412,7 +412,7 @@
 9	conoscete	conoscere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	parataxis	_	Speaker=BO118|TID=36-8
 10	bene	bene	ADV	B	_	9	advmod	_	AlignEnd=132.94|Intonation=ascending|Speaker=BO118|TID=36-9
 
-# sent_id = 22
+# sent_id = BOD2018_22
 # text = sì cioè diciamo che io ho sempre vissuto fin da piccola con loro perché fan parte della mia famiglia
 1	sì	sì	INTJ	I	_	3	discourse	_	AlignBegin=133.008|Intonation=descending|Speaker=BO140|TID=37-0
 2	cioè	cioè	CCONJ	B	_	3	advmod	_	Speaker=BO140|TID=37-1
@@ -436,7 +436,7 @@
 19	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	20	det:poss	_	Speaker=BO140|TID=37-17
 20	famiglia	famiglia	NOUN	S	Gender=Fem|Number=Sing	16	nmod	_	Prolonged=Yes|Speaker=BO140|TID=37-18
 
-# sent_id = 23
+# sent_id = BOD2018_23
 # text = non sono paren~ cioè non è una parentela di primo grado ma comunque di secron~ di secondo grado
 1	non	non	ADV	BN	PronType=Neg	3	advmod	_	Speaker=BO140|TID=37-19
 2	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	Speaker=BO140|TID=37-20
@@ -457,7 +457,7 @@
 17	secondo	secondo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	18	amod	_	Speaker=BO140|TID=37-35
 18	grado	grado	NOUN	S	Gender=Masc|Number=Sing	15	nmod	_	Speaker=BO140|TID=37-36
 
-# sent_id = 24
+# sent_id = BOD2018_24
 # text = quindi i figli hanno la mia stessa età o mh siamo comunque coetanei
 1	quindi	quindi	ADV	B	_	4	advmod	_	Speaker=BO140|TID=37-37
 2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	Speaker=BO140|TID=37-38
@@ -473,7 +473,7 @@
 12	comunque	comunque	ADV	B	_	13	advmod	_	Prolonged=Yes|Speaker=BO140|TID=38-8
 13	coetanei	coetaneo	ADJ	A	Gender=Masc|Number=Plur	4	conj	_	Prolonged=Yes|Speaker=BO140|TID=38-9
 
-# sent_id = 25
+# sent_id = BOD2018_25
 # text = abbiamo sempre giocato insieme fin da piccoli anche se non c'è un rapporto proprio mh stretto di parentela ma più di convenevoli e okay però comunque è cioè un'atmosfera familiare x sì sì sì sì certo cioè non stia~ cioè non festeggiamo feste insieme
 1	abbiamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	Speaker=BO140|TID=38-10
 2	sempre	sempre	ADV	B	_	3	advmod	_	Speaker=BO140|TID=38-11
@@ -522,14 +522,14 @@
 45	feste	festa	NOUN	S	Gender=Fem|Number=Plur	44	obj	_	Speaker=BO140|TID=44-6
 46	insieme	insieme	ADV	B	_	44	advmod	_	Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO140|TID=44-7
 
-# sent_id = 26
+# sent_id = BOD2018_26
 # text = non stiamo molto insieme
 1	non	non	ADV	BN	PronType=Neg	2	advmod	_	Speaker=BO140|TID=44-8
 2	stiamo	stare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO140|TID=44-9
 3	molto	molto	ADV	B	_	2	advmod	_	Prolonged=Yes|Speaker=BO140|TID=44-10
 4	insieme	insieme	ADV	B	_	2	advmod	_	Speaker=BO140|TID=44-11
 
-# sent_id = 27
+# sent_id = BOD2018_27
 # text = in generale però se ci incontriamo fuori da casa ci salutiamo ci chiediamo come stiamo e sì alla fine è un rapporto mh amichevole
 1	in	in	ADP	E	_	2	case	_	Speaker=BO140|TID=44-12
 2	generale	generale	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	Speaker=BO140|TID=44-13
@@ -558,13 +558,13 @@
 24	mh	mh	ADV	B	_	25	advmod	_	Prolonged=Yes|Speaker=BO140|TID=45-6
 25	amichevole	amichevole	ADJ	A	Number=Sing	23	amod	_	AlignEnd=184.53|Intonation=descending|Speaker=BO140|TID=45-7
 
-# sent_id = 28
+# sent_id = BOD2018_28
 # text = okay sicuramente non
 1	okay	okay	INTJ	I	_	0	root	_	AlignEnd=185.08|Overlapping=Yes|PaceSlow=Yes|Speaker=BO118|TID=46-0
 2	sicuramente	sicuramente	ADV	B	_	1	advmod	_	AlignBegin=184.826|Overlapping=Yes|Speaker=BO140|TID=47-0
 3	non	non	ADV	BN	PronType=Neg	1	advmod	_	Prolonged=Yes|Speaker=BO140|TID=47-1
 
-# sent_id = 29
+# sent_id = BOD2018_29
 # text = non portiamo rancore o okay
 1	non	non	ADV	BN	PronType=Neg	2	advmod	_	Speaker=BO140|TID=47-2
 2	portiamo	portare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Prolonged=Yes|Speaker=BO140|TID=47-3
@@ -572,7 +572,7 @@
 4	o	o	CCONJ	CC	_	5	cc	_	AlignEnd=189.19|Intonation=weakly_ascending|Speaker=BO140|TID=47-5
 5	okay	okay	INTJ	I	_	3	conj	_	AlignBegin=190.84|Prolonged=Yes|Speaker=BO118|TID=48-0
 
-# sent_id = 30
+# sent_id = BOD2018_30
 # text = e qual è la tua stanza preferita nella tua casa
 1	e	e	CCONJ	CC	_	2	cc	_	Speaker=BO118|TID=48-1
 2	qual	quale	PRON	PQ	PronType=Int	0	root	_	Clitic=Yes|Speaker=BO118|TID=48-2
@@ -587,14 +587,14 @@
 10	tua	tuo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	det:poss	_	Speaker=BO118|TID=48-9
 11	casa	casa	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	AlignEnd=194|Intonation=ascending|Speaker=BO118|TID=48-10
 
-# sent_id = 31
+# sent_id = BOD2018_31
 # text = la mia stanza preferita
 1	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	AlignBegin=195.163|Speaker=BO140|TID=49-0
 2	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	3	det:poss	_	Speaker=BO140|TID=49-1
 3	stanza	stanza	NOUN	S	Gender=Fem|Number=Sing	0	root	_	Speaker=BO140|TID=49-2
 4	preferita	preferito	VERB	A	Gender=Fem|Number=Sing	3	amod	_	Prolonged=Yes|ProsodicLink=Yes|Speaker=BO140|TID=49-3
 
-# sent_id = 32
+# sent_id = BOD2018_32
 # text = ah in realtà una volta era il bagno ma perché è la parte più piccola della casa e si riscalda prima e quindi anche in inverno ho sempre pensato fosse un un luogo più chiuso di altri
 1	ah	ah	INTJ	I	_	8	discourse	_	Prolonged=Yes|Speaker=BO140|TID=49-4
 2	in	in	ADP	E	_	3	case	_	Speaker=BO140|TID=49-5
@@ -636,7 +636,7 @@
 37	di	di	ADP	E	_	38	case	_	Speaker=BO140|TID=52-6
 38	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	36	obl	_	AlignEnd=212.03|Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO140|TID=52-7
 
-# sent_id = 33
+# sent_id = BOD2018_33
 # text = in generale in questo momento è la sala perché c'è il camino e mh mh vabbè ci stiamo insieme
 1	in	in	ADP	E	_	2	case	_	AlignBegin=212.67|Speaker=BO140|TID=53-0
 2	generale	generale	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	Prolonged=Yes|Speaker=BO140|TID=53-1
@@ -659,7 +659,7 @@
 19	stiamo	stare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	conj	_	Overlapping=Yes|Speaker=BO140|TID=54-3
 20	insieme	insieme	ADV	B	_	19	advmod	_	Prolonged=Yes|Speaker=BO140|TID=54-4
 
-# sent_id = 34
+# sent_id = BOD2018_34
 # text = esatto c'è il divano comodo
 1	esatto	esatto	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	Prolonged=Yes|Speaker=BO140|TID=54-5
 2	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	3	expl	_	Clitic=Yes|SpaceAfter=No|Speaker=BO140|TID=54-6
@@ -668,12 +668,12 @@
 5	divano	divano	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	Speaker=BO140|TID=54-9
 6	comodo	comodo	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	AlignEnd=223.69|Intonation=weakly_ascending|Speaker=BO140|TID=54-10
 
-# sent_id = 35
+# sent_id = BOD2018_35
 # text = state insieme
 1	state	stare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=219.85|Overlapping=Yes|Speaker=BO118|TID=55-0
 2	insieme	insieme	ADV	B	_	1	advmod	_	AlignEnd=221.44|Overlapping=Yes|Prolonged=Yes|Speaker=BO118|TID=55-1
 
-# sent_id = 36
+# sent_id = BOD2018_36
 # text = e però in realtà non ci sto quasi mai perché son sempre qua a bologna e non ho in realtà un~ una stanza preferita nemmeno io mi sa che ce l'ho anche perché casa mia tipo è molto cioè dà molto un senso di freddo perché l'hanno rifatta da poco quindi è molto moderna
 1	e	e	CCONJ	CC	_	7	cc	_	AlignBegin=224.028|Prolonged=Yes|Speaker=BO140|TID=56-0
 2	però	però	ADV	B	_	7	advmod	_	Speaker=BO140|TID=56-1
@@ -732,7 +732,7 @@
 55	molto	molto	ADV	B	_	56	advmod	_	Speaker=BO118|TID=60-8
 56	moderna	moderno	ADJ	A	Gender=Fem|Number=Sing	50	conj	_	Prolonged=Yes|Speaker=BO118|TID=60-9
 
-# sent_id = 37
+# sent_id = BOD2018_37
 # text = invece prima era tutta fatta di legno e c'era il camino e adesso non c'è più
 1	invece	invece	ADV	B	_	5	advmod	_	Speaker=BO118|TID=60-10
 2	prima	prima	ADV	B	_	5	advmod	_	Speaker=BO118|TID=60-11
@@ -753,7 +753,7 @@
 17	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	Speaker=BO118|TID=60-26
 18	più	più	ADV	B	_	17	advmod	_	AlignEnd=244.76|Intonation=weakly_ascending|Speaker=BO118|TID=60-27
 
-# sent_id = 38
+# sent_id = BOD2018_38
 # text = e prima la mia stanza preferita penso fosse la cucina perché era grande e c'era il tavolo
 1	e	e	CCONJ	CC	_	7	cc	_	AlignBegin=245.575|Speaker=BO118|TID=61-0
 2	prima	prima	ADV	B	_	7	advmod	_	Speaker=BO118|TID=61-1
@@ -774,7 +774,7 @@
 17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	Speaker=BO118|TID=62-6
 18	tavolo	tavolo	NOUN	S	Gender=Masc|Number=Sing	16	nsubj	_	Speaker=BO118|TID=62-7
 
-# sent_id = 39
+# sent_id = BOD2018_39
 # text = c'era pure un divanetto
 1	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	2	expl	_	Clitic=Yes|SpaceAfter=No|Speaker=BO118|TID=62-8
 2	era	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	Speaker=BO118|TID=62-9
@@ -782,7 +782,7 @@
 4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Speaker=BO118|TID=62-11
 5	divanetto	divanetto	NOUN	S	Gender=Masc|Number=Sing	2	nsubj	_	AlignEnd=251.31|Intonation=weakly_ascending|Speaker=BO118|TID=62-12
 
-# sent_id = 40
+# sent_id = BOD2018_40
 # text = sì però adesso non ce l'ho
 1	sì	sì	INTJ	I	_	7	discourse	_	AlignEnd=253.01|Speaker=BO140|TID=63-0
 2	però	però	ADV	B	_	7	advmod	_	AlignBegin=253.09|Speaker=BO118|TID=64-0
@@ -792,7 +792,7 @@
 6	l'	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	Clitic=Yes|SpaceAfter=No|Speaker=BO118|TID=64-4
 7	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignEnd=253.81|Speaker=BO118|TID=64-5
 
-# sent_id = 41
+# sent_id = BOD2018_41
 # text = okay ehm quindi stai vicina al centro e vai spesso in centro o o resti più nella zona dove dove abiti
 1	okay	okay	INTJ	I	_	4	discourse	_	AlignEnd=256.7|PaceSlow=Yes|Prolonged=Yes|Speaker=BO118|TID=65-0
 2	ehm	ehm	INTJ	I	_	4	discourse	_	AlignBegin=258.505|Prolonged=Yes|Speaker=BO118|TID=66-0
@@ -820,7 +820,7 @@
 22	dove	dove	ADV	B	_	23	advmod	_	Speaker=BO118|TID=66-18
 23	abiti	abitare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	20	acl:relcl	_	AlignEnd=266.05|Intonation=ascending|Speaker=BO118|TID=66-19
 
-# sent_id = 42
+# sent_id = BOD2018_42
 # text = sì vabbè certo anche perché abito diciamo in una periferia cioè @nomepaese è piccola quindi appena ti sposti un po' dal centro a meno che non sia proprio la zona residenziale nuova eh entri molto nella campagna
 1	sì	sì	INTJ	I	_	0	root	_	AlignBegin=266.31|Prolonged=Yes|Speaker=BO140|TID=67-0
 2	vabbè	vabbè	INTJ	I	_	1	discourse	_	Speaker=BO140|TID=67-1
@@ -864,7 +864,7 @@
 38	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	39	det	_	_
 39	campagna	campagna	NOUN	S	Gender=Fem|Number=Sing	35	obl	_	Speaker=BO140|TID=69-22
 
-# sent_id = 43
+# sent_id = BOD2018_43
 # text = e dove abito io appunto è un aggregato di cento case con la chiesetta così insomma non si fa niente in quella zona
 1	e	e	CCONJ	CC	_	8	cc	_	Prolonged=Yes|Speaker=BO140|TID=69-23
 2	dove	dove	ADV	B	_	3	advmod	_	Speaker=BO140|TID=69-24
@@ -890,7 +890,7 @@
 22	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	23	det	_	Speaker=BO140|TID=71-5
 23	zona	zona	NOUN	S	Gender=Fem|Number=Sing	19	obl	_	Speaker=BO140|TID=71-6
 
-# sent_id = 44
+# sent_id = BOD2018_44
 # text = quindi per forza vai in centro
 1	quindi	quindi	ADV	B	_	4	advmod	_	Speaker=BO140|TID=71-7
 2	per	per	ADP	E	_	3	case	_	Overlapping=Yes|Speaker=BO140|TID=71-8
@@ -899,13 +899,13 @@
 5	in	in	ADP	E	_	6	case	_	Overlapping=Yes|Speaker=BO140|TID=71-11
 6	centro	centro	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	AlignEnd=290.475|Intonation=descending|Overlapping=Yes|Speaker=BO140|TID=71-12
 
-# sent_id = 45
+# sent_id = BOD2018_45
 # text = okay per for~
 1	okay	okay	INTJ	I	_	0	root	_	AlignEnd=289.302|Overlapping=Yes|Speaker=BO118|TID=72-0
 2	per	per	ADP	E	_	3	case	_	AlignBegin=289.727|Overlapping=Yes|Speaker=BO118|TID=73-0
 3	for~	forza	ADV	B	_	1	advmod	_	Interrupted=Yes|Overlapping=Yes|Speaker=BO118|TID=73-1
 
-# sent_id = 46
+# sent_id = BOD2018_46
 # text = quindi per forza devi prendere la macchina per anda' in centro
 1	quindi	quindi	ADV	B	_	5	advmod	_	Overlapping=Yes|Speaker=BO118|TID=73-2
 2	per	per	ADP	E	_	3	case	_	Overlapping=Yes|Speaker=BO118|TID=73-3
@@ -919,7 +919,7 @@
 10	in	in	ADP	E	_	11	case	_	Speaker=BO118|TID=73-11
 11	centro	centro	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	AlignEnd=292.55|Intonation=ascending|Speaker=BO118|TID=73-12
 
-# sent_id = 47
+# sent_id = BOD2018_47
 # text = sì generalmente sì perché comunque sia non mh non ci sono piste ciclabili o cioè non c'è possibilità di prender la bici
 1	sì	sì	INTJ	I	_	0	root	_	AlignBegin=292.645|Speaker=BO140|TID=74-0
 2	generalmente	generalmente	ADV	B	_	1	advmod	_	Speaker=BO140|TID=74-1
@@ -945,7 +945,7 @@
 22	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	Speaker=BO140|TID=75-13
 23	bici	bici	NOUN	S	Gender=Fem	21	obj	_	Speaker=BO140|TID=75-14
 
-# sent_id = 48
+# sent_id = BOD2018_48
 # text = o cioè andare a piedi
 1	o	o	CCONJ	CC	_	3	cc	_	Prolonged=Yes|Speaker=BO140|TID=75-15
 2	cioè	cioè	ADV	B	_	3	advmod	_	Speaker=BO140|TID=75-16
@@ -953,7 +953,7 @@
 4	a	a	ADP	E	_	5	case	_	Speaker=BO140|TID=75-18
 5	piedi	piede	NOUN	S	Gender=Masc|Number=Plur	3	obl	_	Speaker=BO140|TID=75-19
 
-# sent_id = 49
+# sent_id = BOD2018_49
 # text = si ma durante il giorno è possibile perché poi di sera comunque son delle strade abbastanza buie
 1	si	sì	INTJ	I	_	0	root	_	Speaker=BO140|TID=75-20
 2	ma	ma	CCONJ	CC	_	7	cc	_	Speaker=BO140|TID=75-21
@@ -973,7 +973,7 @@
 16	abbastanza	abbastanza	ADV	B	_	17	advmod	_	Speaker=BO140|TID=75-35
 17	buie	buio	ADJ	A	Gender=Fem|Number=Plur	15	amod	_	AlignEnd=308.71|Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO140|TID=75-36
 
-# sent_id = 50
+# sent_id = BOD2018_50
 # text = è brutto tornare a piedi
 1	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	AlignBegin=309.19|Prolonged=Yes|Speaker=BO140|TID=76-0
 2	brutto	brutto	ADJ	A	Gender=Masc|Number=Sing	0	root	_	Speaker=BO140|TID=76-1
@@ -981,7 +981,7 @@
 4	a	a	ADP	E	_	5	case	_	Speaker=BO140|TID=76-3
 5	piedi	piede	NOUN	S	Gender=Masc|Number=Plur	3	obl	_	AlignEnd=310.64|Intonation=descending|Speaker=BO140|TID=76-4
 
-# sent_id = 51
+# sent_id = BOD2018_51
 # text = e quindi sì prendo sempre la macchina mh è comoda e ti sposti facilmente
 1	e	e	CCONJ	CC	_	4	cc	_	AlignBegin=311.545|Prolonged=Yes|Speaker=BO140|TID=77-0
 2	quindi	quindi	ADV	B	_	4	advmod	_	Speaker=BO140|TID=77-1
@@ -998,7 +998,7 @@
 13	sposti	spostare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	conj	_	Speaker=BO140|TID=78-5
 14	facilmente	facilmente	ADV	B	_	13	advmod	_	AlignEnd=317.83|Intonation=descending|Speaker=BO140|TID=78-6
 
-# sent_id = 52
+# sent_id = BOD2018_52
 # text = invece in altri mezzi sarebbe impossibile
 1	invece	invece	ADV	B	_	6	advmod	_	AlignBegin=318.322|Speaker=BO140|TID=79-0
 2	in	in	ADP	E	_	4	case	_	Speaker=BO140|TID=79-1
@@ -1007,7 +1007,7 @@
 5	sarebbe	essere	AUX	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	Speaker=BO140|TID=79-4
 6	impossibile	impossibile	ADJ	A	Number=Sing	0	root	_	Speaker=BO140|TID=79-5
 
-# sent_id = 53
+# sent_id = BOD2018_53
 # text = anche con l'autobus così eh ce li avete gli autobus
 1	anche	anche	ADV	B	_	4	advmod	_	Speaker=BO140|TID=79-6
 2	con	con	ADP	E	_	4	case	_	Speaker=BO140|TID=79-7
@@ -1021,7 +1021,7 @@
 10	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	Speaker=BO118|TID=80-4
 11	autobus	autobus	NOUN	S	Gender=Masc	9	dislocated	_	AlignEnd=323.913|Intonation=ascending|Overlapping=Yes|Speaker=BO118|TID=80-5
 
-# sent_id = 54
+# sent_id = BOD2018_54
 # text = sì ce ne sono pochi e passano tipo ogni quaranta minuti ogni mezz'ora così quindi in realtà è un po' scomodo spostarsi in autobus
 1	sì	sì	INTJ	I	_	4	discourse	_	AlignBegin=323.625|Overlapping=Yes|Prolonged=Yes|Speaker=BO140|TID=81-0
 2	ce	ce	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	expl	_	Clitic=Yes|Speaker=BO140|TID=81-1
@@ -1051,7 +1051,7 @@
 25	in	in	ADP	E	_	26	case	_	Speaker=BO140|TID=81-23
 26	autobus	autobus	NOUN	S	Gender=Masc	23	obl	_	AlignEnd=332.23|Intonation=descending|Speaker=BO140|TID=81-24
 
-# sent_id = 55
+# sent_id = BOD2018_55
 # text = cioè l'ho fatto tante volte anche quand'ero più piccola
 1	cioè	cioè	CCONJ	CC	_	4	cc	_	AlignBegin=332.55|Speaker=BO140|TID=82-0
 2	l'	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	Clitic=Yes|SpaceAfter=No|Speaker=BO140|TID=82-1
@@ -1065,7 +1065,7 @@
 10	più	più	ADV	B	_	11	advmod	_	Speaker=BO140|TID=82-9
 11	piccola	piccolo	ADJ	A	Gender=Fem|Number=Sing	4	advcl	_	Prolonged=Yes|Speaker=BO140|TID=82-10
 
-# sent_id = 56
+# sent_id = BOD2018_56
 # text = però cioè generalmente preferisco la macchina anche perché cioè mi ricordo c'era un periodo in cui i miei tipo ehm vabbè lavoravano sempre dalla mattina alla sera e io la macchina a casa non ce l'avevo non uscivo quasi mai
 1	però	però	CCONJ	CC	_	4	cc	_	Prolonged=Yes|Speaker=BO140|TID=82-11
 2	cioè	cioè	CCONJ	CC	_	4	cc	_	Speaker=BO140|TID=82-12
@@ -1114,7 +1114,7 @@
 43	quasi	quasi	ADV	B	_	44	advmod	_	Speaker=BO140|TID=83-34
 44	mai	mai	ADV	B	_	42	advmod	_	AlignEnd=346.49|Speaker=BO140|TID=83-35
 
-# sent_id = 57
+# sent_id = BOD2018_57
 # text = quindi sì sono molto legata alla macchina e agli spostamenti in macchina {ride}
 1	quindi	quindi	CCONJ	CC	_	5	advmod	_	AlignBegin=347.15|Prolonged=Yes|Speaker=BO140|TID=84-0
 2	sì	sì	INTJ	I	_	5	discourse	_	Speaker=BO140|TID=84-1
@@ -1134,13 +1134,13 @@
 14	macchina	macchina	NOUN	S	Gender=Fem|Number=Sing	12	nmod	_	Overlapping=Yes|Speaker=BO140|TID=84-11
 15	{ride}	{ride}	X	X	_	5	discourse	_	AlignEnd=351.067|Speaker=BO140|TID=84-12|Type=NLB
 
-# sent_id = 58
+# sent_id = BOD2018_58
 # text = si anch'io
 1	si	sì	INTJ	I	_	0	root	_	AlignBegin=350.42|Overlapping=Yes|Prolonged=Yes|Speaker=BO118|TID=85-0
 2	anch'	anche	ADV	B	_	3	advmod	_	Overlapping=Yes|SpaceAfter=No|Speaker=BO118|TID=85-1
 3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	AlignEnd=351.07|Overlapping=Yes|Speaker=BO118|TID=85-2
 
-# sent_id = 59
+# sent_id = BOD2018_59
 # text = infatti anch'io sto un po' fuori dal centro
 1	infatti	infatti	ADV	B	_	4	advmod	_	AlignBegin=351.93|Speaker=BO118|TID=86-0
 2	anch'	anche	ADV	B	_	3	advmod	_	SpaceAfter=No|Speaker=BO118|TID=86-1
@@ -1154,7 +1154,7 @@
 9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	centro	centro	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO118|TID=86-8
 
-# sent_id = 60
+# sent_id = BOD2018_60
 # text = cioè io abito in questa frazione e anche solo per arrivare nel paese vero e proprio se dovessi anda' a piedi ci metterei tipo mezz'ora
 1	cioè	cioè	CCONJ	CC	_	3	cc	_	Speaker=BO118|TID=86-9
 2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Speaker=BO118|TID=86-10
@@ -1185,11 +1185,11 @@
 26	mezz'	mezzo	ADJ	A	Gender=Fem|Number=Sing	27	amod	_	SpaceAfter=No|Speaker=BO118|TID=87-8
 27	ora	ora	NOUN	S	Gender=Fem|Number=Sing	24	obl	_	AlignEnd=361.74|Intonation=weakly_ascending|Speaker=BO118|TID=87-9
 
-# sent_id = 61
+# sent_id = BOD2018_61
 # text = sì
 1	sì	sì	INTJ	I	_	0	root	_	AlignBegin=362.28|Speaker=BO140|TID=88-0
 
-# sent_id = 62
+# sent_id = BOD2018_62
 # text = sì e quindi prendo sempre la macchina
 1	sì	sì	INTJ	I	_	0	root	_	AlignEnd=362.773|Speaker=BO140|TID=88-1
 2	e	e	CCONJ	CC	_	4	cc	_	AlignBegin=362.775|Prolonged=Yes|Speaker=BO118|TID=89-0
@@ -1199,7 +1199,7 @@
 6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	Speaker=BO118|TID=89-4
 7	macchina	macchina	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	Speaker=BO118|TID=89-5
 
-# sent_id = 63
+# sent_id = BOD2018_63
 # text = infatti non vedevo l'ora di prender la patente quando c'avevo diciotto anni
 1	infatti	infatti	ADV	B	_	3	advmod	_	Speaker=BO118|TID=89-6
 2	non	non	ADV	BN	PronType=Neg	3	advmod	_	Speaker=BO118|TID=89-7
@@ -1216,7 +1216,7 @@
 13	diciotto	diciotto	NUM	N	NumType=Card	14	nummod	_	Overlapping=Yes|Speaker=BO118|TID=89-18
 14	anni	anno	NOUN	S	Gender=Masc|Number=Plur	12	obj	_	AlignEnd=367.18|Intonation=descending|Overlapping=Yes|Speaker=BO118|TID=89-19
 
-# sent_id = 64
+# sent_id = BOD2018_64
 # text = no io in realtà ho sempre usato il motorino
 1	no	no	INTJ	I	_	7	discourse	_	AlignBegin=367.08|Overlapping=Yes|Speaker=BO140|TID=90-0
 2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Speaker=BO140|TID=90-1
@@ -1228,7 +1228,7 @@
 8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	Speaker=BO140|TID=90-7
 9	motorino	motorino	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	Speaker=BO140|TID=90-8
 
-# sent_id = 65
+# sent_id = BOD2018_65
 # text = quando ero cioè dai quattordici anni in poi son sempre stata legata molto al motorino
 1	quando	quando	SCONJ	CS	_	7	mark	_	Speaker=BO140|TID=90-9
 2	ero	essere	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	7	cop	_	Prolonged=Yes|Speaker=BO140|TID=90-10
@@ -1250,7 +1250,7 @@
 16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	motorino	motorino	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	Speaker=BO140|TID=90-23
 
-# sent_id = 66
+# sent_id = BOD2018_66
 # text = ma perché mi piace essere indipendente mhmh
 1	ma	ma	CCONJ	CC	_	4	cc	_	Speaker=BO140|TID=90-24
 2	perché	perché	SCONJ	CS	_	4	mark	_	Prolonged=Yes|Speaker=BO140|TID=90-25
@@ -1260,7 +1260,7 @@
 6	indipendente	indipendente	ADJ	A	Number=Sing	4	xcomp	_	AlignEnd=376.38|Intonation=descending|Speaker=BO140|TID=90-29
 7	mhmh	mhmh	INTJ	I	_	4	discourse	_	AlignEnd=376.96|Speaker=BO118|TID=91-0
 
-# sent_id = 67
+# sent_id = BOD2018_67
 # text = quindi mh cioè preferisco spostarmi per i cavoli miei senza stare sempre agli altri
 1	quindi	quindi	ADV	B	_	4	advmod	_	AlignBegin=376.97|Prolonged=Yes|Speaker=BO140|TID=92-0
 2	mh	mh	INTJ	I	_	4	discourse	_	AlignEnd=379.27|Prolonged=Yes|Speaker=BO140|TID=92-1
@@ -1281,7 +1281,7 @@
 15	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
 16	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	12	obl	_	AlignEnd=385.01|Intonation=descending|Overlapping=Yes|Speaker=BO140|TID=93-11
 
-# sent_id = 68
+# sent_id = BOD2018_68
 # text = io ho preso il patentino e non ho mai preso il motorino perché avevo paura
 1	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	AlignBegin=384.07|Overlapping=Yes|Speaker=BO118|TID=94-0
 2	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	Overlapping=Yes|Speaker=BO118|TID=94-1
@@ -1299,14 +1299,14 @@
 14	avevo	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	10	advcl	_	Speaker=BO118|TID=94-13
 15	paura	paura	NOUN	S	Gender=Fem|Number=Sing	14	obj	_	AlignEnd=387.27|Overlapping=Yes|Speaker=BO118|TID=94-14
 
-# sent_id = 69
+# sent_id = BOD2018_69
 # text = ah ecco vedi {ride}
 1	ah	ah	INTJ	I	_	3	discourse	_	AlignBegin=387.1|Overlapping=Yes|Speaker=BO140|TID=95-0
 2	ecco	ecco	ADV	B	_	3	advmod	_	Speaker=BO140|TID=95-1
 3	vedi	vedere	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Intonation=ascending|Speaker=BO140|TID=95-2
 4	{ride}	{ride}	X	X	_	3	obj	_	AlignEnd=388.52|Speaker=BO140|TID=95-3|Type=NLB
 
-# sent_id = 70
+# sent_id = BOD2018_70
 # text = no io lo prendevo anche quando nevicava
 1	no	no	INTJ	I	_	4	discourse	_	AlignBegin=388.75|Speaker=BO140|TID=96-0
 2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Speaker=BO140|TID=96-1
@@ -1316,7 +1316,7 @@
 6	quando	quando	SCONJ	CS	_	7	mark	_	Speaker=BO140|TID=96-5
 7	nevicava	nevicare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	advcl	_	AlignEnd=390.36|Speaker=BO140|TID=96-6
 
-# sent_id = 71
+# sent_id = BOD2018_71
 # text = mado' {ride} che poi @nomepaese è fatta tut~ cioè tutta in salita
 1	mado'	mado'	INTJ	I	_	7	discourse	_	AlignBegin=390.365|Prolonged=Yes|Speaker=BO118|TID=97-0|Truncated=Yes
 2	{ride}	{ride}	X	SP	_	1	vocative	_	AlignEnd=391.03|Speaker=BO118|TID=97-1|Type=NLB
@@ -1331,22 +1331,22 @@
 11	in	in	ADP	E	_	12	case	_	Speaker=BO118|TID=98-8
 12	salita	salita	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	Overlapping=Yes|Prolonged=Yes|Speaker=BO118|TID=98-9
 
-# sent_id = 72
+# sent_id = BOD2018_72
 # text = son scomode le strade
 1	son	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	Overlapping=Yes|Speaker=BO118|TID=98-10
 2	scomode	scomodo	ADJ	A	Gender=Fem|Number=Plur	0	root	_	Speaker=BO118|TID=98-11
 3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	Speaker=BO118|TID=98-12
 4	strade	strada	NOUN	S	Gender=Fem|Number=Plur	2	nsubj	_	AlignEnd=395.9|Speaker=BO118|TID=98-13
 
-# sent_id = 73
+# sent_id = BOD2018_73
 # text = sì
 1	sì	sì	INTJ	I	_	0	root	_	AlignBegin=394.18|Overlapping=Yes|Speaker=BO140|TID=99-0
 
-# sent_id = 74
+# sent_id = BOD2018_74
 # text = eh
 1	eh	eh	INTJ	I	_	0	root	_	AlignEnd=394.84|Overlapping=Yes|Speaker=BO140|TID=99-1
 
-# sent_id = 75
+# sent_id = BOD2018_75
 # text = sì eh cioè diciamo che il centro è tutto salita e discesa però fuori tutta la periferia così
 1	sì	sì	INTJ	I	_	4	discourse	_	AlignBegin=396.17|Speaker=BO140|TID=100-0
 2	eh	eh	INTJ	I	_	4	discourse	_	Speaker=BO140|TID=100-1
@@ -1367,7 +1367,7 @@
 17	periferia	periferia	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	Speaker=BO140|TID=101-4
 18	così	così	ADV	B	_	17	advmod	_	Prolonged=Yes|Speaker=BO140|TID=101-5
 
-# sent_id = 76
+# sent_id = BOD2018_76
 # text = cioè sono delle pendenze normali
 1	cioè	cioè	CCONJ	CC	_	4	cc	_	Speaker=BO140|TID=101-6
 2	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	Speaker=BO140|TID=101-7
@@ -1375,7 +1375,7 @@
 4	pendenze	pendenza	NOUN	S	Gender=Fem|Number=Plur	0	root	_	Speaker=BO140|TID=101-9
 5	normali	normale	ADJ	A	Number=Plur	4	amod	_	Prolonged=Yes|Speaker=BO140|TID=101-10
 
-# sent_id = 77
+# sent_id = BOD2018_77
 # text = diciamo okay cioè da fare in bici è diver~
 1	diciamo	dire	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignEnd=408.62|Intonation=descending|Speaker=BO140|TID=101-11
 2	okay	okay	NOUN	S	_	1	obj	_	AlignEnd=408.865|Speaker=BO118|TID=102-0
@@ -1387,7 +1387,7 @@
 8	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	Speaker=BO140|TID=103-5
 9	diver~	diver~	ADJ	A	_	1	conj	_	Interrupted=Yes|Speaker=BO140|TID=103-6
 
-# sent_id = 78
+# sent_id = BOD2018_78
 # text = cioè è più difficile però in motorino in macchina o a piedi si fan tranquillamente
 1	cioè	cioè	CCONJ	CC	_	4	cc	_	Prolonged=Yes|Speaker=BO140|TID=103-7
 2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	Speaker=BO140|TID=103-8
@@ -1405,7 +1405,7 @@
 14	fan	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	Speaker=BO140|TID=104-9
 15	tranquillamente	tranquillamente	ADV	B	_	14	advmod	_	Speaker=BO140|TID=104-10
 
-# sent_id = 79
+# sent_id = BOD2018_79
 # text = ecco cioè in bici devi essere uno sportivo
 1	ecco	ecco	ADV	B	_	7	advmod	_	Prolonged=Yes|Speaker=BO140|TID=104-11
 2	cioè	cioè	CCONJ	B	_	7	advmod	_	AlignEnd=416.9|Speaker=BO140|TID=104-12
@@ -1416,7 +1416,7 @@
 7	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	0	root	_	Speaker=BO140|TID=105-4
 8	sportivo	sportivo	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	AlignEnd=419.29|Intonation=descending|Speaker=BO140|TID=105-5
 
-# sent_id = 80
+# sent_id = BOD2018_80
 # text = e invece adesso stai a bologna
 1	e	e	CCONJ	CC	_	4	cc	_	AlignBegin=420.035|Speaker=BO118|TID=106-0
 2	invece	invece	ADV	B	_	4	advmod	_	Speaker=BO118|TID=106-1
@@ -1425,11 +1425,11 @@
 5	a	a	ADP	E	_	6	case	_	Speaker=BO118|TID=106-4
 6	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	AlignEnd=421.595|Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO118|TID=106-5
 
-# sent_id = 81
+# sent_id = BOD2018_81
 # text = sì
 1	sì	sì	INTJ	I	_	0	root	_	AlignEnd=422.38|Intonation=descending|Speaker=BO140|TID=107-0
 
-# sent_id = 82
+# sent_id = BOD2018_82
 # text = e quante case hai cambiato fino adesso
 1	e	e	CCONJ	CC	_	5	cc	_	AlignBegin=422.8|Prolonged=Yes|Speaker=BO118|TID=108-0
 2	quante	quanto	DET	DQ	Gender=Fem|Number=Plur|PronType=Int	3	det	_	Speaker=BO118|TID=108-1
@@ -1439,18 +1439,18 @@
 6	fino	fino	ADP	B	_	7	case	_	Prolonged=Yes|Speaker=BO118|TID=108-5
 7	adesso	adesso	ADV	B	_	5	advmod	_	Speaker=BO118|TID=108-6
 
-# sent_id = 83
+# sent_id = BOD2018_83
 # text = da quando stai
 1	da	da	ADP	E	_	3	mark	_	Speaker=BO118|TID=108-7
 2	quando	quando	ADV	B	_	3	advmod	_	Speaker=BO118|TID=108-8
 3	stai	stare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignEnd=426.29|Overlapping=Yes|Speaker=BO118|TID=108-9
 
-# sent_id = 84
+# sent_id = BOD2018_84
 # text = due due
 1	due	due	NUM	N	NumType=Card	0	root	_	AlignEnd=426.3|Intonation=weakly_ascending|Overlapping=Yes|Prolonged=Yes|Speaker=BO140|TID=109-0
 2	due	due	NUM	N	NumType=Card	1	flat	_	AlignBegin=426.56|Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO118|TID=110-0
 
-# sent_id = 85
+# sent_id = BOD2018_85
 # text = okay la prima casa era in via e la prima casa era in via @nomeluogo
 1	okay	okay	PROPN	SP	_	7	discourse	_	AlignEnd=427.79|Prolonged=Yes|Speaker=BO118|TID=110-1
 2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	AlignBegin=428.26|Speaker=BO118|TID=111-0
@@ -1468,7 +1468,7 @@
 14	via	via	NOUN	S	Gender=Fem|Number=Sing	7	conj	_	Speaker=BO140|TID=112-6
 15	@nomeluogo	@nomeluogo	SYM	SYM	_	7	parataxis:hashtag	_	AlignEnd=432.04|Intonation=weakly_ascending|Speaker=BO140|TID=112-7
 
-# sent_id = 86
+# sent_id = BOD2018_86
 # text = okay e proprio in centro nella zona universitaria
 1	okay	okay	PROPN	SP	_	0	root	_	AlignEnd=432.75|Speaker=BO118|TID=113-0
 2	e	e	CCONJ	CC	_	5	cc	_	AlignBegin=432.84|Prolonged=Yes|Speaker=BO140|TID=114-0
@@ -1481,7 +1481,7 @@
 8	zona	zona	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	Speaker=BO140|TID=114-5
 9	universitaria	universitario	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	AlignEnd=435.53|Intonation=weakly_ascending|Speaker=BO140|TID=114-6
 
-# sent_id = 87
+# sent_id = BOD2018_87
 # text = e ci ho vissuto quattro anni in doppia e la casa era bellissima
 1	e	e	CCONJ	CC	_	4	cc	_	AlignBegin=436.265|Prolonged=Yes|Speaker=BO140|TID=115-0
 2	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	expl	_	Clitic=Yes|Speaker=BO140|TID=115-1
@@ -1497,7 +1497,7 @@
 12	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	cop	_	Speaker=BO140|TID=116-3
 13	bellissima	bello	ADJ	A	Degree=Abs|Gender=Fem|Number=Sing	4	conj	_	AlignEnd=442.08|Intonation=descending|Speaker=BO140|TID=116-4
 
-# sent_id = 88
+# sent_id = BOD2018_88
 # text = quattro anni ci hai vissuto
 1	quattro	quattro	NUM	N	NumType=Card	2	nummod	_	AlignBegin=442.12|Prolonged=Yes|Speaker=BO118|TID=117-0
 2	anni	anno	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	Speaker=BO118|TID=117-1
@@ -1505,7 +1505,7 @@
 4	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	Speaker=BO118|TID=117-3
 5	vissuto	vivere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	AlignEnd=443.51|Intonation=ascending|Overlapping=Yes|Speaker=BO118|TID=117-4
 
-# sent_id = 89
+# sent_id = BOD2018_89
 # text = sì i primi miei quattro anni abbiamo cambiato abbastanza coinquiline
 1	sì	sì	INTJ	I	_	8	discourse	_	AlignEnd=443.539|Intonation=descending|Overlapping=Yes|Speaker=BO140|TID=118-0
 2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	AlignBegin=444.31|Speaker=BO140|TID=119-0
@@ -1518,7 +1518,7 @@
 9	abbastanza	abbastanza	ADV	B	_	10	advmod	_	Speaker=BO140|TID=119-7
 10	coinquiline	coinquiline	NOUN	S	Gender=Fem|Number=Plur	8	obj	_	Speaker=BO140|TID=119-8
 
-# sent_id = 90
+# sent_id = BOD2018_90
 # text = in realtà però anche se ero in doppia mi son sempre trovata bene perché c'era un ambiente comune che era la sala cucina era un open space e mh ed era molto bello
 1	in	in	ADP	E	_	2	case	_	Speaker=BO140|TID=119-9
 2	realtà	realtà	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	AlignEnd=449.3|Intonation=weakly_ascending|Speaker=BO140|TID=119-10
@@ -1555,7 +1555,7 @@
 33	molto	molto	ADV	B	_	34	advmod	_	Prolonged=Yes|Speaker=BO140|TID=122-4
 34	bello	bello	ADJ	A	Gender=Masc|Number=Sing	27	conj	_	Speaker=BO140|TID=122-5
 
-# sent_id = 91
+# sent_id = BOD2018_91
 # text = cioè mh l'ambiente era familiare e comunque c'erano un paio di divani eh la televisione il tavolo da cucina eh stavam sempre tutte insieme
 1	cioè	cioè	CCONJ	CC	_	6	discourse	_	Prolonged=Yes|Speaker=BO140|TID=122-6
 2	mh	mh	SCONJ	CS	_	6	mark	_	Prolonged=Yes|Speaker=BO140|TID=122-7
@@ -1584,7 +1584,7 @@
 25	tutte	tutto	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	23	obj	_	Speaker=BO140|TID=123-11
 26	insieme	insieme	ADV	B	_	23	advmod	_	AlignEnd=474.43|Intonation=descending|Speaker=BO140|TID=123-12
 
-# sent_id = 92
+# sent_id = BOD2018_92
 # text = okay quindi eran sala e cucina insieme
 1	okay	okay	INTJ	I	_	4	discourse	_	AlignBegin=474.43|Speaker=BO118|TID=124-0
 2	quindi	quindi	ADV	B	_	4	advmod	_	Speaker=BO118|TID=124-1
@@ -1594,11 +1594,11 @@
 6	cucina	cucinare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	Speaker=BO118|TID=124-5
 7	insieme	insieme	ADV	B	_	6	advmod	_	AlignEnd=476.45|Intonation=ascending|Speaker=BO118|TID=124-6
 
-# sent_id = 93
+# sent_id = BOD2018_93
 # text = sì
 1	sì	sì	INTJ	I	_	0	root	_	AlignBegin=476.46|Intonation=descending|Speaker=BO140|TID=125-0
 
-# sent_id = 94
+# sent_id = BOD2018_94
 # text = e poi c'eran le due camere che si affacciavano sulla saletta e la cucina che eran due doppie e un bagnetto
 1	e	e	CCONJ	CC	_	4	cc	_	Speaker=BO140|TID=125-1
 2	poi	poi	ADV	B	_	4	advmod	_	Prolonged=Yes|Speaker=BO140|TID=125-2
@@ -1625,7 +1625,7 @@
 22	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	23	det	_	Prolonged=Yes|Speaker=BO140|TID=125-21
 23	bagnetto	bagnetto	NOUN	S	Gender=Masc|Number=Sing	20	conj	_	AlignEnd=482.88|Intonation=descending|Speaker=BO140|TID=125-22
 
-# sent_id = 95
+# sent_id = BOD2018_95
 # text = quindi in realtà era piccolina
 1	quindi	quindi	CCONJ	CC	_	5	cc	_	AlignBegin=483.025|Speaker=BO140|TID=126-0
 2	in	in	ADP	E	_	3	case	_	Speaker=BO140|TID=126-1
@@ -1633,7 +1633,7 @@
 4	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	Speaker=BO140|TID=126-3
 5	piccolina	piccolo	ADJ	A	Gender=Fem|Number=Sing	0	root	_	Speaker=BO140|TID=126-4
 
-# sent_id = 96
+# sent_id = BOD2018_96
 # text = però era ristrutturata da qualche anno
 1	però	però	ADV	B	_	3	advmod	_	Prolonged=Yes|Speaker=BO140|TID=126-5
 2	era	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	aux	_	Prolonged=Yes|Speaker=BO140|TID=126-6
@@ -1642,7 +1642,7 @@
 5	qualche	qualche	DET	DI	PronType=Ind	6	det	_	Speaker=BO140|TID=126-9
 6	anno	anno	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	Speaker=BO140|TID=126-10
 
-# sent_id = 97
+# sent_id = BOD2018_97
 # text = quindi era una bella casa abbastanza nuova almeno internamente
 1	quindi	quindi	ADV	B	_	5	advmod	_	Prolonged=Yes|Speaker=BO140|TID=126-11
 2	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	Speaker=BO140|TID=126-12
@@ -1654,7 +1654,7 @@
 8	almeno	almeno	ADV	B	_	9	advmod	_	Speaker=BO140|TID=126-18
 9	internamente	internamente	ADV	B	_	5	advmod	_	Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO140|TID=126-19
 
-# sent_id = 98
+# sent_id = BOD2018_98
 # text = esternamente no perché era gli edifici degli anni settanta che hanno costruito in centro
 1	esternamente	esternamente	ADV	B	_	2	advmod	_	Speaker=BO140|TID=126-20
 2	no	no	INTJ	I	_	0	root	_	Speaker=BO140|TID=126-21
@@ -1673,7 +1673,7 @@
 14	in	in	ADP	E	_	15	case	_	Speaker=BO140|TID=126-32
 15	centro	centro	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	AlignEnd=497.12|Intonation=descending|Speaker=BO140|TID=126-33
 
-# sent_id = 99
+# sent_id = BOD2018_99
 # text = e sì che poi in quella via son tutti uguali
 1	e	e	CCONJ	CC	_	10	cc	_	AlignBegin=498.44|Prolonged=Yes|Speaker=BO140|TID=127-0
 2	sì	sì	INTJ	I	_	0	root	_	AlignEnd=499.7|Intonation=descending|Speaker=BO140|TID=127-1
@@ -1686,7 +1686,7 @@
 9	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	10	obl	_	Speaker=BO118|TID=128-6
 10	uguali	uguale	ADJ	A	Number=Plur	2	ccomp	_	Intonation=descending|Speaker=BO118|TID=128-7
 
-# sent_id = 100
+# sent_id = BOD2018_100
 # text = cioè io pure tipo x avevo visto una casa quando cercavo casa l'anno scorso e e fuori più o meno son tutti uguali gli edifici
 1	cioè	cioè	CCONJ	CC	_	7	cc	_	Speaker=BO118|TID=128-8
 2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Speaker=BO118|TID=128-9
