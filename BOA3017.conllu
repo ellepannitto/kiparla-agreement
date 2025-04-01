@@ -2,7 +2,7 @@
 # text = eccoci qua
 1-2	eccoci	_	_	_	_	_	_	_	AlignBegin=0.4|Speaker=BO139|TID=0-0
 1	ecco	ecco	ADV	_	_	3	advmod	_	_
-2	ci	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	3	expl	_	_
+2	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	3	expl	_	_
 3	qua	qua	ADV	_	_	0	root	_	Intonation=descending|Speaker=BO139|TID=0-1
 
 # sent_id = BOA3017_1
@@ -17,8 +17,8 @@
 8	poi	poi	ADV	_	_	13	advmod	_	Speaker=BO139|TID=0-9
 9	comunque	comunque	ADV	_	_	13	advmod	_	AlignEnd=4.03|Speaker=BO139|TID=0-10
 10	{ride}	{ride}	VERB	_	_	13	advcl	_	AlignEnd=0.64|Speaker=BO147|TID=1-0|Type=NLB
-11	ci	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	13	expl	_	AlignBegin=4.45|Speaker=BO139|TID=2-0
-12	si	si	PRON	_	Clitic=Yes|Person=3|PronType=Prs	13	expl:impers	_	Speaker=BO139|TID=2-1
+11	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	13	expl	_	AlignBegin=4.45|Speaker=BO139|TID=2-0
+12	si	si	PRON	_	Person=3|PronType=Prs	13	expl:impers	_	Speaker=BO139|TID=2-1
 13	parla	parlare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	Speaker=BO139|TID=2-2
 14	sopra	sopra	ADV	_	_	13	advmod	_	AlignEnd=5.35|Speaker=BO139|TID=2-3
 15	{ride}	{ride}	X	_	_	13	obl	_	AlignEnd=6.17|Speaker=BO147|TID=3-0|Type=NLB
@@ -26,17 +26,17 @@
 # sent_id = BOA3017_2
 # text = dopo lo devi far te
 1	dopo	dopo	ADV	_	_	4	advmod	_	AlignBegin=5.7|Speaker=BO145|TID=4-0
-2	lo	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	Speaker=BO145|TID=4-1
+2	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	Speaker=BO145|TID=4-1
 3	devi	dovere	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	Speaker=BO145|TID=4-2
 4	far	fare	VERB	_	VerbForm=Inf	0	root	_	Speaker=BO145|TID=4-3
-5	te	te	PRON	_	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	4	obj	_	AlignEnd=6.64|Intonation=ascending|Speaker=BO145|TID=4-4
+5	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	4	obj	_	AlignEnd=6.64|Intonation=ascending|Speaker=BO145|TID=4-4
 
 # sent_id = BOA3017_3
 # text = sì già x mi sono emozionato
 1	sì	sì	INTJ	_	_	6	discourse	_	AlignEnd=7.3|Speaker=BO139|TID=5-0
 2	già	già	ADV	_	_	6	advmod	_	AlignBegin=7.79|Speaker=BO146|TID=6-0
 3	x	per	ADP	_	_	6	case	_	Speaker=BO146|TID=6-1|Type=unknown
-4	mi	mi	PRON	_	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	expl	_	Speaker=BO146|TID=6-2
+4	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	expl	_	Speaker=BO146|TID=6-2
 5	sono	essere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	Speaker=BO146|TID=6-3
 6	emozionato	emozionato	VERB	_	Gender=Masc|Number=Sing	0	root	_	AlignEnd=9.33|Overlapping=Yes|Speaker=BO146|TID=6-4
 
@@ -57,7 +57,7 @@
 # sent_id = BOA3017_6
 # text = ma ti devi a~ anche autot autotrascrivere
 1	ma	ma	CCONJ	_	_	3	cc	_	AlignBegin=10.31|Overlapping=Yes|Speaker=BO147|TID=8-0
-2	ti	ti	PRON	_	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	3	obj	_	Overlapping=Yes|Speaker=BO147|TID=8-1
+2	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	3	obj	_	Overlapping=Yes|Speaker=BO147|TID=8-1
 3	devi	dovere	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Overlapping=Yes|Speaker=BO147|TID=8-2
 4	a~	a~	ADP	_	_	6	case	_	Interrupted=Yes|Overlapping=Yes|Speaker=BO147|TID=8-3
 5	anche	anche	ADV	_	_	6	advmod	_	Overlapping=Yes|Speaker=BO147|TID=8-4
@@ -69,7 +69,7 @@
 1	sì	sì	INTJ	_	_	6	discourse	_	AlignEnd=13.17|Speaker=BO139|TID=9-0
 2	x	per	ADP	_	_	3	case	_	AlignEnd=13.345|Speaker=BO146|TID=10-0|Type=unknown
 3	sì	sì	INTJ	_	_	6	advmod	_	AlignEnd=13.525|Speaker=BO139|TID=11-0
-4	mi	mi	PRON	_	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	expl	_	AlignBegin=13.925|Speaker=BO139|TID=12-0
+4	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	expl	_	AlignBegin=13.925|Speaker=BO139|TID=12-0
 5	sto	essere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	Speaker=BO139|TID=12-1
 6	inculando	inculare	VERB	_	VerbForm=Ger	0	root	_	Speaker=BO139|TID=12-2
 7	in	in	ADP	_	_	9	case	_	Speaker=BO139|TID=12-3
@@ -134,7 +134,7 @@
 2	apostrofo	apostrofare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO145|TID=25-1
 3	'mbare	'mbare	NOUN	_	_	2	obj	_	AlignEnd=30.458|Speaker=BO145|TID=25-2
 4	mh	mh	INTJ	_	_	6	discourse	_	AlignEnd=30.977|Speaker=BO147|TID=26-0
-5	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	6	expl	_	AlignBegin=33.412|SpaceAfter=No|Speaker=BO147|TID=27-0|Truncated=Yes
+5	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	6	expl	_	AlignBegin=33.412|SpaceAfter=No|Speaker=BO147|TID=27-0|Truncated=Yes
 6	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	Speaker=BO147|TID=27-1
 7	sempre	sempre	ADV	_	_	6	advmod	_	Speaker=BO147|TID=27-2
 8	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	Speaker=BO147|TID=27-3
@@ -196,7 +196,7 @@
 2	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Speaker=BO147|TID=38-2
 3	da	da	ADP	_	_	4	case	_	Speaker=BO147|TID=38-3
 4	pallotti	pallotti	PROPN	_	_	6	obl	_	Speaker=BO147|TID=38-4
-5	ci	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	6	iobj	_	Speaker=BO147|TID=38-5
+5	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	6	iobj	_	Speaker=BO147|TID=38-5
 6	piglio	pigliare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO147|TID=38-6
 7	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	Speaker=BO147|TID=38-7
 8	paste	pasta	NOUN	_	Gender=Fem|Number=Plur	6	obj	_	Speaker=BO147|TID=38-8
@@ -204,7 +204,7 @@
 # sent_id = BOA3017_20
 # text = cioè ci prendo mh le brio~
 1	cioè	cioè	CCONJ	_	_	3	cc	_	PaceFast=Yes|Prolonged=Yes|Speaker=BO147|TID=38-9
-2	ci	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	3	expl	_	Speaker=BO147|TID=38-10
+2	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	3	expl	_	Speaker=BO147|TID=38-10
 3	prendo	prendere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Overlapping=Yes|Prolonged=Yes|ProsodicLink=Yes|Speaker=BO147|TID=38-11
 4	mh	mh	INTJ	_	_	3	discourse	_	Overlapping=Yes|Speaker=BO147|TID=38-12
 5	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	Overlapping=Yes|Speaker=BO147|TID=38-13
@@ -227,8 +227,8 @@
 8	x	per	ADP	_	_	9	case	_	AlignBegin=55.593|Speaker=BO146|TID=43-0|Type=unknown
 9	{P}	{p}	SYM	_	_	5	nmod	_	Overlapping=Yes|Speaker=BO146|TID=43-1|Type=shortpause
 10	mh	mh	INTJ	_	_	13	discourse	_	Overlapping=Yes|Prolonged=Yes|Speaker=BO146|TID=43-2
-11	ce	ce	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	13	iobj	_	Speaker=BO146|TID=43-3
-12	n'	ne	PRON	_	Clitic=Yes|PronType=Prs	13	iobj	_	SpaceAfter=No|Speaker=BO146|TID=43-4|Truncated=Yes
+11	ce	ce	PRON	_	Number=Plur|Person=1|PronType=Prs	13	iobj	_	Speaker=BO146|TID=43-3
+12	n'	ne	PRON	_	PronType=Prs	13	iobj	_	SpaceAfter=No|Speaker=BO146|TID=43-4|Truncated=Yes
 13	ha	avere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	parataxis	_	Speaker=BO146|TID=43-5
 14	poche	poco	PRON	_	Gender=Fem|Number=Plur|PronType=Ind	13	obj	_	AlignEnd=57.563|Speaker=BO146|TID=43-6
 
@@ -251,18 +251,18 @@
 5	se	se	SCONJ	_	_	9	mark	_	Speaker=BO146|TID=46-4
 6	no	no	INTJ	_	_	9	discourse	_	Speaker=BO146|TID=46-5
 7-8	glielo	_	_	_	_	_	_	_	Speaker=BO146|TID=46-6
-7	glie	gli	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	iobj	_	_
-8	lo	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+7	glie	gli	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	iobj	_	_
+8	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
 9	chiedi	chiedere	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	advcl	_	Speaker=BO146|TID=46-7
 10	se	se	SCONJ	_	_	12	mark	_	Speaker=BO146|TID=46-8
-11	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	12	expl	_	SpaceAfter=No|Speaker=BO146|TID=46-9|Truncated=Yes
+11	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	12	expl	_	SpaceAfter=No|Speaker=BO146|TID=46-9|Truncated=Yes
 12	ha	avere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	Speaker=BO146|TID=46-10
 13	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	Speaker=BO146|TID=46-11
 14	brioche	brioca	NOUN	_	Gender=Fem|Number=Plur	12	obj	_	Speaker=BO146|TID=46-12
 15	oppure	oppure	CCONJ	_	_	19	cc	_	Speaker=BO146|TID=46-13
 16	se	se	SCONJ	_	_	19	mark	_	Speaker=BO146|TID=46-14
-17	te	te	PRON	_	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	19	iobj	_	Speaker=BO146|TID=46-15
-18	le	le	PRON	_	Clitic=Yes|Gender=Fem|Person=3|PronType=Prs	19	obj	_	Speaker=BO146|TID=46-16
+17	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	19	iobj	_	Speaker=BO146|TID=46-15
+18	le	le	PRON	_	Gender=Fem|Person=3|PronType=Prs	19	obj	_	Speaker=BO146|TID=46-16
 19	fa	fare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	conj	_	AlignEnd=64.268|Speaker=BO146|TID=46-17
 20	mh	mh	INTJ	_	_	19	discourse	_	AlignEnd=61.963|Overlapping=Yes|Prolonged=Yes|Speaker=BO145|TID=47-0
 21	x	per	ADP	_	_	23	case	_	AlignEnd=65.453|Speaker=BO146|TID=48-0|Type=unknown|Volume=low
@@ -302,10 +302,10 @@
 1	non	non	ADV	_	PronType=Neg	2	advmod	_	Speaker=BO146|TID=53-1|Volume=low
 2	so	sapere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO146|TID=53-2|Volume=low
 3	come	come	ADV	_	_	5	advmod	_	Speaker=BO146|TID=53-3|Volume=low
-4	lo	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	Speaker=BO146|TID=53-4|Volume=low
+4	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	Speaker=BO146|TID=53-4|Volume=low
 5	fa	fare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	Intonation=descending|Speaker=BO146|TID=53-5|Volume=low
 6	cioè	cioè	CCONJ	_	_	8	cc	_	AlignEnd=72.988|Speaker=BO146|TID=53-6|Volume=low
-7	mi	mi	PRON	_	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	iobj	_	AlignBegin=73.328|Speaker=BO145|TID=54-0
+7	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	8	iobj	_	AlignBegin=73.328|Speaker=BO145|TID=54-0
 8	sa	sapere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	Speaker=BO145|TID=54-1
 9	che	che	SCONJ	_	PronType=Rel	10	mark	_	Speaker=BO145|TID=54-2
 10	costa	costare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	AlignEnd=74.108|Speaker=BO145|TID=54-3
@@ -325,23 +325,23 @@
 1	quella	quello	DET	_	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	AlignBegin=78.918|Speaker=BO146|TID=57-0
 2	volta	volta	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	Speaker=BO146|TID=57-1
 3	che	che	PRON	_	PronType=Rel	6	mark	_	Speaker=BO146|TID=57-2
-4	ci	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	6	expl	_	Speaker=BO146|TID=57-3
+4	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	6	expl	_	Speaker=BO146|TID=57-3
 5	siamo	essere	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	Speaker=BO146|TID=57-4
 6	andati	andare	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	acl:relcl	_	Speaker=BO146|TID=57-5
 7	noi	noi	PRON	_	Number=Plur|Person=1|PronType=Prs	10	nsubj	_	Speaker=BO146|TID=57-6
 8	non	non	ADV	_	PronType=Neg	10	advmod	_	Speaker=BO146|TID=57-7
-9	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	10	expl	_	SpaceAfter=No|Speaker=BO146|TID=57-8|Truncated=Yes
+9	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	10	expl	_	SpaceAfter=No|Speaker=BO146|TID=57-8|Truncated=Yes
 10	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	Speaker=BO146|TID=57-9
 11	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	Speaker=BO146|TID=57-10
 12	granché	granché	PRON	_	PronType=Ind	14	nsubj	_	Speaker=BO146|TID=57-11
-13	mi	mi	PRON	_	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	14	iobj	_	Speaker=BO146|TID=57-12
+13	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	14	iobj	_	Speaker=BO146|TID=57-12
 14	pare	parere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	parataxis	_	AlignEnd=81|Speaker=BO146|TID=57-13
 
 # sent_id = BOA3017_33
 # text = mh non c'era niente
 1	mh	mh	INTJ	_	_	4	discourse	_	AlignEnd=81.304|Speaker=BO145|TID=58-0
 2	non	non	ADV	_	PronType=Neg	4	advmod	_	AlignBegin=81.319|Speaker=BO146|TID=59-0
-3	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	expl	_	SpaceAfter=No|Speaker=BO146|TID=59-1|Truncated=Yes
+3	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	4	expl	_	SpaceAfter=No|Speaker=BO146|TID=59-1|Truncated=Yes
 4	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	Speaker=BO146|TID=59-2
 5	niente	niente	PRON	_	PronType=Ind	4	nsubj	_	AlignEnd=81.989|Speaker=BO146|TID=59-3
 
@@ -349,7 +349,7 @@
 # text = la rapa c'era
 1	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	AlignBegin=82.6|Speaker=BO145|TID=60-0
 2	rapa	rapa	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	Speaker=BO145|TID=60-1
-3	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	expl	_	SpaceAfter=No|Speaker=BO145|TID=60-2|Truncated=Yes
+3	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	4	expl	_	SpaceAfter=No|Speaker=BO145|TID=60-2|Truncated=Yes
 4	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	AlignEnd=83.39|Speaker=BO145|TID=60-3
 
 # sent_id = BOA3017_35
@@ -373,7 +373,7 @@
 # sent_id = BOA3017_37
 # text = non mi trascrivo
 1	non	non	ADV	_	PronType=Neg	3	advmod	_	Speaker=BO139|TID=66-1
-2	mi	mi	PRON	_	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	expl	_	Speaker=BO139|TID=66-2
+2	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	expl	_	Speaker=BO139|TID=66-2
 3	trascrivo	trascrivere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO139|TID=66-3
 
 # sent_id = BOA3017_38
@@ -382,7 +382,7 @@
 
 # sent_id = BOA3017_39
 # text = c'ho la bocca piena
-1	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	2	expl	_	SpaceAfter=No|Speaker=BO139|TID=66-5|Truncated=Yes
+1	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	2	expl	_	SpaceAfter=No|Speaker=BO139|TID=66-5|Truncated=Yes
 2	ho	avere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO139|TID=66-6
 3	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	Speaker=BO139|TID=66-7
 4	bocca	bocca	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	Speaker=BO139|TID=66-8
@@ -397,7 +397,7 @@
 5	di	di	ADP	_	_	8	mark	_	Speaker=BO139|TID=68-1
 6-7	averlo	_	_	_	_	_	_	_	Speaker=BO139|TID=68-2
 6	aver	avere	AUX	_	VerbForm=Inf	8	aux	_	_
-7	lo	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+7	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
 8	avviato	avviare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	xcomp	_	Speaker=BO139|TID=68-3
 9	effetivamente	effetivamente	ADV	_	_	8	advmod	_	Speaker=BO139|TID=68-4
 10	perché	perché	SCONJ	_	_	14	mark	_	Speaker=BO139|TID=68-5
@@ -409,7 +409,7 @@
 16	doveva	dovere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	17	aux	_	Speaker=BO139|TID=69-1
 17-18	esserci	_	_	_	_	_	_	_	Speaker=BO139|TID=69-2
 17	esser	essere	VERB	_	VerbForm=Inf	14	conj	_	_
-18	ci	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	17	expl	_	_
+18	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	17	expl	_	_
 19	anche	anche	ADV	_	_	21	advmod	_	Speaker=BO139|TID=69-3
 20	mio	mio	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	21	det:poss	_	Speaker=BO139|TID=69-4
 21	babbo	babbo	NOUN	_	Gender=Masc|Number=Sing	17	nsubj	_	Speaker=BO139|TID=69-5
@@ -441,7 +441,7 @@
 
 # sent_id = BOA3017_44
 # text = si vede tipo due volte velocemente
-1	si	si	PRON	_	Clitic=Yes|Person=3|PronType=Prs	2	expl:impers	_	Speaker=BO139|TID=74-2
+1	si	si	PRON	_	Person=3|PronType=Prs	2	expl:impers	_	Speaker=BO139|TID=74-2
 2	vede	vedere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO139|TID=74-3
 3	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	Speaker=BO139|TID=74-4
 4	due	due	NUM	_	NumType=Card	5	nummod	_	Speaker=BO139|TID=74-5
@@ -471,13 +471,13 @@
 4	{ride}	{ride}	X	_	Foreign=Yes	1	discourse	_	AlignEnd=116.784|Speaker=BO139|TID=75-11|Type=NLB
 5	{ride}	{ride}	X	_	Foreign=Yes	4	flat:foreign	_	AlignEnd=116.27|Speaker=BO146|TID=76-0|Type=NLB
 6	{ride}	{ride}	X	_	Foreign=Yes	4	flat:foreign	_	AlignEnd=117.624|Speaker=BO146|TID=77-0|Type=NLB
-7	si	si	PRON	_	Clitic=Yes|Person=3|PronType=Prs	8	expl	_	AlignBegin=117.739|PaceFast=Yes|Speaker=BO139|TID=78-0
+7	si	si	PRON	_	Person=3|PronType=Prs	8	expl	_	AlignBegin=117.739|PaceFast=Yes|Speaker=BO139|TID=78-0
 8	sentiva	sentire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1	parataxis	_	PaceFast=Yes|Speaker=BO139|TID=78-1
 9	solo	solo	ADV	_	_	8	advmod	_	PaceFast=Yes|Speaker=BO139|TID=78-2
 10	pshhh	pshhh	INTJ	_	_	8	discourse	_	AlignEnd=118.879|PaceFast=Yes|Speaker=BO139|TID=78-3
 11	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	AlignBegin=119.054|Speaker=BO139|TID=79-0
 12	che	che	PRON	_	PronType=Rel	14	nsubj	_	Speaker=BO139|TID=79-1
-13	mi	mi	PRON	_	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	14	expl	_	Speaker=BO139|TID=79-2
+13	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	14	expl	_	Speaker=BO139|TID=79-2
 14	siedo	sire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	Speaker=BO139|TID=79-3
 15-16	sulla	_	_	_	_	_	_	_	Speaker=BO139|TID=79-4
 15	su	su	ADP	_	_	17	case	_	_
@@ -505,7 +505,7 @@
 
 # sent_id = BOA3017_50
 # text = ci metti quattro secondi a trascrivere quella cosa {ride} {ride}
-1	ci	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	2	expl	_	Speaker=BO145|TID=82-2
+1	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	2	expl	_	Speaker=BO145|TID=82-2
 2	metti	mettere	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO145|TID=82-3
 3	quattro	quattro	NUM	_	NumType=Card	4	nummod	_	Speaker=BO145|TID=82-4
 4	secondi	secondo	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	Speaker=BO145|TID=82-5
@@ -558,7 +558,7 @@
 1	puoi	potere	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	Speaker=BO147|TID=89-6
 2-3	farle	_	_	_	_	_	_	_	Speaker=BO147|TID=89-7
 2	far	fare	VERB	_	VerbForm=Inf	0	root	_	_
-3	le	le	PRON	_	Clitic=Yes|Gender=Fem|Person=3|PronType=Prs	2	obj	_	_
+3	le	le	PRON	_	Gender=Fem|Person=3|PronType=Prs	2	obj	_	_
 4	anche	anche	ADV	_	_	7	advmod	_	Speaker=BO147|TID=89-8
 5	di	di	ADP	_	_	7	case	_	Prolonged=Yes|Speaker=BO147|TID=89-9
 6	sessanta	sessanta	NUM	_	NumType=Card	7	nummod	_	Prolonged=Yes|Speaker=BO147|TID=89-10
@@ -586,7 +586,7 @@
 12	stanotte	stanotte	ADV	_	_	2	advmod	_	AlignEnd=140.727|Intonation=ascending|Overlapping=Yes|Speaker=BO139|TID=91-9
 13	mh	mh	INTJ	_	_	2	discourse	_	AlignEnd=139.847|Overlapping=Yes|Speaker=BO145|TID=92-0
 14	eh	eh	INTJ	_	_	16	discourse	_	AlignEnd=140.337|Overlapping=Yes|Speaker=BO147|TID=93-0
-15	ne	ne	PRON	_	Clitic=Yes|PronType=Prs	16	iobj	_	AlignBegin=141.177|Speaker=BO145|TID=94-0
+15	ne	ne	PRON	_	PronType=Prs	16	iobj	_	AlignBegin=141.177|Speaker=BO145|TID=94-0
 16	fai	fare	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	parataxis	_	AlignEnd=142.237|Speaker=BO145|TID=94-1
 17	una	uno	PRON	_	Gender=Fem|Number=Sing|PronType=Ind	16	obj	_	AlignBegin=142.782|Speaker=BO145|TID=95-0
 18	di	di	ADP	_	_	20	case	_	Speaker=BO145|TID=95-1
@@ -639,11 +639,11 @@
 1	mh	mh	INTJ	_	_	5	discourse	_	AlignBegin=160.657|Speaker=BO139|TID=106-0
 2	mh	mh	INTJ	_	_	5	discourse	_	AlignEnd=161.047|Speaker=BO139|TID=106-1
 3	dopo	dopo	ADV	_	_	5	advmod	_	AlignBegin=161.857|Speaker=BO147|TID=107-0
-4	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	5	expl	_	SpaceAfter=No|Speaker=BO147|TID=107-1|Truncated=Yes
+4	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	5	expl	_	SpaceAfter=No|Speaker=BO147|TID=107-1|Truncated=Yes
 5	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO147|TID=107-2
 6	chi	chi	PRON	_	PronType=Rel	5	nsubj	_	Speaker=BO147|TID=107-3
-7	te	te	PRON	_	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	9	iobj	_	Speaker=BO147|TID=107-4
-8	lo	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	Speaker=BO147|TID=107-5
+7	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	9	iobj	_	Speaker=BO147|TID=107-4
+8	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	Speaker=BO147|TID=107-5
 9	controlla	controllare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	Speaker=BO147|TID=107-6
 
 # sent_id = BOA3017_61
@@ -693,7 +693,7 @@
 18	mh	mh	INTJ	_	_	14	discourse	_	AlignEnd=172.727|Speaker=BO147|TID=114-1
 19	e	e	CCONJ	_	_	22	cc	_	AlignBegin=172.912|Speaker=BO139|TID=115-0
 20	sotto	sotto	ADV	_	_	22	advmod	_	Speaker=BO139|TID=115-1
-21	ci	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	22	expl	_	Speaker=BO139|TID=115-2
+21	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	22	expl	_	Speaker=BO139|TID=115-2
 22	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	Speaker=BO139|TID=115-3
 23	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	25	det	_	Speaker=BO139|TID=115-4
 24	vari	vario	DET	_	PronType=Ind	25	det	_	Speaker=BO139|TID=115-5
@@ -742,7 +742,7 @@
 # sent_id = BOA3017_67
 # text = quando si parlano sopra ah okay
 1	quando	quando	SCONJ	_	_	3	mark	_	AlignBegin=183.527|Speaker=BO139|TID=121-0
-2	si	si	PRON	_	Clitic=Yes|Person=3|PronType=Prs	3	expl	_	Speaker=BO139|TID=121-1
+2	si	si	PRON	_	Person=3|PronType=Prs	3	expl	_	Speaker=BO139|TID=121-1
 3	parlano	parlare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO139|TID=121-2
 4	sopra	sopra	ADV	_	_	3	advmod	_	AlignEnd=184.477|Speaker=BO139|TID=121-3
 5	ah	ah	INTJ	_	_	3	discourse	_	AlignBegin=184.627|Speaker=BO146|TID=122-0
@@ -763,7 +763,7 @@
 10	ah	ah	INTJ	_	_	2	discourse	_	AlignBegin=187.183|Speaker=BO146|TID=124-0
 11	okay	okay	INTJ	_	_	2	discourse	_	AlignEnd=187.593|Speaker=BO146|TID=124-1
 12	che	che	PRON	_	PronType=Rel	14	nsubj	_	AlignBegin=188.823|Speaker=BO139|TID=125-0
-13	si	si	PRON	_	Clitic=Yes|Person=3|PronType=Prs	14	expl	_	Speaker=BO139|TID=125-1
+13	si	si	PRON	_	Person=3|PronType=Prs	14	expl	_	Speaker=BO139|TID=125-1
 14	sovrappongono	sovrapporre	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	AlignEnd=190.033|Speaker=BO139|TID=125-2
 15	come	come	ADP	_	_	18	case	_	AlignBegin=190.273|Speaker=BO146|TID=126-0
 16-17	nei	_	_	_	_	_	_	_	Speaker=BO146|TID=126-1
@@ -782,7 +782,7 @@
 # sent_id = BOA3017_70
 # text = infatti te potresti fare il sottoxx quello che fa i sottotitoli
 1	infatti	infatti	ADV	_	_	4	advmod	_	AlignBegin=194.003|Overlapping=Yes|PaceFast=Yes|Speaker=BO147|TID=129-0
-2	te	te	PRON	_	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	4	iobj	_	Overlapping=Yes|Speaker=BO147|TID=129-1
+2	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	4	iobj	_	Overlapping=Yes|Speaker=BO147|TID=129-1
 3	potresti	potere	AUX	_	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	Overlapping=Yes|Speaker=BO147|TID=129-2
 4	fare	fare	VERB	_	VerbForm=Inf	0	root	_	Speaker=BO147|TID=129-3
 5	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Speaker=BO147|TID=129-4
@@ -797,7 +797,7 @@
 # text = sottotitolatore pure te mh boh
 1	sottotitolatore	sottotitolatore	NOUN	_	Gender=Masc|Number=Sing	0	root	_	AlignEnd=197.348|Overlapping=Yes|Speaker=BO145|TID=130-0
 2	pure	pure	ADV	_	_	1	advmod	_	AlignBegin=196.628|Overlapping=Yes|Speaker=BO146|TID=131-0
-3	te	te	PRON	_	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	1	nmod	_	AlignEnd=196.998|Overlapping=Yes|Speaker=BO146|TID=131-1
+3	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	1	nmod	_	AlignEnd=196.998|Overlapping=Yes|Speaker=BO146|TID=131-1
 4	mh	mh	INTJ	_	_	1	discourse	_	AlignEnd=197.688|Speaker=BO139|TID=132-0
 5	boh	boh	INTJ	_	_	1	discourse	_	AlignBegin=198.908|Speaker=BO147|TID=133-0|Volume=low
 
@@ -886,7 +886,7 @@
 2	però	però	ADV	_	_	6	advmod	_	Overlapping=Yes|Speaker=BO147|TID=143-1
 3	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	Overlapping=Yes|Speaker=BO147|TID=143-2
 4	sottotitoli	sottotitolo	NOUN	_	Gender=Masc|Number=Plur	6	nsubj	_	Overlapping=Yes|Speaker=BO147|TID=143-3
-5	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	6	expl	_	SpaceAfter=No|Speaker=BO147|TID=143-4|Truncated=Yes
+5	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	6	expl	_	SpaceAfter=No|Speaker=BO147|TID=143-4|Truncated=Yes
 6	hai	avere	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO147|TID=143-5
 7	anche	anche	ADV	_	_	8	advmod	_	Speaker=BO147|TID=143-6
 8	no	no	INTJ	_	_	6	advmod	_	Speaker=BO147|TID=143-7
@@ -953,7 +953,7 @@
 1	quando	quando	SCONJ	_	_	2	mark	_	AlignBegin=232.708|Speaker=BO139|TID=150-0
 2-3	farli	_	_	_	_	_	_	_	Overlapping=Yes|Speaker=BO139|TID=150-1
 2	far	fare	VERB	_	VerbForm=Inf	7	advcl	_	_
-3	li	li	PRON	_	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obj	_	_
+3	li	li	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obj	_	_
 4	comparire	comparire	VERB	_	VerbForm=Inf	2	xcomp	_	AlignEnd=233.908|Overlapping=Yes|Speaker=BO139|TID=150-2
 5	mh	mh	INTJ	_	_	2	discourse	_	AlignEnd=233.383|Overlapping=Yes|Speaker=BO147|TID=151-0
 6	eh	eh	INTJ	_	_	7	discourse	_	AlignBegin=234.103|Speaker=BO147|TID=152-0
@@ -961,7 +961,7 @@
 8	se	se	SCONJ	_	_	9	mark	_	AlignBegin=234.55|Overlapping=Yes|Speaker=BO139|TID=153-0
 9-10	farli	_	_	_	_	_	_	_	Speaker=BO139|TID=153-1
 9	far	fare	VERB	_	VerbForm=Inf	7	advcl	_	_
-10	li	li	PRON	_	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obj	_	_
+10	li	li	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obj	_	_
 11	scorrere	scorrere	VERB	_	VerbForm=Inf	9	xcomp	_	Intonation=weakly_ascending|Speaker=BO139|TID=153-2
 
 # sent_id = BOA3017_84
@@ -977,7 +977,7 @@
 8	poi	poi	ADV	_	_	9	advmod	_	Speaker=BO139|TID=154-1
 9-10	tradurli	_	_	_	_	_	_	_	Overlapping=Yes|Speaker=BO139|TID=154-2
 9	tradur	tradurre	VERB	_	VerbForm=Inf	2	conj	_	_
-10	li	li	PRON	_	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obj	_	_
+10	li	li	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obj	_	_
 11	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	Overlapping=Yes|Speaker=BO139|TID=154-3
 12	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	Overlapping=Yes|Speaker=BO139|TID=154-4
 13	ca~	ca~	NOUN	_	Gender=Fem|Number=Sing	0	root	_	AlignEnd=238.78|Interrupted=Yes|Overlapping=Yes|Speaker=BO139|TID=154-5
@@ -991,7 +991,7 @@
 5	molto	molto	ADV	_	_	6	advmod	_	Speaker=BO147|TID=155-4
 6	spesso	spesso	ADV	_	_	9	advmod	_	Speaker=BO147|TID=155-5
 7	non	non	ADV	_	PronType=Neg	9	advmod	_	Speaker=BO147|TID=155-6
-8	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	9	expl	_	SpaceAfter=No|Speaker=BO147|TID=155-7|Truncated=Yes
+8	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	9	expl	_	SpaceAfter=No|Speaker=BO147|TID=155-7|Truncated=Yes
 9	acchiappano	acchiappare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	Intonation=descending|Speaker=BO147|TID=155-8
 10	cioè	cioè	ADV	_	_	9	advmod	_	PaceFast=Yes|Speaker=BO147|TID=155-9
 11	anche	anche	ADV	_	_	12	advmod	_	AlignEnd=240.801|Speaker=BO147|TID=155-10
@@ -1004,7 +1004,7 @@
 1	poi	poi	ADV	_	_	2	advmod	_	AlignBegin=245.421|Speaker=BO139|TID=159-0
 2-3	tradurli	_	_	_	_	_	_	_	Speaker=BO139|TID=159-1
 2	tradur	tradurre	VERB	_	VerbForm=Inf	6	csubj	_	_
-3	li	li	PRON	_	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obj	_	_
+3	li	li	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obj	_	_
 4	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	Speaker=BO139|TID=159-2
 5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Speaker=BO139|TID=159-3
 6	casino	casino	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Speaker=BO139|TID=159-4
@@ -1047,7 +1047,7 @@
 2	{ride}	{ride}	X	_	_	6	vocative	_	AlignEnd=253.391|Speaker=BO139|TID=164-1|Type=NLB
 3	cioè	cioè	CCONJ	_	_	6	cc	_	AlignBegin=253.216|PaceFast=Yes|Speaker=BO147|TID=165-0
 4	non	non	ADV	_	PronType=Neg	6	advmod	_	Speaker=BO147|TID=165-1
-5	lo	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	Speaker=BO147|TID=165-2
+5	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	Speaker=BO147|TID=165-2
 6	so	sapere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignEnd=254.026|Speaker=BO147|TID=165-3
 
 # sent_id = BOA3017_90
@@ -1074,7 +1074,7 @@
 6	lingue	lingua	NOUN	_	Gender=Fem|Number=Plur	10	obl	_	Overlapping=Yes|Speaker=BO145|TID=168-4
 7	secondo	secondo	ADP	_	_	8	case	_	Overlapping=Yes|Speaker=BO145|TID=168-5
 8	me	me	PRON	_	Number=Sing|Person=1|PronType=Prs	10	obl	_	Speaker=BO145|TID=168-6
-9	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	10	expl	_	SpaceAfter=No|Speaker=BO145|TID=168-7|Truncated=Yes
+9	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	10	expl	_	SpaceAfter=No|Speaker=BO145|TID=168-7|Truncated=Yes
 10	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO145|TID=168-8
 11	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	Speaker=BO145|TID=168-9
 12	problema	problema	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	AlignEnd=263.206|Speaker=BO145|TID=168-10
@@ -1084,7 +1084,7 @@
 1	cioè	cioè	CCONJ	_	_	6	discourse	_	AlignEnd=261.986|Overlapping=Yes|PaceFast=Yes|Speaker=BO147|TID=169-0
 2	cioè	cioè	CCONJ	_	_	6	cc	_	AlignBegin=263.381|PaceFast=Yes|Speaker=BO145|TID=170-0
 3	non	non	ADV	_	PronType=Neg	6	advmod	_	Speaker=BO145|TID=170-1
-4	lo	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	Speaker=BO145|TID=170-2
+4	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	Speaker=BO145|TID=170-2
 5	puoi	potere	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	aux	_	Speaker=BO145|TID=170-3
 6	rendere	rendere	VERB	_	VerbForm=Inf	0	root	_	Speaker=BO145|TID=170-4
 7	certi	certo	DET	_	PronType=Ind	8	det	_	Speaker=BO145|TID=170-5
@@ -1095,7 +1095,7 @@
 11	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	tedesco	tedesco	NOUN	_	Gender=Masc|Number=Sing	16	obl	_	Overlapping=Yes|Speaker=BO145|TID=170-9
 13	non	non	ADV	_	PronType=Neg	16	advmod	_	Overlapping=Yes|Speaker=BO145|TID=170-10
-14	li	li	PRON	_	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	16	obj	_	Overlapping=Yes|Speaker=BO145|TID=170-11
+14	li	li	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	16	obj	_	Overlapping=Yes|Speaker=BO145|TID=170-11
 15	puoi	potere	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	16	aux	_	Overlapping=Yes|Speaker=BO145|TID=170-12
 16	rendere	rendere	VERB	_	VerbForm=Inf	6	advcl	_	Overlapping=Yes|Speaker=BO145|TID=170-13
 17	in	in	ADP	_	_	18	case	_	Speaker=BO145|TID=170-14
@@ -1153,7 +1153,7 @@
 4	tu	tu	PRON	_	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	PaceFast=Yes|Speaker=BO139|TID=176-9
 5	dicessi	dire	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	8	advcl	_	PaceFast=Yes|Speaker=BO139|TID=176-10
 6	vaffanculo	vaffanculo	INTJ	_	_	5	advmod	_	Speaker=BO139|TID=176-11
-7	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	8	expl	_	SpaceAfter=No|Speaker=BO139|TID=176-12|Truncated=Yes
+7	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	8	expl	_	SpaceAfter=No|Speaker=BO139|TID=176-12|Truncated=Yes
 8	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO139|TID=176-13
 9	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	Speaker=BO139|TID=176-14
 10	parte	parte	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	Speaker=BO139|TID=176-15
@@ -1170,7 +1170,7 @@
 # text = fottiti se no mh {ride} x è un po' difficile
 1-2	fottiti	_	_	_	_	_	_	_	AlignBegin=286.561|Speaker=BO147|TID=177-0
 1	fotti	fottare	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	ti	ti	PRON	_	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	1	expl	_	_
+2	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	1	expl	_	_
 3	se	se	SCONJ	_	_	11	mark	_	Speaker=BO147|TID=177-1
 4	no	no	INTJ	_	_	11	discourse	_	AlignEnd=287.4|Speaker=BO147|TID=177-2
 5	mh	mh	INTJ	_	_	11	discourse	_	AlignEnd=287.851|Speaker=BO139|TID=178-0
@@ -1186,7 +1186,7 @@
 1	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	AlignBegin=294.601|Speaker=BO139|TID=181-0
 2	temevo	temere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	Speaker=BO139|TID=181-1
 3	che	che	SCONJ	_	_	6	mark	_	Speaker=BO139|TID=181-2
-4	ci	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	6	expl	_	Speaker=BO139|TID=181-3
+4	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	6	expl	_	Speaker=BO139|TID=181-3
 5	volessero	volere	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	6	aux	_	Speaker=BO139|TID=181-4
 6	fare	fare	VERB	_	VerbForm=Inf	2	ccomp	_	Speaker=BO139|TID=181-5
 7	doppiare	doppiare	VERB	_	VerbForm=Inf	6	ccomp	_	Speaker=BO139|TID=181-6
@@ -1214,7 +1214,7 @@
 28	x	per	ADP	_	_	29	mark	_	AlignBegin=306.315|Speaker=BO145|TID=185-0|Type=unknown
 29	doppiare	doppiare	VERB	_	VerbForm=Inf	26	acl	_	Speaker=BO145|TID=185-1
 30	no	no	INTJ	_	_	29	obj	_	Speaker=BO145|TID=185-2
-31	ti	ti	PRON	_	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	32	obj	_	Speaker=BO145|TID=185-3
+31	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	32	obj	_	Speaker=BO145|TID=185-3
 32	prego	pregare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	parataxis	_	AlignEnd=308.005|Speaker=BO145|TID=185-4
 33	{ride}	{ride}	X	_	_	32	discourse	_	AlignEnd=308.125|Speaker=BO139|TID=186-0|Type=NLB
 
@@ -1239,7 +1239,7 @@
 # sent_id = BOA3017_99
 # text = se ti metti otto ore al giorno sì qui la sera preparati x mh preparati a tante sere di solitudine
 1	se	se	SCONJ	_	_	3	mark	_	AlignBegin=318.197|Overlapping=Yes|Speaker=BO145|TID=192-0
-2	ti	ti	PRON	_	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	3	iobj	_	Overlapping=Yes|Speaker=BO145|TID=192-1
+2	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	3	iobj	_	Overlapping=Yes|Speaker=BO145|TID=192-1
 3	metti	mettere	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	13	advcl	_	Overlapping=Yes|Speaker=BO145|TID=192-2
 4	otto	otto	NUM	_	NumType=Card	5	nummod	_	Overlapping=Yes|Speaker=BO145|TID=192-3
 5	ore	ora	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	Speaker=BO145|TID=192-4
@@ -1253,12 +1253,12 @@
 12	sera	sera	NOUN	_	Gender=Fem|Number=Sing	13	obl	_	Speaker=BO139|TID=193-2
 13-14	preparati	_	_	_	_	_	_	_	AlignEnd=324.617|Speaker=BO139|TID=193-3
 13	prepara	preparare	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-14	ti	ti	PRON	_	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	13	obj	_	_
+14	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	13	obj	_	_
 15	x	per	ADP	_	_	16	case	_	AlignEnd=326.087|Overlapping=Yes|Speaker=BO139|TID=194-0|Type=unknown
 16	mh	mh	INTJ	_	_	13	obl	_	AlignEnd=326.317|Intonation=ascending|Overlapping=Yes|Speaker=BO145|TID=195-0
 17-18	preparati	_	_	_	_	_	_	_	AlignBegin=326.762|Speaker=BO139|TID=196-0
 17	prepara	preparare	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	13	conj	_	_
-18	ti	ti	PRON	_	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	17	obj	_	_
+18	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	17	obj	_	_
 19	a	a	ADP	_	_	21	case	_	Speaker=BO139|TID=196-1
 20	tante	tanto	DET	_	PronType=Ind	21	det	_	Speaker=BO139|TID=196-2
 21	sere	sera	NOUN	_	Gender=Fem|Number=Plur	17	obl	_	Speaker=BO139|TID=196-3
@@ -1269,7 +1269,7 @@
 # text = preparati a tante sere di solitudine
 1-2	preparati	_	_	_	_	_	_	_	AlignBegin=329.327|Speaker=BO139|TID=197-0
 1	prepara	preparare	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	ti	ti	PRON	_	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	1	obj	_	_
+2	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	1	obj	_	_
 3	a	a	ADP	_	_	5	case	_	Speaker=BO139|TID=197-1
 4	tante	tanto	DET	_	PronType=Ind	5	det	_	Speaker=BO139|TID=197-2
 5	sere	sera	NOUN	_	Gender=Fem|Number=Plur	1	obl	_	Speaker=BO139|TID=197-3
@@ -1279,12 +1279,12 @@
 # sent_id = BOA3017_101
 # text = chi l'ha detto {ride} vabbè c'avrà pure lei da studiare {ride}
 1	chi	chi	PRON	_	PronType=Rel	8	nsubj	_	AlignBegin=332.127|Speaker=BO145|TID=198-0
-2	l'	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	SpaceAfter=No|Speaker=BO145|TID=198-1|Truncated=Yes
+2	l'	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	SpaceAfter=No|Speaker=BO145|TID=198-1|Truncated=Yes
 3	ha	avere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	Speaker=BO145|TID=198-2
 4	detto	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	acl:relcl	_	AlignEnd=332.627|Speaker=BO145|TID=198-3
 5	{ride}	{ride}	INTJ	_	_	4	discourse	_	AlignEnd=333.742|Speaker=BO139|TID=199-0|Type=NLB
 6	vabbè	vabbè	INTJ	_	_	8	discourse	_	AlignBegin=333.507|Speaker=BO147|TID=200-0
-7	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	8	expl	_	SpaceAfter=No|Speaker=BO147|TID=200-1|Truncated=Yes
+7	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	8	expl	_	SpaceAfter=No|Speaker=BO147|TID=200-1|Truncated=Yes
 8	avrà	avere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	Speaker=BO147|TID=200-2
 9	pure	pure	ADV	_	_	8	advmod	_	Speaker=BO147|TID=200-3
 10	lei	lei	PRON	_	Gender=Fem|Number=Sing|PronType=Prs	8	nsubj	_	Speaker=BO147|TID=200-4
@@ -1295,14 +1295,14 @@
 # sent_id = BOA3017_102
 # text = chi l'ha detto {ride} {ride} {ride} {ride} lo dico io perché vuoi fare un figlio
 1	chi	chi	PRON	_	PronType=Rel	4	nsubj	_	AlignBegin=336.552|Speaker=BO145|TID=202-0
-2	l'	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	SpaceAfter=No|Speaker=BO145|TID=202-1|Truncated=Yes
+2	l'	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	SpaceAfter=No|Speaker=BO145|TID=202-1|Truncated=Yes
 3	ha	avere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	Speaker=BO145|TID=202-2
 4	detto	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Speaker=BO145|TID=202-3
 5	{ride}	{ride}	X	_	Foreign=Yes	4	discourse	_	AlignEnd=338.207|Speaker=BO145|TID=202-4|Type=NLB
 6	{ride}	{ride}	X	_	_	5	flat:foreign	_	AlignEnd=338.207|Speaker=BO147|TID=203-0|Type=NLB
 7	{ride}	{ride}	X	_	_	4	discourse	_	AlignEnd=338.207|Speaker=BO139|TID=204-0|Type=NLB
 8	{ride}	{ride}	X	_	_	10	discourse	_	AlignEnd=338.207|Speaker=BO146|TID=205-0|Type=NLB
-9	lo	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	AlignBegin=338.277|Speaker=BO147|TID=206-0
+9	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	AlignBegin=338.277|Speaker=BO147|TID=206-0
 10	dico	dire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	parataxis	_	Speaker=BO147|TID=206-1
 11	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	AlignEnd=339.117|Speaker=BO147|TID=206-2
 12	perché	perché	SCONJ	_	_	14	mark	_	AlignBegin=341.922|Speaker=BO139|TID=207-0
@@ -1346,15 +1346,15 @@
 2	oggi	oggi	ADV	_	_	10	advmod	_	Speaker=BO147|TID=217-1
 3	quando	quando	SCONJ	_	_	7	mark	_	Speaker=BO147|TID=217-2
 4-5	gliel'	_	_	_	_	_	_	_	SpaceAfter=No|Speaker=BO147|TID=217-3|Truncated=Yes
-4	glie	gli	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	iobj	_	_
-5	l'	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+4	glie	gli	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	iobj	_	_
+5	l'	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
 6	ho	avere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	Speaker=BO147|TID=217-4
 7	detto	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	advcl	_	Speaker=BO147|TID=217-5
-8	gli	gli	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	iobj	_	Speaker=BO147|TID=217-6
+8	gli	gli	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	iobj	_	Speaker=BO147|TID=217-6
 9	ho	avere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	aux	_	Speaker=BO147|TID=217-7
 10	detto	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	AlignEnd=354.617|Speaker=BO147|TID=217-8
 11	eli	eli	PROPN	_	_	14	nsubj	_	AlignEnd=355.697|Speaker=BO147|TID=218-0
-12	ti	ti	PRON	_	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	14	iobj	_	AlignBegin=356.197|Speaker=BO147|TID=219-0
+12	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	14	iobj	_	AlignBegin=356.197|Speaker=BO147|TID=219-0
 13	devo	dovere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	aux	_	Speaker=BO147|TID=219-1
 14	dire	dire	VERB	_	VerbForm=Inf	10	conj	_	Speaker=BO147|TID=219-2
 15	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	Speaker=BO147|TID=219-3
@@ -1363,20 +1363,20 @@
 18	devi	dovere	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	19	aux	_	Speaker=BO147|TID=219-6
 19-20	metterti	_	_	_	_	_	_	_	Speaker=BO147|TID=219-7
 19	metter	mettere	VERB	_	VerbForm=Inf	10	conj	_	_
-20	ti	ti	PRON	_	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	19	obj	_	_
+20	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	19	obj	_	_
 21	a	a	ADP	_	_	22	mark	_	Speaker=BO147|TID=219-8
 22	sedere	sedere	VERB	_	VerbForm=Inf	19	xcomp	_	Speaker=BO147|TID=219-9
 23	prima	prima	ADV	_	_	27	mark	_	Speaker=BO147|TID=219-10
 24	che	che	SCONJ	_	_	23	fixed	_	Speaker=BO147|TID=219-11
-25	te	te	PRON	_	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	27	iobj	_	Speaker=BO147|TID=219-12
-26	la	la	PRON	_	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	27	obj	_	Speaker=BO147|TID=219-13
+25	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	27	iobj	_	Speaker=BO147|TID=219-12
+26	la	la	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	27	obj	_	Speaker=BO147|TID=219-13
 27	dico	dire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	22	advcl	_	AlignEnd=358.817|Speaker=BO147|TID=219-14
 28	{ride}	{ride}	X	_	_	27	obj	_	AlignEnd=359.06|Speaker=BO139|TID=220-0|Type=NLB
 
 # sent_id = BOA3017_105
 # text = allora s'è messa da seduta sul eh mh sulla sedia quella che c'ha lei là in camera mh mh allora eh la sedia la cosa come si chiama sedia
 1	allora	allora	ADV	_	_	4	advmod	_	AlignBegin=359.167|Speaker=BO147|TID=221-0
-2	s'	si	PRON	_	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	SpaceAfter=No|Speaker=BO147|TID=221-1|Truncated=Yes
+2	s'	si	PRON	_	Person=3|PronType=Prs	4	expl	_	SpaceAfter=No|Speaker=BO147|TID=221-1|Truncated=Yes
 3	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	Speaker=BO147|TID=221-2
 4	messa	mettere	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Speaker=BO147|TID=221-3
 5	da	da	ADP	_	_	6	case	_	Speaker=BO147|TID=221-4
@@ -1392,7 +1392,7 @@
 13	sedia	sedia	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	Speaker=BO147|TID=222-1
 14	quella	quello	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	4	nsubj	_	Speaker=BO147|TID=222-2
 15	che	che	PRON	_	PronType=Rel	17	nsubj	_	Speaker=BO147|TID=222-3
-16	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	17	expl	_	SpaceAfter=No|Speaker=BO147|TID=222-4|Truncated=Yes
+16	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	17	expl	_	SpaceAfter=No|Speaker=BO147|TID=222-4|Truncated=Yes
 17	ha	avere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	Speaker=BO147|TID=222-5
 18	lei	lei	PRON	_	Gender=Fem|Number=Sing|PronType=Prs	17	nsubj	_	Overlapping=Yes|Prolonged=Yes|Speaker=BO147|TID=222-6
 19	là	là	ADV	_	_	21	advmod	_	Overlapping=Yes|Speaker=BO147|TID=222-7
@@ -1407,7 +1407,7 @@
 28	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	Speaker=BO147|TID=225-3
 29	cosa	cosa	NOUN	_	Gender=Fem|Number=Sing	27	nsubj	_	Speaker=BO147|TID=225-4
 30	come	come	SCONJ	_	_	32	mark	_	Speaker=BO147|TID=225-5
-31	si	si	PRON	_	Clitic=Yes|Person=3|PronType=Prs	32	expl	_	Speaker=BO147|TID=225-6
+31	si	si	PRON	_	Person=3|PronType=Prs	32	expl	_	Speaker=BO147|TID=225-6
 32	chiama	chiamare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	advcl	_	AlignEnd=369.17|Intonation=ascending|Speaker=BO147|TID=225-7
 33	sedia	sedia	NOUN	_	Gender=Fem|Number=Sing	32	xcomp	_	AlignEnd=369.847|Speaker=BO146|TID=226-0
 
@@ -1441,11 +1441,11 @@
 
 # sent_id = BOA3017_107
 # text = gli ho detto x gli ho detto eh vincenzo diventerà papà
-1	gli	gli	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	Speaker=BO147|TID=234-1
+1	gli	gli	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	Speaker=BO147|TID=234-1
 2	ho	avere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	Speaker=BO147|TID=234-2
 3	detto	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Speaker=BO147|TID=234-3
 4	x	per	ADP	_	_	7	mark	_	Speaker=BO147|TID=234-4|Type=unknown
-5	gli	gli	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	iobj	_	Speaker=BO147|TID=234-5
+5	gli	gli	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	iobj	_	Speaker=BO147|TID=234-5
 6	ho	avere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	Speaker=BO147|TID=234-6
 7	detto	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	Speaker=BO147|TID=234-7
 8	eh	eh	INTJ	_	_	10	discourse	_	Speaker=BO147|TID=234-8
@@ -1475,8 +1475,8 @@
 18	{ride}	{ride}	X	_	_	6	parataxis	_	AlignEnd=390.841|Speaker=BO139|TID=245-0|Type=NLB
 19	{ride}	{ride}	X	_	_	18	flat:foreign	_	AlignEnd=391.456|Speaker=BO146|TID=246-0|Type=NLB
 20	appena	appena	SCONJ	_	_	24	mark	_	AlignBegin=391.601|Speaker=BO146|TID=247-0
-21	te	te	PRON	_	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	24	iobj	_	Speaker=BO146|TID=247-1
-22	l'	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	obj	_	SpaceAfter=No|Speaker=BO146|TID=247-2|Truncated=Yes
+21	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	24	iobj	_	Speaker=BO146|TID=247-1
+22	l'	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	obj	_	SpaceAfter=No|Speaker=BO146|TID=247-2|Truncated=Yes
 23	ha	avere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	aux	_	Speaker=BO146|TID=247-3
 24	detto	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	18	advcl	_	Speaker=BO146|TID=247-4
 25	ah	ah	INTJ	_	_	24	discourse	_	Speaker=BO146|TID=247-5
@@ -1545,7 +1545,7 @@
 # sent_id = BOA3017_112
 # text = ormai lo sono
 1	ormai	ormai	ADV	_	_	2	advmod	_	Speaker=BO145|TID=260-5
-2	lo	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	Speaker=BO145|TID=260-6
+2	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	Speaker=BO145|TID=260-6
 3	sono	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	AlignEnd=407.778|Overlapping=Yes|Speaker=BO145|TID=260-7
 
 # sent_id = BOA3017_113
@@ -1563,11 +1563,11 @@
 11	ma	ma	CCONJ	_	_	12	cc	_	Overlapping=Yes|Speaker=BO147|TID=262-2
 12	ovvio	ovvio	ADJ	_	_	6	conj	_	Overlapping=Yes|Speaker=BO147|TID=262-3
 13	che	che	SCONJ	_	_	15	mark	_	Overlapping=Yes|Speaker=BO147|TID=262-4
-14	ti	ti	PRON	_	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	15	iobj	_	Overlapping=Yes|Speaker=BO147|TID=262-5
+14	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	15	iobj	_	Overlapping=Yes|Speaker=BO147|TID=262-5
 15	pare	parere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	ccomp	_	Overlapping=Yes|Speaker=BO147|TID=262-6
 16	che	che	SCONJ	_	_	19	mark	_	Overlapping=Yes|Speaker=BO147|TID=262-7
 17	non	non	ADV	_	PronType=Neg	19	advmod	_	Overlapping=Yes|Speaker=BO147|TID=262-8
-18	lo	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	obj	_	Overlapping=Yes|Speaker=BO147|TID=262-9
+18	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	obj	_	Overlapping=Yes|Speaker=BO147|TID=262-9
 19	vado	andare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	ccomp	_	Overlapping=Yes|Speaker=BO147|TID=262-10
 20	a	a	ADP	_	_	21	mark	_	Speaker=BO147|TID=262-11
 21	dire	dire	VERB	_	VerbForm=Inf	19	xcomp	_	Speaker=BO147|TID=262-12
@@ -1577,13 +1577,13 @@
 # sent_id = BOA3017_114
 # text = se l'ha detto martina perché lei lo può dire e io no
 1	se	se	SCONJ	_	_	4	mark	_	Speaker=BO147|TID=262-15
-2	l'	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	SpaceAfter=No|Speaker=BO147|TID=262-16|Truncated=Yes
+2	l'	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	SpaceAfter=No|Speaker=BO147|TID=262-16|Truncated=Yes
 3	ha	avere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	Speaker=BO147|TID=262-17
 4	detto	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Speaker=BO147|TID=262-18
 5	martina	martina	PROPN	_	_	4	nsubj	_	Speaker=BO147|TID=262-19
 6	perché	perché	SCONJ	_	_	10	mark	_	Overlapping=Yes|Speaker=BO147|TID=262-20
 7	lei	lei	PRON	_	Gender=Fem|Number=Sing|PronType=Prs	10	nsubj	_	Overlapping=Yes|Speaker=BO147|TID=262-21
-8	lo	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	Speaker=BO147|TID=262-22
+8	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	Speaker=BO147|TID=262-22
 9	può	potere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	Speaker=BO147|TID=262-23
 10	dire	dire	VERB	_	VerbForm=Inf	4	advcl	_	Speaker=BO147|TID=262-24
 11	e	e	CCONJ	_	_	12	cc	_	Speaker=BO147|TID=262-25
@@ -1594,7 +1594,7 @@
 # text = e chi l'è
 1	e	e	CCONJ	_	_	2	cc	_	Speaker=BO147|TID=262-28
 2	chi	chi	PRON	_	PronType=Rel	0	root	_	Overlapping=Yes|Speaker=BO147|TID=262-29
-3	l'	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	Overlapping=Yes|SpaceAfter=No|Speaker=BO147|TID=262-30|Truncated=Yes
+3	l'	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	Overlapping=Yes|SpaceAfter=No|Speaker=BO147|TID=262-30|Truncated=Yes
 4	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	Overlapping=Yes|Speaker=BO147|TID=262-31
 
 # sent_id = BOA3017_116
@@ -1616,7 +1616,7 @@
 7	x	per	ADP	_	_	6	fixed	_	AlignEnd=415.36|Overlapping=Yes|Speaker=BO146|TID=266-4|Type=unknown
 8	cioè	cioè	ADV	_	_	11	advmod	_	AlignBegin=414.828|Overlapping=Yes|PaceFast=Yes|Speaker=BO147|TID=267-0
 9	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	Overlapping=Yes|Speaker=BO147|TID=267-1
-10	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	11	expl	_	Overlapping=Yes|SpaceAfter=No|Speaker=BO147|TID=267-2|Truncated=Yes
+10	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	11	expl	_	Overlapping=Yes|SpaceAfter=No|Speaker=BO147|TID=267-2|Truncated=Yes
 11	ho	avere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Overlapping=Yes|Speaker=BO147|TID=267-3
 12	meno	meno	ADV	_	_	11	advmod	_	Overlapping=Yes|Speaker=BO147|TID=267-4
 13	autorità	autorità	NOUN	_	Gender=Fem	11	obj	_	Speaker=BO147|TID=267-5
@@ -1645,8 +1645,8 @@
 13	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Speaker=BO146|TID=270-4
 14	x	per	ADP	_	_	15	case	_	AlignEnd=422.968|Overlapping=Yes|Speaker=BO146|TID=270-5|Type=unknown
 15	chi	chi	PRON	_	PronType=Rel	13	nmod	_	AlignBegin=421.548|Overlapping=Yes|Speaker=BO147|TID=271-0
-16	se	se	PRON	_	Clitic=Yes|Person=3|PronType=Prs	18	expl	_	Overlapping=Yes|Speaker=BO147|TID=271-1
-17	ne	ne	PRON	_	Clitic=Yes|PronType=Prs	18	iobj	_	Overlapping=Yes|Speaker=BO147|TID=271-2
+16	se	se	PRON	_	Person=3|PronType=Prs	18	expl	_	Overlapping=Yes|Speaker=BO147|TID=271-1
+17	ne	ne	PRON	_	PronType=Prs	18	iobj	_	Overlapping=Yes|Speaker=BO147|TID=271-2
 18	frega	fregare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	Intonation=descending|Overlapping=Yes|Speaker=BO147|TID=271-3
 
 # sent_id = BOA3017_120
@@ -1675,7 +1675,7 @@
 3	a	a	ADP	_	_	4	case	_	Speaker=BO147|TID=276-1
 4	parte	parte	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	Speaker=BO147|TID=276-2
 5	che	che	SCONJ	_	_	7	mark	_	Speaker=BO147|TID=276-3
-6	lo	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	Speaker=BO147|TID=276-4
+6	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	Speaker=BO147|TID=276-4
 7	sapran	sapere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	4	acl:relcl	_	Speaker=BO147|TID=276-5
 8	tutti	tutto	PRON	_	Gender=Masc|Number=Plur|PronType=Ind	7	nsubj	_	AlignEnd=427.933|Overlapping=Yes|Speaker=BO147|TID=276-6
 9	lui	lui	PRON	_	Number=Sing|Person=3|PronType=Prs	10	nsubj	_	AlignBegin=427.298|Overlapping=Yes|Speaker=BO145|TID=277-0
@@ -1711,7 +1711,7 @@
 # sent_id = BOA3017_125
 # text = adesso lo dico a elisa
 1	adesso	adesso	ADV	_	_	3	advmod	_	AlignBegin=433.733|Speaker=BO145|TID=281-0
-2	lo	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	Speaker=BO145|TID=281-1
+2	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	Speaker=BO145|TID=281-1
 3	dico	dire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO145|TID=281-2
 4	a	a	ADP	_	_	5	case	_	Speaker=BO145|TID=281-3
 5	elisa	elisa	PROPN	_	_	3	obl	_	Speaker=BO145|TID=281-4
@@ -1738,7 +1738,7 @@
 3	x	per	ADP	_	_	5	case	_	Speaker=BO147|TID=284-2|Type=unknown
 4	che	che	DET	_	PronType=Int	5	det	_	Speaker=BO147|TID=284-3
 5	cosa	cosa	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	Speaker=BO147|TID=284-4
-6	s'	si	PRON	_	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	SpaceAfter=No|Speaker=BO147|TID=284-5|Truncated=Yes
+6	s'	si	PRON	_	Person=3|PronType=Prs	7	expl	_	SpaceAfter=No|Speaker=BO147|TID=284-5|Truncated=Yes
 7	aspettava	aspettare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	Speaker=BO147|TID=284-6
 8	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	Speaker=BO147|TID=284-7
 9	gente	gente	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	Speaker=BO147|TID=284-8
@@ -1757,7 +1757,7 @@
 7	sì	sì	ADV	_	_	8	advmod	_	Speaker=BO146|TID=286-2
 8	visto	vedere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	advcl	_	Speaker=BO146|TID=286-3
 9	che	che	SCONJ	_	_	12	mark	_	Speaker=BO146|TID=286-4
-10	l'	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obj	_	SpaceAfter=No|Speaker=BO146|TID=286-5|Truncated=Yes
+10	l'	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obj	_	SpaceAfter=No|Speaker=BO146|TID=286-5|Truncated=Yes
 11	aveva	avere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	aux	_	Speaker=BO146|TID=286-6
 12	detto	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	ccomp	_	Speaker=BO146|TID=286-7
 13	solo	solo	ADV	_	_	16	advmod	_	Speaker=BO146|TID=286-8
@@ -1781,8 +1781,8 @@
 1	pia	pia	ADV	_	_	2	advmod	_	Speaker=BO146|TID=286-18
 2	fa	fare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO146|TID=286-19
 3	vabbè	vabbè	INTJ	_	_	2	discourse	_	Speaker=BO146|TID=286-20
-4	ve	ve	PRON	_	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	6	iobj	_	Speaker=BO146|TID=286-21
-5	lo	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	Speaker=BO146|TID=286-22
+4	ve	ve	PRON	_	Number=Plur|Person=2|PronType=Prs	6	iobj	_	Speaker=BO146|TID=286-21
+5	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	Speaker=BO146|TID=286-22
 6	dico	dire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	parataxis	_	AlignEnd=446.243|Speaker=BO146|TID=286-23
 7	x	per	ADP	_	_	8	case	_	AlignEnd=447.528|Overlapping=Yes|Speaker=BO146|TID=287-0|Type=unknown
 8	vabbè	vabbè	INTJ	_	_	6	discourse	_	AlignBegin=447.208|Overlapping=Yes|Speaker=BO145|TID=288-0
@@ -1826,8 +1826,8 @@
 # text = ah gliel'ho detto a lara e giuliano
 1	ah	ah	INTJ	_	_	5	discourse	_	AlignBegin=451.619|Overlapping=Yes|Speaker=BO145|TID=293-0
 2-3	gliel'	_	_	_	_	_	_	_	Overlapping=Yes|SpaceAfter=No|Speaker=BO145|TID=293-1|Truncated=Yes
-2	glie	gli	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	iobj	_	_
-3	l'	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+2	glie	gli	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	iobj	_	_
+3	l'	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
 4	ho	avere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	Overlapping=Yes|Speaker=BO145|TID=293-2
 5	detto	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Overlapping=Yes|Speaker=BO145|TID=293-3
 6	a	a	ADP	_	_	7	case	_	Speaker=BO145|TID=293-4
@@ -1837,7 +1837,7 @@
 
 # sent_id = BOA3017_138
 # text = l'ho detto {ride} {ride} {ride} giuliano {P}
-1	l'	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	SpaceAfter=No|Speaker=BO145|TID=293-8|Truncated=Yes
+1	l'	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	SpaceAfter=No|Speaker=BO145|TID=293-8|Truncated=Yes
 2	ho	avere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	Speaker=BO145|TID=293-9
 3	detto	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	AlignEnd=453.659|Speaker=BO145|TID=293-10
 4	{ride}	{ride}	X	_	Foreign=Yes	3	discourse	_	AlignEnd=455.12|Speaker=BO147|TID=294-0|Type=NLB
