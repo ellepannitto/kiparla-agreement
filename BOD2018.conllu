@@ -47,7 +47,7 @@
 10	a	a	ADP	_	_	12	case	_	_
 11	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	natura	natura	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	AlignEnd=16.62|Intonation=weakly_ascending|Speaker=BO140|TID=5-4
-13	ci	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	14	expl	_	AlignBegin=17|Clitic=Yes|Speaker=BO140|TID=6-0
+13	ci	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	14	expl	_	AlignBegin=17|Speaker=BO140|TID=6-0
 14	viviamo	vivere	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	conj	_	Prolonged=Yes|Speaker=BO140|TID=6-1
 15	in	in	ADP	_	_	17	case	_	Prolonged=Yes|Speaker=BO140|TID=6-2
 16	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	Speaker=BO140|TID=6-3
@@ -79,7 +79,7 @@
 41	miei	mio	DET	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	42	det:poss	_	Speaker=BO140|TID=10-11
 42	cugini	cugino	NOUN	_	Gender=Masc|Number=Plur	38	nmod	_	Speaker=BO140|TID=10-12
 43	quindi	quindi	ADV	_	_	45	advmod	_	Speaker=BO140|TID=10-13
-44	ci	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	45	expl	_	Clitic=Yes|Speaker=BO140|TID=10-14
+44	ci	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	45	expl	_	Speaker=BO140|TID=10-14
 45	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	conj	_	Speaker=BO140|TID=10-15
 46	cinque	cinque	NUM	_	NumType=Card	47	nummod	_	Speaker=BO140|TID=10-16
 47	famiglie	famiglia	NOUN	_	Gender=Fem|Number=Plur	45	nsubj	_	AlignEnd=30.51|Speaker=BO140|TID=10-17
@@ -97,7 +97,7 @@
 # sent_id = BOD2018_6
 # text = sì ci sono tre piani mhmh e l'ultimo piano è una soffitta che in realtà è abitata da uno dei miei zii
 1	sì	sì	INTJ	_	_	3	discourse	_	AlignBegin=32.735|Prolonged=Yes|Speaker=BO140|TID=12-0
-2	ci	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	3	expl	_	Clitic=Yes|Speaker=BO140|TID=12-1
+2	ci	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	3	expl	_	Speaker=BO140|TID=12-1
 3	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Prolonged=Yes|Speaker=BO140|TID=12-2
 4	tre	tre	NUM	_	NumType=Card	5	nummod	_	Speaker=BO140|TID=12-3
 5	piani	piano	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	AlignEnd=34.93|Intonation=weakly_ascending|Speaker=BO140|TID=12-4
@@ -145,7 +145,7 @@
 11	credo	credere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	parataxis	_	AlignEnd=49.35|Speaker=BO140|TID=16-13
 12	okay	okay	PROPN	_	_	11	obj	_	AlignEnd=50.42|Speaker=BO118|TID=17-0
 13	e	e	CCONJ	_	_	15	cc	_	AlignBegin=50.735|Speaker=BO118|TID=18-0
-14	si	si	PRON	_	Clitic=Yes|Person=3|PronType=Prs	15	expl	_	Clitic=Yes|Speaker=BO118|TID=18-1
+14	si	si	PRON	_	Clitic=Yes|Person=3|PronType=Prs	15	expl	_	Speaker=BO118|TID=18-1
 15	trova	trovare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	Speaker=BO118|TID=18-2
 16	in	in	ADP	_	_	17	case	_	Speaker=BO118|TID=18-3
 17	centro	centro	NOUN	_	Gender=Masc|Number=Sing	15	obl	_	Prolonged=Yes|Speaker=BO118|TID=18-4
@@ -161,7 +161,7 @@
 
 # sent_id = BOD2018_10
 # text = si trova fuori dalla città ma è vicina
-1	si	si	PRON	_	Clitic=Yes|Person=3|PronType=Prs	2	expl	_	Clitic=Yes|Speaker=BO140|TID=19-1
+1	si	si	PRON	_	Clitic=Yes|Person=3|PronType=Prs	2	expl	_	Speaker=BO140|TID=19-1
 2	trova	trovare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO140|TID=19-2
 3	fuori	fuori	ADV	_	_	6	case	_	Speaker=BO140|TID=19-3
 4-5	dalla	_	_	_	_	_	_	_	Speaker=BO140|TID=19-4
@@ -187,7 +187,7 @@
 11	decina	decina	NOUN	_	Gender=Fem|Number=Sing	15	obl	_	Speaker=BO140|TID=20-8
 12	di	di	ADP	_	_	13	case	_	Prolonged=Yes|Speaker=BO140|TID=20-9
 13	minuti	minuto	NOUN	_	Gender=Masc|Number=Plur	11	nmod	_	Speaker=BO140|TID=20-10
-14	ci	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	15	expl	_	Clitic=Yes|Speaker=BO140|TID=20-11
+14	ci	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	15	expl	_	Speaker=BO140|TID=20-11
 15	metto	mettere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	AlignEnd=62.86|Speaker=BO140|TID=20-12
 16	okay	okay	INTJ	_	_	15	obj	_	AlignEnd=64.11|Overlapping=Yes|Speaker=BO118|TID=21-0|Volume=low
 17	e	e	CCONJ	_	_	19	cc	_	AlignBegin=63.597|Overlapping=Yes|Prolonged=Yes|Speaker=BO140|TID=22-0
@@ -210,7 +210,7 @@
 33	fa	fa	ADV	_	_	32	advmod	_	Prolonged=Yes|Speaker=BO140|TID=23-5
 34	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	37	nsubj	_	Speaker=BO140|TID=23-6
 35	non	non	ADV	_	PronType=Neg	37	advmod	_	Speaker=BO140|TID=23-7
-36	lo	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	37	obj	_	Clitic=Yes|Speaker=BO140|TID=23-8
+36	lo	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	37	obj	_	Speaker=BO140|TID=23-8
 37	so	sapere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	Speaker=BO140|TID=23-9
 38	ma	ma	CCONJ	_	_	40	cc	_	Speaker=BO140|TID=23-10
 39	ho	avere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	40	aux	_	Speaker=BO140|TID=23-11
@@ -219,11 +219,11 @@
 41	da	da	ADP	_	_	43	case	_	_
 42	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	43	det	_	_
 43	foto	foto	NOUN	_	Gender=Fem	40	obl	_	AlignEnd=73.03|Intonation=weakly_ascending|Speaker=BO140|TID=23-14
-44	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	45	expl	_	AlignBegin=73.436|Clitic=Yes|SpaceAfter=No|Speaker=BO140|TID=24-0
+44	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	45	expl	_	AlignBegin=73.436|SpaceAfter=No|Speaker=BO140|TID=24-0
 45	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	40	conj	_	Prolonged=Yes|Speaker=BO140|TID=24-1
 46	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	45	ccomp	_	Speaker=BO140|TID=24-2
 47	so~	solo	ADV	_	_	49	nsubj	_	Interrupted=Yes|Speaker=BO140|TID=24-3
-48	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	49	expl	_	Clitic=Yes|SpaceAfter=No|Speaker=BO140|TID=24-4
+48	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	49	expl	_	SpaceAfter=No|Speaker=BO140|TID=24-4
 49	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	45	conj	_	Speaker=BO140|TID=24-5
 50	solo	solo	ADV	_	_	51	advmod	_	Speaker=BO140|TID=24-6
 51	casa	casa	NOUN	_	Gender=Fem|Number=Sing	49	nsubj	_	Speaker=BO140|TID=24-7
@@ -249,7 +249,7 @@
 9	mia	mio	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	8	det:poss	_	Prolonged=Yes|Speaker=BO140|TID=24-22
 10	e	e	CCONJ	_	_	14	cc	_	Speaker=BO140|TID=24-23
 11	quindi	quindi	ADV	_	_	14	advmod	_	Prolonged=Yes|Speaker=BO140|TID=24-24
-12	si	si	PRON	_	Clitic=Yes|Person=3|PronType=Prs	14	expl	_	Clitic=Yes|Speaker=BO140|TID=24-25
+12	si	si	PRON	_	Clitic=Yes|Person=3|PronType=Prs	14	expl	_	Speaker=BO140|TID=24-25
 13	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	Speaker=BO140|TID=24-26
 14	persa	perdere	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	Speaker=BO140|TID=24-27
 15	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	Speaker=BO140|TID=24-28
@@ -278,7 +278,7 @@
 6	casa	casa	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	Speaker=BO118|TID=27-4
 7	tua	tuo	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	det:poss	_	Speaker=BO118|TID=27-5
 8	che	che	PRON	_	PronType=Rel	10	nsubj	_	Speaker=BO118|TID=27-6
-9	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	10	expl	_	Clitic=Yes|SpaceAfter=No|Speaker=BO118|TID=27-7
+9	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	10	expl	_	SpaceAfter=No|Speaker=BO118|TID=27-7
 10	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	Speaker=BO118|TID=27-8
 
 # sent_id = BOD2018_14
@@ -292,13 +292,13 @@
 # text = abbiamo sì me un prato
 1	abbiamo	avere	VERB	_	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=94.63|Prolonged=Yes|Speaker=BO140|TID=28-0
 2	sì	sì	INTJ	_	_	1	advmod	_	Speaker=BO140|TID=28-1
-3	me	me	PRON	_	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	1	iobj	_	Clitic=Yes|Prolonged=Yes|Speaker=BO140|TID=28-2
+3	me	me	PRON	_	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	1	iobj	_	Prolonged=Yes|Speaker=BO140|TID=28-2
 4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Speaker=BO140|TID=28-3
 5	prato	prato	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Prolonged=Yes|Speaker=BO140|TID=28-4
 
 # sent_id = BOD2018_16
 # text = c'è un grande prato e in realtà ce ne son due e sono divisi dalla strada che che porta a casa mia e sotto casa abbiamo un un orto molto grande che è gestito da una parte da mia nonna e dai miei genitori un'altra parte da un'altra famiglia
-1	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	2	expl	_	Clitic=Yes|SpaceAfter=No|Speaker=BO140|TID=28-5
+1	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	2	expl	_	SpaceAfter=No|Speaker=BO140|TID=28-5
 2	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO140|TID=28-6
 3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Speaker=BO140|TID=28-7
 4	grande	grande	ADJ	_	Number=Plur	5	amod	_	Speaker=BO140|TID=28-8
@@ -306,8 +306,8 @@
 6	e	e	CCONJ	_	_	11	cc	_	AlignBegin=99.277|Speaker=BO140|TID=29-0
 7	in	in	ADP	_	_	8	case	_	Speaker=BO140|TID=29-1
 8	realtà	realtà	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	Speaker=BO140|TID=29-2
-9	ce	ce	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	11	expl	_	Clitic=Yes|Speaker=BO140|TID=29-3
-10	ne	ne	PRON	_	Clitic=Yes|PronType=Prs	11	iobj	_	Clitic=Yes|Speaker=BO140|TID=29-4
+9	ce	ce	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	11	expl	_	Speaker=BO140|TID=29-3
+10	ne	ne	PRON	_	Clitic=Yes|PronType=Prs	11	iobj	_	Speaker=BO140|TID=29-4
 11	son	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	Speaker=BO140|TID=29-5
 12	due	due	NUM	_	NumType=Card	11	nsubj	_	AlignEnd=100.75|Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO140|TID=29-6
 13	e	e	CCONJ	_	_	15	cc	_	AlignBegin=101.147|Prolonged=Yes|Speaker=BO140|TID=30-0
@@ -360,7 +360,7 @@
 1	e	e	CCONJ	_	_	5	cc	_	AlignBegin=115.761|Prolonged=Yes|Speaker=BO140|TID=32-0
 2	intorno	intorno	ADV	_	_	5	advmod	_	Speaker=BO140|TID=32-1
 3	comunque	comunque	ADV	_	_	5	advmod	_	Speaker=BO140|TID=32-2
-4	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	5	expl	_	Clitic=Yes|SpaceAfter=No|Speaker=BO140|TID=32-3
+4	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	5	expl	_	SpaceAfter=No|Speaker=BO140|TID=32-3
 5	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO140|TID=32-4
 6	campagna	campagna	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	AlignEnd=119.07|Intonation=descending|Speaker=BO140|TID=32-5
 
@@ -384,7 +384,7 @@
 # sent_id = BOD2018_19
 # text = poi si vedono i monti gli appennini
 1	poi	poi	ADV	_	_	3	advmod	_	Speaker=BO140|TID=34-11
-2	si	si	PRON	_	Clitic=Yes|Person=3|PronType=Prs	3	expl:impers	_	Clitic=Yes|Speaker=BO140|TID=34-12
+2	si	si	PRON	_	Clitic=Yes|Person=3|PronType=Prs	3	expl:impers	_	Speaker=BO140|TID=34-12
 3	vedono	vedere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO140|TID=34-13
 4	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	Speaker=BO140|TID=34-14
 5	monti	monte	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	Speaker=BO140|TID=34-15
@@ -408,7 +408,7 @@
 5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Speaker=BO118|TID=36-4
 6	buon	buono	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	Speaker=BO118|TID=36-5
 7	rapporto	rapporto	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	Intonation=ascending|Speaker=BO118|TID=36-6
-8	li	li	PRON	_	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obj	_	Clitic=Yes|Speaker=BO118|TID=36-7
+8	li	li	PRON	_	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obj	_	Speaker=BO118|TID=36-7
 9	conoscete	conoscere	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	parataxis	_	Speaker=BO118|TID=36-8
 10	bene	bene	ADV	_	_	9	advmod	_	AlignEnd=132.94|Intonation=ascending|Speaker=BO118|TID=36-9
 
@@ -485,7 +485,7 @@
 8	anche	anche	ADV	_	_	9	advmod	_	AlignBegin=155.92|Speaker=BO140|TID=39-0
 9	se	se	SCONJ	_	_	12	mark	_	Speaker=BO140|TID=39-1
 10	non	non	ADV	_	PronType=Neg	12	advmod	_	Speaker=BO140|TID=39-2
-11	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	12	expl	_	Clitic=Yes|SpaceAfter=No|Speaker=BO140|TID=39-3
+11	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	12	expl	_	SpaceAfter=No|Speaker=BO140|TID=39-3
 12	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	Prolonged=Yes|Speaker=BO140|TID=39-4
 13	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	Prolonged=Yes|Speaker=BO140|TID=39-5
 14	rapporto	rapporto	NOUN	_	Gender=Masc|Number=Sing	12	nsubj	_	Speaker=BO140|TID=39-6
@@ -535,14 +535,14 @@
 2	generale	generale	NOUN	_	Gender=Masc|Number=Sing	13	obl	_	Speaker=BO140|TID=44-13
 3	però	però	ADV	_	_	11	advmod	_	Speaker=BO140|TID=44-14
 4	se	se	SCONJ	_	_	6	mark	_	Speaker=BO140|TID=44-15
-5	ci	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	6	expl	_	Clitic=Yes|Speaker=BO140|TID=44-16
+5	ci	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	6	expl	_	Speaker=BO140|TID=44-16
 6	incontriamo	incontrare	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	11	advcl	_	Prolonged=Yes|Speaker=BO140|TID=44-17
 7	fuori	fuori	ADV	_	_	9	case	_	Speaker=BO140|TID=44-18
 8	da	da	ADP	_	_	7	fixed	_	Speaker=BO140|TID=44-19
 9	casa	casa	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	Prolonged=Yes|Speaker=BO140|TID=44-20
-10	ci	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	11	expl	_	Clitic=Yes|Speaker=BO140|TID=44-21
+10	ci	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	11	expl	_	Speaker=BO140|TID=44-21
 11	salutiamo	salutare	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	13	advcl	_	Prolonged=Yes|Speaker=BO140|TID=44-22
-12	ci	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	13	expl	_	Clitic=Yes|Speaker=BO140|TID=44-23
+12	ci	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	13	expl	_	Speaker=BO140|TID=44-23
 13	chiediamo	chiedere	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO140|TID=44-24
 14	come	come	SCONJ	_	_	15	mark	_	Speaker=BO140|TID=44-25
 15	stiamo	stare	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	13	advcl	_	Prolonged=Yes|Speaker=BO140|TID=44-26
@@ -616,7 +616,7 @@
 17	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
 18	casa	casa	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	Prolonged=Yes|Speaker=BO140|TID=50-8
 19	e	e	CCONJ	_	_	21	cc	_	Prolonged=Yes|Speaker=BO140|TID=50-9
-20	si	si	PRON	_	Clitic=Yes|Person=3|PronType=Prs	21	expl	_	Clitic=Yes|Speaker=BO140|TID=50-10
+20	si	si	PRON	_	Clitic=Yes|Person=3|PronType=Prs	21	expl	_	Speaker=BO140|TID=50-10
 21	riscalda	riscaldare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	Speaker=BO140|TID=50-11
 22	prima	prima	ADV	_	_	21	advmod	_	Speaker=BO140|TID=50-12
 23	e	e	CCONJ	_	_	30	cc	_	AlignEnd=205.17|Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO140|TID=50-13
@@ -647,7 +647,7 @@
 7	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	Speaker=BO140|TID=53-6
 8	sala	sala	NOUN	_	Gender=Fem|Number=Sing	0	root	_	Prolonged=Yes|Speaker=BO140|TID=53-7
 9	perché	perché	SCONJ	_	_	11	mark	_	Prolonged=Yes|Speaker=BO140|TID=53-8
-10	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	11	expl	_	Clitic=Yes|SpaceAfter=No|Speaker=BO140|TID=53-9
+10	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	11	expl	_	SpaceAfter=No|Speaker=BO140|TID=53-9
 11	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	Speaker=BO140|TID=53-10
 12	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	Speaker=BO140|TID=53-11
 13	camino	camino	NOUN	_	Gender=Masc|Number=Sing	11	nsubj	_	Prolonged=Yes|Speaker=BO140|TID=53-12
@@ -655,14 +655,14 @@
 15	mh	mh	INTJ	_	_	19	discourse	_	AlignEnd=218.39|Speaker=BO140|TID=53-14
 16	mh	mh	INTJ	_	_	19	discourse	_	AlignBegin=219.356|Prolonged=Yes|Speaker=BO140|TID=54-0
 17	vabbè	vabbè	INTJ	_	_	19	discourse	_	Speaker=BO140|TID=54-1
-18	ci	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	19	expl	_	Clitic=Yes|Overlapping=Yes|Speaker=BO140|TID=54-2
+18	ci	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	19	expl	_	Overlapping=Yes|Speaker=BO140|TID=54-2
 19	stiamo	stare	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	conj	_	Overlapping=Yes|Speaker=BO140|TID=54-3
 20	insieme	insieme	ADV	_	_	19	advmod	_	Prolonged=Yes|Speaker=BO140|TID=54-4
 
 # sent_id = BOD2018_34
 # text = esatto c'è il divano comodo
 1	esatto	esatto	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	Prolonged=Yes|Speaker=BO140|TID=54-5
-2	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	3	expl	_	Clitic=Yes|SpaceAfter=No|Speaker=BO140|TID=54-6
+2	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	3	expl	_	SpaceAfter=No|Speaker=BO140|TID=54-6
 3	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO140|TID=54-7
 4	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Speaker=BO140|TID=54-8
 5	divano	divano	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	Speaker=BO140|TID=54-9
@@ -680,7 +680,7 @@
 3	in	in	ADP	_	_	4	case	_	Speaker=BO140|TID=56-2
 4	realtà	realtà	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	Speaker=BO140|TID=56-3
 5	non	non	ADV	_	PronType=Neg	7	advmod	_	Speaker=BO140|TID=56-4
-6	ci	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	7	expl	_	Clitic=Yes|Speaker=BO140|TID=56-5
+6	ci	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	7	expl	_	Speaker=BO140|TID=56-5
 7	sto	stare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO140|TID=56-6
 8	quasi	quasi	ADV	_	_	9	advmod	_	Speaker=BO140|TID=56-7
 9	mai	mai	ADV	_	_	7	advmod	_	Prolonged=Yes|Speaker=BO140|TID=56-8
@@ -701,11 +701,11 @@
 24	preferita	preferito	ADJ	_	Gender=Fem|Number=Sing	23	amod	_	AlignEnd=232.62|Intonation=weakly_ascending|Overlapping=Yes|Prolonged=Yes|Speaker=BO140|TID=57-7
 25	nemmeno	nemmeno	ADV	_	_	28	advmod	_	AlignBegin=232.2|Overlapping=Yes|Speaker=BO118|TID=58-0|Volume=low
 26	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	28	nsubj	_	Overlapping=Yes|Speaker=BO118|TID=58-1|Volume=low
-27	mi	mi	PRON	_	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	28	iobj	_	Clitic=Yes|Speaker=BO118|TID=58-2|Volume=low
+27	mi	mi	PRON	_	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	28	iobj	_	Speaker=BO118|TID=58-2|Volume=low
 28	sa	sapere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	Speaker=BO118|TID=58-3|Volume=low
 29	che	che	SCONJ	_	_	32	mark	_	Speaker=BO118|TID=58-4|Volume=low
-30	ce	ce	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	32	expl	_	Clitic=Yes|Speaker=BO118|TID=58-5|Volume=low
-31	l'	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	32	obj	_	Clitic=Yes|SpaceAfter=No|Speaker=BO118|TID=58-6|Volume=low
+30	ce	ce	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	32	expl	_	Speaker=BO118|TID=58-5|Volume=low
+31	l'	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	32	obj	_	SpaceAfter=No|Speaker=BO118|TID=58-6|Volume=low
 32	ho	avere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	28	ccomp	_	AlignEnd=233.66|Intonation=descending|Speaker=BO118|TID=58-7|Volume=low
 33	anche	anche	ADV	_	_	32	advmod	_	AlignBegin=234.49|Speaker=BO118|TID=59-0
 34	perché	perché	SCONJ	_	_	41	mark	_	Speaker=BO118|TID=59-1
@@ -722,7 +722,7 @@
 45	di	di	ADP	_	_	46	case	_	Speaker=BO118|TID=59-12
 46	freddo	freddo	NOUN	_	Gender=Masc|Number=Sing	44	nmod	_	AlignEnd=238.47|Intonation=weakly_ascending|Speaker=BO118|TID=59-13
 47	perché	perché	SCONJ	_	_	50	mark	_	AlignBegin=239.02|Speaker=BO118|TID=60-0
-48	l'	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	50	obj	_	Clitic=Yes|SpaceAfter=No|Speaker=BO118|TID=60-1
+48	l'	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	50	obj	_	SpaceAfter=No|Speaker=BO118|TID=60-1
 49	hanno	avere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	50	aux	_	Speaker=BO118|TID=60-2
 50	rifatta	rifare	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	41	advcl	_	Speaker=BO118|TID=60-3
 51	da	da	ADP	_	_	52	case	_	Speaker=BO118|TID=60-4
@@ -742,14 +742,14 @@
 6	di	di	ADP	_	_	7	case	_	Speaker=BO118|TID=60-15
 7	legno	legno	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	Speaker=BO118|TID=60-16
 8	e	e	CCONJ	_	_	10	cc	_	Speaker=BO118|TID=60-17
-9	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	10	expl	_	Clitic=Yes|SpaceAfter=No|Speaker=BO118|TID=60-18
+9	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	10	expl	_	SpaceAfter=No|Speaker=BO118|TID=60-18
 10	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	conj	_	Speaker=BO118|TID=60-19
 11	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	Speaker=BO118|TID=60-20
 12	camino	camino	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	Speaker=BO118|TID=60-21
 13	e	e	CCONJ	_	_	17	cc	_	Speaker=BO118|TID=60-22
 14	adesso	adesso	ADV	_	_	17	advmod	_	Speaker=BO118|TID=60-23
 15	non	non	ADV	_	PronType=Neg	17	advmod	_	Speaker=BO118|TID=60-24
-16	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	17	expl	_	Clitic=Yes|SpaceAfter=No|Speaker=BO118|TID=60-25
+16	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	17	expl	_	SpaceAfter=No|Speaker=BO118|TID=60-25
 17	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	Speaker=BO118|TID=60-26
 18	più	più	ADV	_	_	17	advmod	_	AlignEnd=244.76|Intonation=weakly_ascending|Speaker=BO118|TID=60-27
 
@@ -769,14 +769,14 @@
 12	era	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	cop	_	Speaker=BO118|TID=62-1
 13	grande	grande	ADJ	_	Number=Sing	7	advcl	_	Prolonged=Yes|Speaker=BO118|TID=62-2
 14	e	e	CCONJ	_	_	16	cc	_	Prolonged=Yes|Speaker=BO118|TID=62-3
-15	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	16	expl	_	Clitic=Yes|SpaceAfter=No|Speaker=BO118|TID=62-4
+15	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	16	expl	_	SpaceAfter=No|Speaker=BO118|TID=62-4
 16	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	conj	_	Speaker=BO118|TID=62-5
 17	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	Speaker=BO118|TID=62-6
 18	tavolo	tavolo	NOUN	_	Gender=Masc|Number=Sing	16	nsubj	_	Speaker=BO118|TID=62-7
 
 # sent_id = BOD2018_39
 # text = c'era pure un divanetto
-1	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	2	expl	_	Clitic=Yes|SpaceAfter=No|Speaker=BO118|TID=62-8
+1	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	2	expl	_	SpaceAfter=No|Speaker=BO118|TID=62-8
 2	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	Speaker=BO118|TID=62-9
 3	pure	pure	ADV	_	_	2	advmod	_	Speaker=BO118|TID=62-10
 4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Speaker=BO118|TID=62-11
@@ -788,8 +788,8 @@
 2	però	però	ADV	_	_	7	advmod	_	AlignBegin=253.09|Speaker=BO118|TID=64-0
 3	adesso	adesso	ADV	_	_	7	advmod	_	Speaker=BO118|TID=64-1
 4	non	non	ADV	_	PronType=Neg	7	advmod	_	Speaker=BO118|TID=64-2
-5	ce	ce	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	7	expl	_	Clitic=Yes|Speaker=BO118|TID=64-3
-6	l'	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	Clitic=Yes|SpaceAfter=No|Speaker=BO118|TID=64-4
+5	ce	ce	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	7	expl	_	Speaker=BO118|TID=64-3
+6	l'	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	SpaceAfter=No|Speaker=BO118|TID=64-4
 7	ho	avere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignEnd=253.81|Speaker=BO118|TID=64-5
 
 # sent_id = BOD2018_41
@@ -838,7 +838,7 @@
 14	piccola	piccolo	ADJ	_	Gender=Fem|Number=Sing	7	conj	_	AlignEnd=271.13|Intonation=descending|Speaker=BO140|TID=68-10
 15	quindi	quindi	ADV	_	_	18	advmod	_	AlignBegin=271.485|Speaker=BO140|TID=69-0
 16	appena	appena	ADV	_	_	18	advmod	_	Speaker=BO140|TID=69-1
-17	ti	ti	PRON	_	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	18	expl	_	Clitic=Yes|Speaker=BO140|TID=69-2
+17	ti	ti	PRON	_	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	18	expl	_	Speaker=BO140|TID=69-2
 18	sposti	spostare	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	14	advcl	_	Speaker=BO140|TID=69-3
 19	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	Speaker=BO140|TID=69-4
 20	po'	po'	ADV	_	_	18	advmod	_	Speaker=BO140|TID=69-5
@@ -883,7 +883,7 @@
 15	così	così	ADV	_	_	19	advmod	_	Speaker=BO140|TID=70-5
 16	insomma	insomma	ADV	_	_	19	advmod	_	AlignEnd=286.84|Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO140|TID=70-6
 17	non	non	ADV	_	PronType=Neg	19	advmod	_	AlignBegin=287.175|Speaker=BO140|TID=71-0
-18	si	si	PRON	_	Clitic=Yes|Person=3|PronType=Prs	19	expl:impers	_	Clitic=Yes|Speaker=BO140|TID=71-1
+18	si	si	PRON	_	Clitic=Yes|Person=3|PronType=Prs	19	expl:impers	_	Speaker=BO140|TID=71-1
 19	fa	fare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	parataxis	_	Speaker=BO140|TID=71-2
 20	niente	niente	PRON	_	PronType=Ind	19	obj	_	Speaker=BO140|TID=71-3
 21	in	in	ADP	_	_	23	case	_	Speaker=BO140|TID=71-4
@@ -930,14 +930,14 @@
 7	non	non	ADV	_	PronType=Neg	6	advmod	_	Prolonged=Yes|Speaker=BO140|TID=74-6
 8	mh	mh	SCONJ	_	_	11	mark	_	AlignEnd=296.31|Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO140|TID=74-7
 9	non	non	ADV	_	PronType=Neg	11	advmod	_	AlignBegin=297.027|Speaker=BO140|TID=75-0
-10	ci	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	11	expl	_	Clitic=Yes|Speaker=BO140|TID=75-1
+10	ci	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	11	expl	_	Speaker=BO140|TID=75-1
 11	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	Speaker=BO140|TID=75-2
 12	piste	pista	NOUN	_	Gender=Fem|Number=Plur	11	nsubj	_	Speaker=BO140|TID=75-3
 13	ciclabili	ciclabile	ADJ	_	Number=Plur	12	amod	_	Prolonged=Yes|Speaker=BO140|TID=75-4
 14	o	o	CCONJ	_	_	18	cc	_	Prolonged=Yes|Speaker=BO140|TID=75-5
 15	cioè	cioè	CCONJ	_	_	18	cc	_	Speaker=BO140|TID=75-6
 16	non	non	ADV	_	PronType=Neg	18	advmod	_	Speaker=BO140|TID=75-7
-17	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	18	expl	_	Clitic=Yes|SpaceAfter=No|Speaker=BO140|TID=75-8
+17	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	18	expl	_	SpaceAfter=No|Speaker=BO140|TID=75-8
 18	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	Speaker=BO140|TID=75-9
 19	possibilità	possibilità	NOUN	_	Gender=Fem	18	nsubj	_	Speaker=BO140|TID=75-10
 20	di	di	ADP	_	_	21	mark	_	Speaker=BO140|TID=75-11
@@ -994,7 +994,7 @@
 9	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	Speaker=BO140|TID=78-1
 10	comoda	comodo	ADJ	_	Gender=Fem|Number=Sing	4	parataxis	_	Prolonged=Yes|Speaker=BO140|TID=78-2
 11	e	e	CCONJ	_	_	13	cc	_	Prolonged=Yes|Speaker=BO140|TID=78-3
-12	ti	ti	PRON	_	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	13	obj	_	Clitic=Yes|Speaker=BO140|TID=78-4
+12	ti	ti	PRON	_	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	13	obj	_	Speaker=BO140|TID=78-4
 13	sposti	spostare	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	conj	_	Speaker=BO140|TID=78-5
 14	facilmente	facilmente	ADV	_	_	13	advmod	_	AlignEnd=317.83|Intonation=descending|Speaker=BO140|TID=78-6
 
@@ -1015,8 +1015,8 @@
 4	autobus	autobus	NOUN	_	Gender=Masc	9	obl	_	Speaker=BO140|TID=79-9
 5	così	così	ADV	_	_	9	advmod	_	AlignEnd=322.582|Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO140|TID=79-10
 6	eh	eh	INTJ	_	_	9	discourse	_	AlignBegin=322.603|Speaker=BO118|TID=80-0
-7	ce	ce	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	9	expl	_	Clitic=Yes|Speaker=BO118|TID=80-1
-8	li	li	PRON	_	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obj	_	Clitic=Yes|Speaker=BO118|TID=80-2
+7	ce	ce	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	9	expl	_	Speaker=BO118|TID=80-1
+8	li	li	PRON	_	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obj	_	Speaker=BO118|TID=80-2
 9	avete	avere	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO118|TID=80-3
 10	gli	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	Speaker=BO118|TID=80-4
 11	autobus	autobus	NOUN	_	Gender=Masc	9	dislocated	_	AlignEnd=323.913|Intonation=ascending|Overlapping=Yes|Speaker=BO118|TID=80-5
@@ -1024,8 +1024,8 @@
 # sent_id = BOD2018_54
 # text = sì ce ne sono pochi e passano tipo ogni quaranta minuti ogni mezz'ora così quindi in realtà è un po' scomodo spostarsi in autobus
 1	sì	sì	INTJ	_	_	4	discourse	_	AlignBegin=323.625|Overlapping=Yes|Prolonged=Yes|Speaker=BO140|TID=81-0
-2	ce	ce	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	expl	_	Clitic=Yes|Speaker=BO140|TID=81-1
-3	ne	ne	PRON	_	Clitic=Yes|PronType=Prs	4	iobj	_	Clitic=Yes|Speaker=BO140|TID=81-2
+2	ce	ce	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	expl	_	Speaker=BO140|TID=81-1
+3	ne	ne	PRON	_	Clitic=Yes|PronType=Prs	4	iobj	_	Speaker=BO140|TID=81-2
 4	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO140|TID=81-3
 5	pochi	poco	PRON	_	Gender=Masc|Number=Plur|PronType=Ind	4	nsubj	_	Prolonged=Yes|Speaker=BO140|TID=81-4
 6	e	e	CCONJ	_	_	7	cc	_	Speaker=BO140|TID=81-5
@@ -1054,7 +1054,7 @@
 # sent_id = BOD2018_55
 # text = cioè l'ho fatto tante volte anche quand'ero più piccola
 1	cioè	cioè	CCONJ	_	_	4	cc	_	AlignBegin=332.55|Speaker=BO140|TID=82-0
-2	l'	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	Clitic=Yes|SpaceAfter=No|Speaker=BO140|TID=82-1
+2	l'	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	SpaceAfter=No|Speaker=BO140|TID=82-1
 3	ho	avere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	Speaker=BO140|TID=82-2
 4	fatto	fare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Speaker=BO140|TID=82-3
 5	tante	tanto	DET	_	PronType=Ind	6	det	_	Speaker=BO140|TID=82-4
@@ -1076,9 +1076,9 @@
 7	anche	anche	ADV	_	_	13	advmod	_	AlignBegin=338.08|Speaker=BO140|TID=83-0
 8	perché	perché	SCONJ	_	_	13	mark	_	Speaker=BO140|TID=83-1
 9	cioè	cioè	ADV	_	_	11	advmod	_	Speaker=BO140|TID=83-2
-10	mi	mi	PRON	_	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	11	iobj	_	Clitic=Yes|Speaker=BO140|TID=83-3
+10	mi	mi	PRON	_	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	11	iobj	_	Speaker=BO140|TID=83-3
 11	ricordo	ricordare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	advcl	_	Speaker=BO140|TID=83-4
-12	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	13	expl	_	Clitic=Yes|SpaceAfter=No|Speaker=BO140|TID=83-5
+12	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	13	expl	_	SpaceAfter=No|Speaker=BO140|TID=83-5
 13	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	ccomp	_	Speaker=BO140|TID=83-6
 14	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	Speaker=BO140|TID=83-7
 15	periodo	periodo	NOUN	_	Gender=Masc|Number=Sing	13	nsubj	_	Speaker=BO140|TID=83-8
@@ -1106,8 +1106,8 @@
 35	a	a	ADP	_	_	36	case	_	Speaker=BO140|TID=83-26
 36	casa	casa	NOUN	_	Gender=Fem|Number=Sing	34	nmod	_	Speaker=BO140|TID=83-27
 37	non	non	ADV	_	PronType=Neg	42	advmod	_	Speaker=BO140|TID=83-28
-38	ce	ce	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	42	expl	_	Clitic=Yes|Speaker=BO140|TID=83-29
-39	l'	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	42	obj	_	Clitic=Yes|SpaceAfter=No|Speaker=BO140|TID=83-30
+38	ce	ce	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	42	expl	_	Speaker=BO140|TID=83-29
+39	l'	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	42	obj	_	SpaceAfter=No|Speaker=BO140|TID=83-30
 40	avevo	avere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	42	conj	_	Speaker=BO140|TID=83-31
 41	non	non	ADV	_	PronType=Neg	42	advmod	_	Speaker=BO140|TID=83-32
 42	uscivo	uscire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	4	conj	_	Speaker=BO140|TID=83-33
@@ -1179,7 +1179,7 @@
 20	anda'	andare	VERB	_	VerbForm=Inf	24	advcl	_	Speaker=BO118|TID=87-2|Truncated=Yes
 21	a	a	ADP	_	_	22	case	_	Speaker=BO118|TID=87-3
 22	piedi	piede	NOUN	_	Gender=Masc|Number=Plur	20	obl	_	Speaker=BO118|TID=87-4
-23	ci	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	24	expl	_	Clitic=Yes|Speaker=BO118|TID=87-5
+23	ci	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	24	expl	_	Speaker=BO118|TID=87-5
 24	metterei	mettere	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	Speaker=BO118|TID=87-6
 25	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	24	obl	_	Prolonged=Yes|Speaker=BO118|TID=87-7
 26	mezz'	mezzo	ADJ	_	Gender=Fem|Number=Sing	27	amod	_	SpaceAfter=No|Speaker=BO118|TID=87-8
@@ -1211,7 +1211,7 @@
 8	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	Speaker=BO118|TID=89-13
 9	patente	patente	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	Speaker=BO118|TID=89-14
 10	quando	quando	SCONJ	_	_	12	mark	_	Speaker=BO118|TID=89-15
-11	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	12	expl	_	Clitic=Yes|SpaceAfter=No|Speaker=BO118|TID=89-16
+11	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	12	expl	_	SpaceAfter=No|Speaker=BO118|TID=89-16
 12	avevo	avere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	3	advcl	_	Speaker=BO118|TID=89-17
 13	diciotto	diciotto	NUM	_	NumType=Card	14	nummod	_	Overlapping=Yes|Speaker=BO118|TID=89-18
 14	anni	anno	NOUN	_	Gender=Masc|Number=Plur	12	obj	_	AlignEnd=367.18|Intonation=descending|Overlapping=Yes|Speaker=BO118|TID=89-19
@@ -1254,7 +1254,7 @@
 # text = ma perché mi piace essere indipendente mhmh
 1	ma	ma	CCONJ	_	_	4	cc	_	Speaker=BO140|TID=90-24
 2	perché	perché	SCONJ	_	_	4	mark	_	Prolonged=Yes|Speaker=BO140|TID=90-25
-3	mi	mi	PRON	_	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	iobj	_	Clitic=Yes|Speaker=BO140|TID=90-26
+3	mi	mi	PRON	_	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	iobj	_	Speaker=BO140|TID=90-26
 4	piace	piacere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO140|TID=90-27
 5	essere	essere	AUX	_	VerbForm=Inf	6	cop	_	Prolonged=Yes|Speaker=BO140|TID=90-28
 6	indipendente	indipendente	ADJ	_	Number=Sing	4	xcomp	_	AlignEnd=376.38|Intonation=descending|Speaker=BO140|TID=90-29
@@ -1310,7 +1310,7 @@
 # text = no io lo prendevo anche quando nevicava
 1	no	no	INTJ	_	_	4	discourse	_	AlignBegin=388.75|Speaker=BO140|TID=96-0
 2	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Speaker=BO140|TID=96-1
-3	lo	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	Clitic=Yes|Speaker=BO140|TID=96-2
+3	lo	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	Speaker=BO140|TID=96-2
 4	prendevo	prendere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	Speaker=BO140|TID=96-3
 5	anche	anche	ADV	_	_	7	advmod	_	Speaker=BO140|TID=96-4
 6	quando	quando	SCONJ	_	_	7	mark	_	Speaker=BO140|TID=96-5
@@ -1401,7 +1401,7 @@
 10	o	o	CCONJ	_	_	12	cc	_	Speaker=BO140|TID=104-5
 11	a	a	ADP	_	_	12	case	_	Speaker=BO140|TID=104-6
 12	piedi	piede	NOUN	_	Gender=Masc|Number=Plur	9	conj	_	Speaker=BO140|TID=104-7
-13	si	si	PRON	_	Clitic=Yes|Person=3|PronType=Prs	14	expl:impers	_	Clitic=Yes|Speaker=BO140|TID=104-8
+13	si	si	PRON	_	Clitic=Yes|Person=3|PronType=Prs	14	expl:impers	_	Speaker=BO140|TID=104-8
 14	fan	fare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	Speaker=BO140|TID=104-9
 15	tranquillamente	tranquillamente	ADV	_	_	14	advmod	_	Speaker=BO140|TID=104-10
 
@@ -1484,7 +1484,7 @@
 # sent_id = BOD2018_87
 # text = e ci ho vissuto quattro anni in doppia e la casa era bellissima
 1	e	e	CCONJ	_	_	4	cc	_	AlignBegin=436.265|Prolonged=Yes|Speaker=BO140|TID=115-0
-2	ci	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	expl	_	Clitic=Yes|Speaker=BO140|TID=115-1
+2	ci	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	expl	_	Speaker=BO140|TID=115-1
 3	ho	avere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	Speaker=BO140|TID=115-2
 4	vissuto	vivere	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Speaker=BO140|TID=115-3
 5	quattro	quattro	NUM	_	NumType=Card	6	nummod	_	Speaker=BO140|TID=115-4
@@ -1501,7 +1501,7 @@
 # text = quattro anni ci hai vissuto
 1	quattro	quattro	NUM	_	NumType=Card	2	nummod	_	AlignBegin=442.12|Prolonged=Yes|Speaker=BO118|TID=117-0
 2	anni	anno	NOUN	_	Gender=Masc|Number=Plur	5	obl	_	Speaker=BO118|TID=117-1
-3	ci	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	5	iobj	_	Clitic=Yes|Speaker=BO118|TID=117-2
+3	ci	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	5	iobj	_	Speaker=BO118|TID=117-2
 4	hai	avere	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	Speaker=BO118|TID=117-3
 5	vissuto	vivere	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	AlignEnd=443.51|Intonation=ascending|Overlapping=Yes|Speaker=BO118|TID=117-4
 
@@ -1528,13 +1528,13 @@
 6	ero	essere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	8	cop	_	Speaker=BO140|TID=120-3
 7	in	in	ADP	_	_	8	case	_	Speaker=BO140|TID=120-4
 8	doppia	doppio	NOUN	_	Gender=Fem|Number=Sing	12	advcl	_	Prolonged=Yes|Speaker=BO140|TID=120-5
-9	mi	mi	PRON	_	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	12	iobj	_	Clitic=Yes|Speaker=BO140|TID=120-6
+9	mi	mi	PRON	_	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	12	iobj	_	Speaker=BO140|TID=120-6
 10	son	essere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	Speaker=BO140|TID=120-7
 11	sempre	sempre	ADV	_	_	12	advmod	_	Speaker=BO140|TID=120-8
 12	trovata	trovare	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Speaker=BO140|TID=120-9
 13	bene	bene	ADV	_	_	12	advmod	_	Prolonged=Yes|Speaker=BO140|TID=120-10
 14	perché	perché	SCONJ	_	_	16	mark	_	Speaker=BO140|TID=120-11
-15	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	16	expl	_	Clitic=Yes|SpaceAfter=No|Speaker=BO140|TID=120-12
+15	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	16	expl	_	SpaceAfter=No|Speaker=BO140|TID=120-12
 16	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	advcl	_	Prolonged=Yes|Speaker=BO140|TID=120-13
 17	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	Speaker=BO140|TID=120-14
 18	ambiente	ambiente	NOUN	_	Gender=Masc|Number=Sing	16	nsubj	_	Speaker=BO140|TID=120-15
@@ -1565,7 +1565,7 @@
 6	familiare	familiare	ADJ	_	Number=Sing	0	root	_	Prolonged=Yes|Speaker=BO140|TID=122-11
 7	e	e	CCONJ	_	_	10	cc	_	Speaker=BO140|TID=122-12
 8	comunque	comunque	ADV	_	_	10	advmod	_	Speaker=BO140|TID=122-13
-9	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	10	expl	_	Clitic=Yes|SpaceAfter=No|Speaker=BO140|TID=122-14
+9	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	10	expl	_	SpaceAfter=No|Speaker=BO140|TID=122-14
 10	erano	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	6	conj	_	Speaker=BO140|TID=122-15
 11	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	Speaker=BO140|TID=122-16
 12	paio	paio	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	Speaker=BO140|TID=122-17
@@ -1602,13 +1602,13 @@
 # text = e poi c'eran le due camere che si affacciavano sulla saletta e la cucina che eran due doppie e un bagnetto
 1	e	e	CCONJ	_	_	4	cc	_	Speaker=BO140|TID=125-1
 2	poi	poi	ADV	_	_	4	advmod	_	Prolonged=Yes|Speaker=BO140|TID=125-2
-3	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	expl	_	Clitic=Yes|SpaceAfter=No|Speaker=BO140|TID=125-3
+3	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	expl	_	SpaceAfter=No|Speaker=BO140|TID=125-3
 4	eran	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	Speaker=BO140|TID=125-4
 5	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	Speaker=BO140|TID=125-5
 6	due	due	NUM	_	NumType=Card	7	nummod	_	Speaker=BO140|TID=125-6
 7	camere	camera	NOUN	_	Gender=Fem|Number=Plur	4	nsubj	_	Speaker=BO140|TID=125-7
 8	che	che	PRON	_	PronType=Rel	10	nsubj	_	Speaker=BO140|TID=125-8
-9	si	si	PRON	_	Clitic=Yes|Person=3|PronType=Prs	10	expl	_	Clitic=Yes|Speaker=BO140|TID=125-9
+9	si	si	PRON	_	Clitic=Yes|Person=3|PronType=Prs	10	expl	_	Speaker=BO140|TID=125-9
 10	affacciavano	affacciare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	7	acl:relcl	_	Speaker=BO140|TID=125-10
 11-12	sulla	_	_	_	_	_	_	_	Prolonged=Yes|Speaker=BO140|TID=125-11
 11	su	su	ADP	_	_	13	case	_	_
