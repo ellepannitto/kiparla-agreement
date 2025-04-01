@@ -212,7 +212,7 @@
 9	negozi	negozio	NOUN	S	Gender=Masc|Number=Plur	8	nsubj	_	Overlapping=Yes|Speaker=BOI013|TID=34-3
 
 # sent_id = 25
-# text = non ci sono nonc' è niente nessun servizio
+# text = non ci sono non c'è niente nessun servizio
 1	non	non	ADV	BN	PronType=Neg	3	advmod	_	Speaker=BOI013|TID=34-4
 2	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	3	expl	_	Clitic=Yes|Speaker=BOI013|TID=34-5
 3	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Prolonged=Yes|Speaker=BOI013|TID=34-6
@@ -234,7 +234,7 @@
 7	{ride}	{ride}	X	X	_	3	discourse	_	AlignEnd=64.646|Speaker=BOI013|TID=37-0|Type=NLB
 
 # sent_id = 27
-# text = ah beh se avessi la possibilità di far venire dei negozi e i negozianti {ride} equant' altro così chiuderei questa strada e la farei solamente per noi {ride}
+# text = ah beh se avessi la possibilità di far venire dei negozi e i negozianti {ride} e quant'altro così chiuderei questa strada e la farei solamente per noi {ride}
 1	ah	ah	INTJ	I	_	4	discourse	_	AlignBegin=64.739|Speaker=BOI012|TID=38-0
 2	beh	beh	INTJ	I	_	4	discourse	_	Prolonged=Yes|Speaker=BOI012|TID=38-1
 3	se	se	SCONJ	CS	_	4	mark	_	Speaker=BOI012|TID=38-2
@@ -423,7 +423,7 @@
 5	vicinanze	vicinanza	NOUN	S	Gender=Fem|Number=Plur	1	obl	_	Speaker=BOI012|TID=62-1
 
 # sent_id = 46
-# text = ma necessital' automobile comunque
+# text = ma necessita l'automobile comunque
 1	ma	ma	CCONJ	CC	_	2	cc	_	Prolonged=Yes|Speaker=BOI012|TID=62-2
 2	necessita	necessitare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BOI012|TID=62-3
 3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No|Speaker=BOI012|TID=62-4
@@ -548,7 +548,7 @@
 4	auto	auto	NOUN	S	Gender=Fem	0	root	_	Speaker=BOR005|TID=78-2
 
 # sent_id = 59
-# text = com' è spostarsi da qua
+# text = com'è spostarsi da qua
 1	com'	come	ADV	B	_	2	advmod	_	SpaceAfter=No|Speaker=BOR005|TID=78-3
 2	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BOR005|TID=78-4
 3-4	spostarsi	_	_	_	_	_	_	_	PaceSlow=Yes|Speaker=BOR005|TID=78-5
@@ -701,7 +701,7 @@
 4	senso	senso	NOUN	S	Gender=Masc|Number=Sing	0	root	_	Speaker=BOR005|TID=96-4
 
 # sent_id = 74
-# text = in peggio eh in peggio perché non {P} primac' era più sicurezza adesso è meno sicura bologna
+# text = in peggio eh in peggio perché non {P} prima c'era più sicurezza adesso è meno sicura bologna
 1	in	in	ADP	E	_	2	case	_	Speaker=BOR005|TID=96-5
 2	peggio	peggio	ADV	B	_	0	root	_	AlignEnd=175.945|Speaker=BOR005|TID=96-6
 3	eh	eh	INTJ	I	_	2	discourse	_	AlignBegin=175.965|Speaker=BOI013|TID=97-0
@@ -782,7 +782,7 @@
 2	no	no	INTJ	I	_	0	root	_	AlignEnd=195.96|Overlapping=Yes|Speaker=BOI013|TID=104-3
 
 # sent_id = 81
-# text = ma e dopo due anni di covid non è che tutti vannoall' este~
+# text = ma e dopo due anni di covid non è che tutti vanno all'este~
 1	ma	ma	CCONJ	CC	_	9	cc	_	AlignBegin=195.34|Overlapping=Yes|Prolonged=Yes|Speaker=BOI012|TID=105-0
 2	e	e	CCONJ	CC	_	9	cc	_	Overlapping=Yes|Speaker=BOI012|TID=105-1
 3	dopo	dopo	ADP	E	_	5	case	_	Overlapping=Yes|Speaker=BOI012|TID=105-2
@@ -801,7 +801,7 @@
 15	este~	este~	PROPN	SP	_	12	obl	_	Interrupted=Yes|PaceFast=Yes|Speaker=BOI012|TID=105-13
 
 # sent_id = 82
-# text = e la gente che esce cioè gina mh ma nonc' entra u covid
+# text = e la gente che esce cioè gina mh ma non c'entra u covid
 # tags = ?
 1	e	e	CCONJ	CC	_	3	cc	_	Speaker=BOI012|TID=105-14
 2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	Speaker=BOI012|TID=105-15
@@ -826,7 +826,7 @@
 4	centra	centrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignEnd=202.11|Overlapping=Yes|Speaker=BOI013|TID=109-1
 
 # sent_id = 84
-# text = ah centra {P}c' entra
+# text = ah centra {P} c'entra
 1	ah	ah	INTJ	I	_	5	discourse	_	AlignBegin=201.21|Overlapping=Yes|Speaker=BOI012|TID=110-0
 2	centra	centrare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	vocative	_	Overlapping=Yes|Speaker=BOI012|TID=110-1
 3	{P}	{p}	SYM	SYM	_	2	discourse	_	Overlapping=Yes|Speaker=BOI012|TID=110-2|Type=shortpause
@@ -894,7 +894,7 @@
 8	centrale	centrale	ADJ	A	Number=Sing	7	amod	_	AlignEnd=212.995|Intonation=weakly_ascending|Speaker=BOI013|TID=119-4
 
 # sent_id = 91
-# text = x {P} traffico magaric' è più traffico
+# text = x {P} traffico magari c'è più traffico
 1	x	per	ADP	E	_	2	case	_	AlignBegin=213|Speaker=BOI012|TID=120-0|Type=unknown
 2	{P}	{p}	SYM	SYM	_	6	obl	_	Speaker=BOI012|TID=120-1|Type=shortpause
 3	traffico	traffico	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	Intonation=weakly_ascending|Speaker=BOI012|TID=120-2
@@ -1022,7 +1022,7 @@
 8	sta~	sta~	INTJ	I	_	7	discourse	_	Interrupted=Yes|Overlapping=Yes|Speaker=BOI012|TID=136-7
 
 # sent_id = 102
-# text = ma quando ci vai eh quando sei stata ercolel' ultima volta in centro
+# text = ma quando ci vai eh quando sei stata ercole l'ultima volta in centro
 1	ma	ma	CCONJ	CC	_	4	cc	_	Overlapping=Yes|Speaker=BOI012|TID=136-8
 2	quando	quando	ADV	B	_	4	advmod	_	Speaker=BOI012|TID=136-9
 3	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	expl	_	Clitic=Yes|Speaker=BOI012|TID=136-10
@@ -1090,7 +1090,7 @@
 12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	nmod	_	_
 13-14	all'	_	_	_	_	_	_	_	SpaceAfter=No|Speaker=BOI013|TID=145-8
 13	a	a	ADP	E	_	15	case	_	_
-14	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	15	det	_	SpaceAfter=No
+14	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	15	det	_	_
 15	autostazione	autostazione	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	AlignEnd=258.019|Intonation=weakly_ascending|Speaker=BOI013|TID=145-9
 16	mh	mh	INTJ	I	_	3	discourse	_	AlignEnd=258.505|Overlapping=Yes|Speaker=BOI012|TID=146-0
 17	che	che	SCONJ	CS	_	19	mark	_	AlignEnd=258.76|Overlapping=Yes|Prolonged=Yes|Speaker=BOI013|TID=147-0
@@ -1149,7 +1149,7 @@
 21	corriera	corriera	NOUN	S	Gender=Fem|Number=Sing	19	obj	_	Intonation=weakly_ascending|Speaker=BOI013|TID=154-3
 
 # sent_id = 109
-# text = l' autostazione è piena piena piena
+# text = l'autostazione è piena piena piena
 1	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No|Speaker=BOI013|TID=154-4
 2	autostazione	autostazione	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	AlignEnd=273.9|Intonation=weakly_ascending|Speaker=BOI013|TID=154-5
 3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	AlignBegin=274.05|Speaker=BOI013|TID=155-0
@@ -1212,7 +1212,7 @@
 15	stazione	stazione	NOUN	S	Gender=Fem|Number=Sing	11	conj	_	PaceFast=Yes|Speaker=BOI013|TID=159-3
 
 # sent_id = 113
-# text = l' autostazione ci sono determinati punti che più che uno ha paural' autostazione via amendola via petramellara cioè cioè non è che io sto mu~ in mummia in casa
+# text = l'autostazione ci sono determinati punti che più che uno ha paura l'autostazione via amendola via petramellara cioè cioè non è che io sto mu~ in mummia in casa
 1	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No|Speaker=BOI013|TID=159-4
 2	autostazione	autostazione	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	Intonation=weakly_ascending|Speaker=BOI013|TID=159-5
 3	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	expl	_	Clitic=Yes|Speaker=BOI013|TID=159-6
@@ -1270,7 +1270,7 @@
 21	spaccio	spaccio	NOUN	S	Gender=Masc|Number=Sing	18	obl	_	Speaker=BOI013|TID=170-5
 
 # sent_id = 115
-# text = ma anche qui in piazzadell' unità sai quante volte mh vediamo bottigliate mh di persone che se le danno in testa cioè oh tu non le noti queste cose
+# text = ma anche qui in piazza dell'unità sai quante volte mh vediamo bottigliate mh di persone che se le danno in testa cioè oh tu non le noti queste cose
 1	ma	ma	CCONJ	CC	_	9	cc	_	Speaker=BOI013|TID=170-6
 2	anche	anche	ADV	B	_	3	advmod	_	Speaker=BOI013|TID=170-7
 3	qui	qui	ADV	B	_	9	advmod	_	Speaker=BOI013|TID=170-8
@@ -1313,7 +1313,7 @@
 5	lavorare	lavorare	VERB	V	VerbForm=Inf	3	ccomp	_	Overlapping=Yes|Prolonged=Yes|Speaker=BOI013|TID=178-4
 
 # sent_id = 117
-# text = lui nonc' è di mattina mh no
+# text = lui non c'è di mattina mh no
 1	lui	lui	PRON	PE	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Overlapping=Yes|Speaker=BOI013|TID=178-5
 2	non	non	ADV	BN	PronType=Neg	4	advmod	_	Overlapping=Yes|Speaker=BOI013|TID=178-6
 3	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	expl	_	Clitic=Yes|Overlapping=Yes|SpaceAfter=No|Speaker=BOI013|TID=178-7
@@ -1324,7 +1324,7 @@
 8	no	no	INTJ	I	_	4	discourse	_	Overlapping=Yes|Speaker=BOI012|TID=179-1
 
 # sent_id = 118
-# text = onestamente no mh quando vado in giro che mi capita di andare in centro non è che vedo della gente chec' è in giro che si fa i fatti loro cioè tutti sti spacciatori non li noto cioè non
+# text = onestamente no mh quando vado in giro che mi capita di andare in centro non è che vedo della gente che c'è in giro che si fa i fatti loro cioè tutti sti spacciatori non li noto cioè non
 1	onestamente	onestamente	ADV	B	_	16	advmod	_	Overlapping=Yes|Speaker=BOI012|TID=179-2
 2	no	no	INTJ	I	_	16	discourse	_	AlignEnd=325.365|Overlapping=Yes|Speaker=BOI012|TID=179-3
 3	mh	mh	INTJ	I	_	16	discourse	_	AlignEnd=326.183|Speaker=BOR005|TID=180-0
@@ -1369,7 +1369,7 @@
 41	non	non	ADV	BN	PronType=Neg	39	advmod	_	AlignEnd=337.035|Speaker=BOI012|TID=185-7
 
 # sent_id = 119
-# text = quindi per te nonc' è stato un peggioramento
+# text = quindi per te non c'è stato un peggioramento
 1	quindi	quindi	ADV	B	_	7	advmod	_	AlignBegin=338.185|Speaker=BOR005|TID=186-0
 2	per	per	ADP	E	_	3	case	_	Speaker=BOR005|TID=186-1
 3	te	te	PRON	PE	Number=Sing|Person=2|PronType=Prs	7	obl	_	Speaker=BOR005|TID=186-2
@@ -1514,7 +1514,7 @@
 12	incontri	incontro	NOUN	S	Gender=Masc|Number=Plur	6	nmod	_	AlignEnd=368.985|Overlapping=Yes|Speaker=BOI013|TID=203-3
 
 # sent_id = 132
-# text = beh {P} ma èl' idea gina ma sempre èl' ambiente
+# text = beh {P} ma è l'idea gina ma sempre è l'ambiente
 1	beh	beh	INTJ	I	_	6	discourse	_	AlignBegin=368.59|Overlapping=Yes|Speaker=BOI012|TID=204-0
 2	{P}	{p}	SYM	SYM	_	6	discourse	_	Overlapping=Yes|Speaker=BOI012|TID=204-1|Type=shortpause
 3	ma	ma	CCONJ	CC	_	6	cc	_	Prolonged=Yes|Speaker=BOI012|TID=204-2
@@ -1692,7 +1692,7 @@
 5	tanto	tanto	ADV	B	_	3	advmod	_	Speaker=BOI012|TID=228-4
 
 # sent_id = 148
-# text = insomma è un bel comune abbastanza grandinoc' avrà non so quarantacinque cinquantamila abitanti
+# text = insomma è un bel comune abbastanza grandino c'avrà non so quarantacinque cinquantamila abitanti
 1	insomma	insomma	ADV	B	_	5	advmod	_	AlignEnd=406.945|Prolonged=Yes|Speaker=BOI012|TID=228-5
 2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	AlignBegin=407.11|Speaker=BOI012|TID=229-0
 3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Speaker=BOI012|TID=229-1
@@ -1835,7 +1835,7 @@
 17	x	per	X	X	_	6	discourse	_	AlignEnd=441.185|Overlapping=Yes|Speaker=BOI013|TID=247-0|Type=unknown
 
 # sent_id = 158
-# text = ma al mhun' idea in generale che potreste avere
+# text = ma al mh un'idea in generale che potreste avere
 1	ma	ma	CCONJ	CC	_	6	cc	_	AlignEnd=443.725|Speaker=BOR005|TID=248-0
 2-3	al	_	_	_	_	_	_	_	AlignBegin=444.075|Speaker=BOR005|TID=249-0
 2	a	a	ADP	E	_	4	case	_	_
@@ -1909,7 +1909,7 @@
 22	gruppi	gruppo	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	Intonation=weakly_ascending|Speaker=BOI013|TID=257-2
 
 # sent_id = 162
-# text = prima anchel' ultimodell' anno te lo facevi in piazza maggiore
+# text = prima anche l'ultimo dell'anno te lo facevi in piazza maggiore
 1	prima	prima	ADV	B	_	10	advmod	_	AlignEnd=466.415|Prolonged=Yes|Speaker=BOI013|TID=257-3
 2	anche	anche	ADV	B	_	4	advmod	_	AlignBegin=467.145|Speaker=BOI013|TID=258-0
 3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No|Speaker=BOI013|TID=258-1
@@ -1940,7 +1940,7 @@
 4	ultimo	ultimo	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	Speaker=BOI013|TID=260-2
 5-6	dell'	_	_	_	_	_	_	_	SpaceAfter=No|Speaker=BOI013|TID=260-3
 5	di	di	ADP	E	_	7	case	_	_
-6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	_
 7	anno	anno	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	Speaker=BOI013|TID=260-4
 8	in	in	ADP	E	_	9	case	_	Speaker=BOI013|TID=260-5
 9	piazza	piazza	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	Speaker=BOI013|TID=260-6
@@ -1965,7 +1965,7 @@
 4	ve	ve	PRON	PC	_	3	iobj	_	AlignEnd=479.61|Clitic=Yes|Speaker=BOI013|TID=263-3
 
 # sent_id = 167
-# text = ah gina cioè io non c~ non son mai andatoall' ultimodell' anno in piazza maggiore
+# text = ah gina cioè io non c~ non son mai andato all'ultimo dell'anno in piazza maggiore
 1	ah	ah	INTJ	I	_	10	discourse	_	AlignBegin=480.36|Prolonged=Yes|Speaker=BOI012|TID=264-0
 2	gina	gina	INTJ	I	_	10	discourse	_	Speaker=BOI012|TID=264-1
 3	cioè	cioè	CCONJ	CC	_	10	cc	_	Speaker=BOI012|TID=264-2
@@ -2007,7 +2007,7 @@
 14	{P}	{p}	SYM	SYM	_	3	discourse	_	Overlapping=Yes|Speaker=BOI012|TID=267-4|Type=shortpause
 
 # sent_id = 169
-# text = perché prima non si andaval' ultimodell' anno in piazza maggiore
+# text = perché prima non si andava l'ultimo dell'anno in piazza maggiore
 1	perché	perché	SCONJ	CS	_	5	mark	_	Overlapping=Yes|PaceFast=Yes|Speaker=BOI012|TID=267-5
 2	prima	prima	ADV	B	_	5	advmod	_	Overlapping=Yes|PaceFast=Yes|Speaker=BOI012|TID=267-6
 3	non	non	ADV	BN	PronType=Neg	5	advmod	_	Speaker=BOI012|TID=267-7
@@ -2030,7 +2030,7 @@
 3	eh	eh	INTJ	I	_	2	discourse	_	AlignEnd=488.895|Overlapping=Yes|Speaker=BOI013|TID=268-2
 
 # sent_id = 171
-# text = ecom' eral' ultimo che ci siamo andati
+# text = e com'era l'ultimo che ci siamo andati
 1	e	e	CCONJ	CC	_	5	cc	_	AlignBegin=491.25|Overlapping=Yes|Speaker=BOI013|TID=269-0
 2	com'	come	ADV	B	_	5	advmod	_	Overlapping=Yes|SpaceAfter=No|Speaker=BOI013|TID=269-1
 3	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	Speaker=BOI013|TID=269-2
@@ -2042,7 +2042,7 @@
 9	andati	andare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	5	acl:relcl	_	AlignEnd=493.06|Speaker=BOI013|TID=269-8
 
 # sent_id = 172
-# text = mac' era una gran confusione
+# text = ma c'era una gran confusione
 1	ma	ma	CCONJ	CC	_	3	cc	_	AlignBegin=493.585|Speaker=BOI012|TID=270-0
 2	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	3	expl	_	Clitic=Yes|SpaceAfter=No|Speaker=BOI012|TID=270-1
 3	era	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	Speaker=BOI012|TID=270-2
@@ -2067,7 +2067,7 @@
 5	bruciate	bruciato	ADJ	A	Gender=Fem|Number=Plur	4	amod	_	Intonation=weakly_ascending|Speaker=BOI013|TID=273-1
 
 # sent_id = 175
-# text = questo in viasant' isaia te lo ricordi
+# text = questo in via sant'isaia te lo ricordi
 1	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	8	nsubj	_	Prolonged=Yes|Speaker=BOI013|TID=273-2
 2	in	in	ADP	E	_	3	case	_	Speaker=BOI013|TID=273-3
 3	via	via	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	Speaker=BOI013|TID=273-4
@@ -2104,7 +2104,7 @@
 10	paura	paura	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	AlignEnd=509.915|Intonation=weakly_ascending|Speaker=BOI013|TID=275-9
 
 # sent_id = 178
-# text = ahc' era una macchina bruciata
+# text = ah c'era una macchina bruciata
 1	ah	ah	INTJ	I	_	3	discourse	_	AlignBegin=511.06|Speaker=BOR005|TID=276-0
 2	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	3	expl	_	Clitic=Yes|SpaceAfter=No|Speaker=BOR005|TID=276-1
 3	era	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	Speaker=BOR005|TID=276-2
@@ -2187,7 +2187,7 @@
 12	qualcosa	qualcosa	PRON	PI	PronType=Ind	8	nmod	_	AlignBegin=538.605|Speaker=BOR005|TID=285-0
 
 # sent_id = 183
-# text = un' esperienza che vi ricordate che vi è accaduta legata i portici
+# text = un'esperienza che vi ricordate che vi è accaduta legata i portici
 1	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No|Speaker=BOR005|TID=285-1
 2	esperienza	esperienza	NOUN	S	Gender=Fem|Number=Sing	0	root	_	AlignEnd=540.305|Prolonged=Yes|Speaker=BOR005|TID=285-2
 3	che	che	PRON	PR	PronType=Rel	5	nsubj	_	AlignBegin=540.605|Speaker=BOR005|TID=286-0
@@ -2323,7 +2323,7 @@
 7	pela	pela	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	Prolonged=Yes|Speaker=BOI013|TID=304-3
 
 # sent_id = 194
-# text = il centro nonc' ho fatto caso
+# text = il centro non c'ho fatto caso
 1	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Speaker=BOI013|TID=304-4
 2	centro	centro	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	AlignEnd=574.46|Prolonged=Yes|Speaker=BOI013|TID=304-5
 3	non	non	ADV	BN	PronType=Neg	6	advmod	_	AlignBegin=572.25|Overlapping=Yes|Speaker=BOI012|TID=305-0
